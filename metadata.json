@@ -1,0 +1,186 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-02-28",
+  "books": [
+    {
+      "id": 801,
+      "title": {
+        "en": "The Legend of Lac Long Quan and Au Co",
+        "ko": "락롱꽌과 아우꺼",
+        "tet": "Lenda kona-ba Lac Long Quan no Au Co"
+      },
+      "cover": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/801/cover_801_en.jpg",
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/801/cover_801_kr.jpg",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/801/cover_801_tet.jpg"
+      },
+      "download": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/801/801_en-ph.json",
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/801/801_ko-kr.json",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/801/801_tetum.json"
+      },
+      "images": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/801/801_images.zip",
+      "languages": ["en", "ko", "tet"]
+    },
+    {
+      "id": 802,
+      "title": {
+        "en": "Hoang Nhan's Day",
+        "ko": "황냔의 하루",
+        "tet": "Loron Hoang Nhan nian"
+      },
+      "cover": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/802/cover_802_en.jpg",
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/802/cover_802_kr.jpg",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/802/cover_802_tet.jpg"
+      },
+      "download": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/802/802_en-ph.json",
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/802/802_ko-kr.json",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/802/802_tetum.json"
+      },
+      "images": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/802/802_images.zip",
+      "languages": ["en", "ko", "tet"]
+    },
+    {
+      "id": 806,
+      "title": {
+        "en": "Chinese Dumpling Story",
+        "ko": "중국 만두 이야기",
+        "tet": "Istória kona-ba Dumpling Xines"
+      },
+      "cover": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/806/cover_806_en.jpg",
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/806/cover_806_kr.jpg",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/806/cover_806_tet.jpg"
+      },
+      "download": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/806/806_en-ph.json",
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/806/806_ko-kr.json",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/806/806_tetum.json"
+      },
+      "images": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/806/806_images.zip",
+      "languages": ["en", "ko", "tet"]
+    },
+    {
+      "id": 807,
+      "title": {
+        "en": "The Legend of the White Snake",
+        "ko": "백사전: 중국의 하얀 뱀 전설",
+        "tet": "Lenda kona-ba Seda Mutin"
+      },
+      "cover": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/807/cover_807_en.jpg",
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/807/cover_807_kr.jpg",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/807/cover_807_tet.jpg"
+      },
+      "download": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/807/807_en-ph.json",
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/807/807_ko-kr.json",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/807/807_tetum.json"
+      },
+      "images": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/807/807_images.zip",
+      "languages": ["en", "ko", "tet"]
+    },
+    {
+      "id": 810,
+      "title": {
+        "en": "Houyi and Chang'e",
+        "ko": "후예와 항아",
+        "tet": "Houyi no Chang'e"
+      },
+      "cover": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/810/cover_810_en.jpg",
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/810/cover_810_kr.jpg",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/810/cover_810_tet.jpg"
+      },
+      "download": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/810/810_en-ph.json",
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/810/810_ko-kr.json",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/810/810_tetum.json"
+      },
+      "images": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/810/810_images.zip",
+      "languages": ["en", "ko", "tet"]
+    },
+    {
+      "id": 816,
+      "title": {
+        "en": "Only in the Philippines: Did you know?",
+        "ko": "필리핀에 대한 아홉 가지 사실",
+        "tet": "De'it iha Filipinas: Ita hatene ka lae?"
+      },
+      "cover": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/816/cover_816_en.jpg",
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/816/cover_816_kr.jpg",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/816/cover_816_tet.jpg"
+      },
+      "download": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/816/816_en-ph.json",
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/816/816_ko-kr.json",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/816/816_tetum.json"
+      },
+      "images": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/816/816_images.zip",
+      "languages": ["en", "ko", "tet"]
+    },
+    {
+      "id": 817,
+      "title": {
+        "en": "The Story of the Golden Goby Fish",
+        "ko": "금빛 물고기 이야기",
+        "tet": "Istória kona-ba ikan Goby Golden"
+      },
+      "cover": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/817/cover_817_en.jpg",
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/817/cover_817_kr.jpg",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/817/cover_817_tet.jpg"
+      },
+      "download": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/817/817_en-ph.json",
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/817/817_ko-kr.json",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/817/817_tetum.json"
+      },
+      "images": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/817/817_images.zip",
+      "languages": ["en", "ko", "tet"]
+    },
+    {
+      "id": 819,
+      "title": {
+        "en": "Loi Krathong, the Festival of Lights",
+        "ko": "빛의 축제 러이끄라통",
+        "tet": "Loi Krathong, Festival Naroman"
+      },
+      "cover": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/819/cover_819_en.jpg",
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/819/cover_819_kr.jpg",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/819/cover_819_tet.jpg"
+      },
+      "download": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/819/819_en-ph.json",
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/819/819_ko-kr.json",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/819/819_tetum.json"
+      },
+      "images": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/819/819_images.zip",
+      "languages": ["en", "ko", "tet"]
+    },
+    {
+      "id": 821,
+      "title": {
+        "en": "The Chick Stars",
+        "ko": "병아리 별",
+        "tet": "Estrela Manu Ki'ik"
+      },
+      "cover": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/821/cover_821_en.jpg",
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/821/cover_821_kr.jpg",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/821/cover_821_tet.jpg"
+      },
+      "download": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/821/821_en-ph.json",
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/821/821_ko-kr.json",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/821/821_tetum.json"
+      },
+      "images": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/821/821_images.zip",
+      "languages": ["en", "ko", "tet"]
+    }
+  ]
+}
