@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "lastUpdated": "2025-02-28",
+  "version": "1.0.1",
+  "lastUpdated": "2025-04-23",
   "books": [
     {
       "id": 801,
@@ -100,6 +100,26 @@
         "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/810/810_tetum.json"
       },
       "images": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/810/810_images.zip",
+      "languages": ["en", "ko", "tet"]
+    },
+    {
+      "id": 813,
+      "title": {
+        "en": "Amihan's 7th Birthday",
+        "ko": "아미한의 일곱 번째 생일",
+        "tet": "Aniversáriu tinan 7 Amihan nian"
+      },
+      "cover": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/813/cover_813_en.jpg",
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/813/cover_813_kr.jpg",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/813/cover_813_tet.jpg"
+      },
+      "download": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/813/813_en-ph.json",
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/813/813_ko-kr.json",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/813/813_tetum.json"
+      },
+      "images": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/813/813_images.zip",
       "languages": ["en", "ko", "tet"]
     },
     {
