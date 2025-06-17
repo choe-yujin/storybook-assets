@@ -1,9 +1,10 @@
 {
-  "version": "1.1.0",
-  "lastUpdated": "2025-04-30",
+  "version": "1.2.0",
+  "lastUpdated": "2025-06-17",
   "books": [
     {
       "id": 801,
+      "level": 2,
       "title": {
         "en": "The Legend of Lac Long Quan and Au Co",
         "ko": "락롱꽌과 아우꺼",
@@ -25,6 +26,7 @@
     },
     {
       "id": 802,
+      "level": 3,
       "title": {
         "en": "Hoang Nhan's Day",
         "ko": "황냔의 하루",
@@ -46,6 +48,7 @@
     },
     {
       "id": 806,
+      "level": 2,
       "title": {
         "en": "Chinese Dumpling Story",
         "ko": "중국 만두 이야기",
@@ -67,6 +70,7 @@
     },
     {
       "id": 807,
+      "level": 3,
       "title": {
         "en": "The Legend of the White Snake",
         "ko": "백사전: 중국의 하얀 뱀 전설",
@@ -88,6 +92,7 @@
     },
     {
       "id": 810,
+      "level": 2,
       "title": {
         "en": "Houyi and Chang'e",
         "ko": "후예와 항아",
@@ -109,6 +114,7 @@
     },
     {
       "id": 813,
+      "level": 2,
       "title": {
         "en": "Amihan's 7th Birthday",
         "ko": "아미한의 일곱 번째 생일",
@@ -130,6 +136,7 @@
     },
     {
       "id": 816,
+      "level": 2,
       "title": {
         "en": "Only in the Philippines: Did you know?",
         "ko": "필리핀에 대한 아홉 가지 사실",
@@ -151,6 +158,7 @@
     },
     {
       "id": 817,
+      "level": 3,
       "title": {
         "en": "The Story of the Golden Goby Fish",
         "ko": "금빛 물고기 이야기",
@@ -172,6 +180,7 @@
     },
     {
       "id": 819,
+      "level": 2,
       "title": {
         "en": "Loi Krathong, the Festival of Lights",
         "ko": "빛의 축제 러이끄라통",
@@ -193,6 +202,7 @@
     },
     {
       "id": 821,
+      "level": 2,
       "title": {
         "en": "The Chick Stars",
         "ko": "병아리 별",
@@ -211,6 +221,63 @@
       "images": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/821/821_images.zip",
       "languages": ["en", "ko", "tet"],
       "category": "Folktale"
+    },
+    {
+      "id": 601,
+      "level": 1,
+      "title": {
+        "ko": "물을 아껴써요",
+        "tet": "Kuidadu Bee"
+      },
+      "cover": {
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/601/cover_601_kr.jpg",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/601/cover_601_tet.jpg"
+      },
+      "download": {
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/601/601_ko-kr.json",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/601/601_tetum.json"
+      },
+      "images": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/601/601_images.zip",
+      "languages": ["ko", "tet"],
+      "category": "Life"
+    },
+    {
+      "id": 602,
+      "level": 1,
+      "title": {
+        "ko": "다양한 씨앗들의 노래",
+        "tet": "Hananu Fini Oin-Oin"
+      },
+      "cover": {
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/602/cover_602_kr.jpg",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/602/cover_602_tet.jpg"
+      },
+      "download": {
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/602/602_ko-kr.json",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/602/602_tetum.json"
+      },
+      "images": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/602/602_images.zip",
+      "languages": ["ko", "tet"],
+      "category": "Life"
+    },
+    {
+      "id": 603,
+      "level": 1,
+      "title": {
+        "ko": "깨끗한 우리 마을",
+        "tet": "Ami Nia Hela Fatin Moos"
+      },
+      "cover": {
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/603/cover_603_kr.jpg",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/603/cover_603_tet.jpg"
+      },
+      "download": {
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/603/603_ko-kr.json",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/603/603_tetum.json"
+      },
+      "images": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/603/603_images.zip",
+      "languages": ["ko", "tet"],
+      "category": "Life"
     }
   ]
 }
