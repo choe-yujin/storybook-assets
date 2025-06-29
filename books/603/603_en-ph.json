@@ -1,0 +1,54 @@
+{
+  "storyId": "603_en-ph",
+  "pages": [
+    {
+      "pageNumber": 0,
+      "texts": ["Our Clean Village"]
+    },
+    {
+      "pageNumber": 1,
+      "texts": ["Good morning!"]
+    },
+    {
+      "pageNumber": 2,
+      "texts": ["There is a lot of trash on the street."]
+    },
+    {
+      "pageNumber": 3,
+      "texts": ["Let's clean up together!"]
+    },
+    {
+      "pageNumber": 4,
+      "texts": ["Throw trash in the trash can."]
+    },
+    {
+      "pageNumber": 5,
+      "texts": ["Let's clean our school, too."]
+    },
+    {
+      "pageNumber": 6,
+      "texts": ["Some trash should be collected together."]
+    },
+    {
+      "pageNumber": 7,
+      "texts": ["Plastic trash should be put in a separate bin."]
+    },
+    {
+      "pageNumber": 8,
+      "texts": ["Food waste should also be separated."]
+    },
+    {
+      "pageNumber": 9,
+      "texts": ["Do not throw trash anywhere you want."]
+    },
+    {
+      "pageNumber": 10,
+      "texts": ["A clean neighborhood, a happy life."]
+    },
+    {
+      "pageNumber": 11,
+      "texts": ["Let's take care of our environment."]
+    }
+  ],
+  "title": "603 En-ph"
+}

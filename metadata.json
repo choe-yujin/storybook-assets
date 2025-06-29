@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "lastUpdated": "2025-06-17",
+  "version": "1.2.1",
+  "lastUpdated": "2025-06-29",
   "books": [
     {
       "id": 801,
@@ -226,57 +226,88 @@
       "id": 601,
       "level": 1,
       "title": {
+        "en": "Let's Save Water",
         "ko": "물을 아껴써요",
         "tet": "Kuidadu Bee"
       },
       "cover": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/601/cover_601_en.jpg",
         "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/601/cover_601_kr.jpg",
         "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/601/cover_601_tet.jpg"
       },
       "download": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/601/601_en-ph.json",
         "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/601/601_ko-kr.json",
         "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/601/601_tetum.json"
       },
       "images": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/601/601_images.zip",
-      "languages": ["ko", "tet"],
+      "languages": ["en", "ko", "tet"],
       "category": "Life"
     },
     {
       "id": 602,
       "level": 1,
       "title": {
+        "en": "The Song of Many Seeds",
         "ko": "다양한 씨앗들의 노래",
         "tet": "Hananu Fini Oin-Oin"
       },
       "cover": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/602/cover_602_en.jpg",
         "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/602/cover_602_kr.jpg",
         "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/602/cover_602_tet.jpg"
       },
       "download": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/602/602_en-ph.json",
         "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/602/602_ko-kr.json",
         "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/602/602_tetum.json"
       },
       "images": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/602/602_images.zip",
-      "languages": ["ko", "tet"],
+      "languages": ["en", "ko", "tet"],
       "category": "Life"
     },
     {
       "id": 603,
       "level": 1,
       "title": {
+        "en": "Our Clean Village",
         "ko": "깨끗한 우리 마을",
         "tet": "Ami Nia Hela Fatin Moos"
       },
       "cover": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/603/cover_603_en.jpg",
         "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/603/cover_603_kr.jpg",
         "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/603/cover_603_tet.jpg"
       },
       "download": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/603/603_en-ph.json",
         "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/603/603_ko-kr.json",
         "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/603/603_tetum.json"
       },
       "images": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/603/603_images.zip",
-      "languages": ["ko", "tet"],
+      "languages": ["en", "ko", "tet"],
+      "category": "Life"
+    },
+    {
+      "id": 604,
+      "level": 1,
+      "title": {
+        "en": "A day of the Sun",
+        "ko": "햇님의 하루",
+        "tet": "Loron Loro nian"
+      },
+      "cover": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/604/cover_604_en.jpg",
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/604/cover_604_kr.jpg",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/604/cover_604_tet.jpg"
+      },
+      "download": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/604/604_en-ph.json",
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/604/604_ko-kr.json",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/604/604_tetum.json"
+      },
+      "images": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/604/604_images.zip",
+      "languages": ["en", "ko", "tet"],
       "category": "Life"
     }
   ]
