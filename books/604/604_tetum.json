@@ -1,0 +1,75 @@
+{
+  "storyId": "604_tetum",
+  "pages": [
+    {
+      "pageNumber": 0,
+      "texts": ["Loron Loro nian"]
+    },
+    {
+      "pageNumber": 1,
+      "texts": [
+        "[Pinta nain]",
+        "Labarik sira iha Wini Bruma",
+        "Patroina",
+        "Joel",
+        "Noel",
+        "Bernadete",
+        "Jenil",
+        "Narlia",
+        "Monica cessy",
+        "Berta pinto",
+        "Teodoru",
+        "Vidal",
+        "Lindalva",
+        "Adilton",
+        "",
+        "No Mestra Yuni"
+      ]
+    },
+    {
+      "pageNumber": 2,
+      "texts": ["Bondia, hau mak Loro."]
+    },
+    {
+      "pageNumber": 3,
+      "texts": ["Hau hahú loron liuhusi tasi."]
+    },
+    {
+      "pageNumber": 4,
+      "texts": ["Hau hamriik iha ai leten, liuhusi tasi."]
+    },
+    {
+      "pageNumber": 5,
+      "texts": ["Tanba hau, fini sira moris."]
+    },
+    {
+      "pageNumber": 6,
+      "texts": ["Sira moris no dala ruma sai ai-funan."]
+    },
+    {
+      "pageNumber": 7,
+      "texts": ["No dala ruma sai ai-hun."]
+    },
+    {
+      "pageNumber": 8,
+      "texts": ["Nunee, ai-hun no ai-funan barak tanba hau."]
+    },
+    {
+      "pageNumber": 9,
+      "texts": ["Hau mós bele liu foho."]
+    },
+    {
+      "pageNumber": 10,
+      "texts": ["Hau fó naroman ba parke sira neebé ema iha."]
+    },
+    {
+      "pageNumber": 11,
+      "texts": ["Ikan sira neebé hela iha bee mós presiza hau."]
+    },
+    {
+      "pageNumber": 12,
+      "texts": ["Wainhira loron hotu hanesan nee, hau fila fali ba tasi okos, ate aban."]
+    }
+  ],
+  "title": "604 Tetum"
+}
