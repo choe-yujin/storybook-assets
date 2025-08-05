@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
-  "lastUpdated": "2025-06-29",
+  "version": "1.2.2",
+  "lastUpdated": "2025-08-05",
   "books": [
     {
       "id": 801,
@@ -307,6 +307,28 @@
         "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/604/604_tetum.json"
       },
       "images": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/604/604_images.zip",
+      "languages": ["en", "ko", "tet"],
+      "category": "Life"
+    },
+    {
+      "id": 605,
+      "level": 1,
+      "title": {
+        "en": "Lele's Ocean Journey",
+        "ko": "레레의 바다 여행",
+        "tet": "Viajen Lele nian iha Tasi"
+      },
+      "cover": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/605/cover_605_en.jpg",
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/605/cover_605_kr.jpg",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/605/cover_605_tet.jpg"
+      },
+      "download": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/605/605_en-ph.json",
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/605/605_ko-kr.json",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/605/605_tetum.json"
+      },
+      "images": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/605/605_images.zip",
       "languages": ["en", "ko", "tet"],
       "category": "Life"
     }
