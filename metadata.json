@@ -331,6 +331,28 @@
       "images": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/605/605_images.zip",
       "languages": ["en", "ko", "tet"],
       "category": "Life"
+      },
+      {
+      "id": 606,
+      "level": 1,
+      "title": {
+        "en": "Toko's Sparkling Idea Box",
+        "ko": "토코의 반짝이는 아이디어 상자",
+        "tet": "Caixa Ideia Toko nian ne'ebé Nabilan"
+      },
+      "cover": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/606/cover_606_en.jpg",
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/606/cover_606_kr.jpg",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/606/cover_606_tet.jpg"
+      },
+      "download": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/606/606_en-ph.json",
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/606/606_ko-kr.json",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/606/606_tetum.json"
+      },
+      "images": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/606/606_images.zip",
+      "languages": ["en", "ko", "tet"],
+      "category": "Life"
     }
   ]
 }
