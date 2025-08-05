@@ -353,6 +353,28 @@
       "images": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/606/606_images.zip",
       "languages": ["en", "ko", "tet"],
       "category": "Life"
+    },
+    {
+      "id": 607,
+      "level": 1,
+      "title": {
+        "en": "How does trash change?",
+        "ko": "쓰레기는 어떻게 변할까?",
+        "tet": "Lixu bele muda Oinsa?"
+      },
+      "cover": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/607/cover_607_en.jpg",
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/607/cover_607_kr.jpg",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/607/cover_607_tet.jpg"
+      },
+      "download": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/607/607_en-ph.json",
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/607/607_ko-kr.json",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/607/607_tetum.json"
+      },
+      "images": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/607/607_images.zip",
+      "languages": ["en", "ko", "tet"],
+      "category": "Life"
     }
   ]
 }
