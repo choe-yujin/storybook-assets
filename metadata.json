@@ -383,14 +383,10 @@
         "ko": "무엇을 타고 갈까?"
       },
       "cover": {
-        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/207/cover_207_en.jpg",
-        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/207/cover_207_kr.jpg",
-        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/207/cover_207_tet.jpg"
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/207/cover_207_kr.jpg"
       },
       "download": {
-        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/207/207_en-ph.json",
-        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/207/207_ko-kr.json",
-        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/207/207_tetum.json"
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/207/207_ko-kr.json"
       },
       "images": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/207/207_images.zip",
       "languages": ["ko"],
