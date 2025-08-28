@@ -1,6 +1,6 @@
 {
-  "version": "1.2.2",
-  "lastUpdated": "2025-08-05",
+  "version": "1.2.3",
+  "lastUpdated": "2025-08-28",
   "books": [
     {
       "id": 801,
@@ -374,6 +374,26 @@
       },
       "images": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/607/607_images.zip",
       "languages": ["en", "ko", "tet"],
+      "category": "Life"
+    },
+    {
+      "id": 207,
+      "level": 2,
+      "title": {
+        "ko": "무엇을 타고 갈까?"
+      },
+      "cover": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/207/cover_207_en.jpg",
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/207/cover_207_kr.jpg",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/207/cover_207_tet.jpg"
+      },
+      "download": {
+        "en": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/207/207_en-ph.json",
+        "ko": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/207/207_ko-kr.json",
+        "tet": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/207/207_tetum.json"
+      },
+      "images": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/207/207_images.zip",
+      "languages": ["ko"],
       "category": "Life"
     }
   ]
