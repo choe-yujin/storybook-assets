@@ -19,7 +19,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/102/102_ko.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "isBundled": true,
+          "isBundled": false,
           "tags": ["일상", "생활", "문방구"]
         },
         "en": {
@@ -29,7 +29,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/102/102_en.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "isBundled": true,
+          "isBundled": false,
           "tags": ["daily life", "stationery"]
         },
         "tet": {
@@ -39,7 +39,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/102/102_tet.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "isBundled": true,
+          "isBundled": false,
           "tags": ["Loja", "Kadernu"]
         }
       }
@@ -61,7 +61,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/103/103_ko.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "isBundled": true,
+          "isBundled": false,
           "tags": ["환경", "자연", "동물"]
         },
         "en": {
@@ -71,7 +71,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/103/103_en.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "isBundled": true,
+          "isBundled": false,
           "tags": ["environment", "nature", "animals"]
         },
         "tet": {
@@ -81,7 +81,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/103/103_tet.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "isBundled": true,
+          "isBundled": false,
           "tags": ["ambiente", "natureza", "animál"]
         }
       }
@@ -103,7 +103,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/907/907_ko.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "isBundled": true,
+          "isBundled": false,
           "tags": ["쓰레기", "환경", "재활용"]
         },
         "en": {
@@ -113,7 +113,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/907/907_en.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "isBundled": true,
+          "isBundled": false,
           "tags": ["trash", "environment", "recycling"]
         },
         "tet": {
@@ -123,7 +123,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/907/907_tet.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "isBundled": true,
+          "isBundled": false,
           "tags": ["lixa", "natureza", "reutilizasaun"]
         }
       }
@@ -145,7 +145,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/401/401_ko.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "isBundled": true,
+          "isBundled": false,
           "tags": ["일상", "생활", "지하철"]
         },
         "en": {
@@ -155,7 +155,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/401/401_en.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "isBundled": true,
+          "isBundled": false,
           "tags": ["daily life", "subway", "transportation"]
         },
         "tet": {
@@ -165,7 +165,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/401/401_tet.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "isBundled": true,
+          "isBundled": false,
           "tags": ["loron-loron", "subú", "transportasi"]
         }
       }
@@ -187,7 +187,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/404/404_ko.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "isBundled": true,
+          "isBundled": false,
           "tags": ["감정", "자만심", "좌절", "위로"]
         },
         "en": {
@@ -197,7 +197,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/404/404_en.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "isBundled": true,
+          "isBundled": false,
           "tags": ["emotion", "pride", "frustration", "comfort"]
         },
         "tet": {
@@ -207,7 +207,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/404/404_tet.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "isBundled": true,
+          "isBundled": false,
           "tags": ["sentimentu", "orgulho", "frustraisaun", "konfortu"]
         }
       }
@@ -229,7 +229,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/806/806_ko.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "isBundled": true,
+          "isBundled": false,
           "tags": ["중국", "음식", "문화", "만두"]
         },
         "en": {
@@ -239,7 +239,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/806/806_en.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "isBundled": true,
+          "isBundled": false,
           "tags": ["China", "dumplings", "food", "culture", "tradition"]
         },
         "tet": {
@@ -249,7 +249,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/806/806_tet.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "isBundled": true,
+          "isBundled": false,
           "tags": ["China", "kultura", "han", "dumpling"]
         }
       }
@@ -271,7 +271,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/801/801_ko.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "isBundled": true,
+          "isBundled": false,
           "tags": ["베트남", "신화", "역사", "용", "선녀"]
         },
         "en": {
@@ -281,7 +281,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/801/801_en.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "isBundled": true,
+          "isBundled": false,
           "tags": ["Vietnam", "legend", "myth", "dragon", "fairy"]
         },
         "tet": {
@@ -291,7 +291,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/801/801_tet.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "isBundled": true,
+          "isBundled": false,
           "tags": ["Vietnam", "myth", "history", "dragon", "fairy"]
         }
       }
@@ -313,7 +313,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/817/817_ko.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "isBundled": true,
+          "isBundled": false,
           "tags": ["태국", "전설", "물고기", "환생", "용서"]
         },
         "en": {
@@ -323,7 +323,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/817/817_en.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "isBundled": true,
+          "isBundled": false,
           "tags": ["Thailand", "folktale", "fish", "rebirth", "kindness"]
         },
         "tet": {
@@ -333,7 +333,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/817/817_tet.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "isBundled": true,
+          "isBundled": false,
           "tags": ["Tailândia", "folklore", "ikan", "moris foun", "bondade"]
         }
       }
@@ -355,7 +355,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/819/819_ko.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "isBundled": true,
+          "isBundled": false,
           "tags": ["태국", "축제", "문화", "러이끄라통", "등불"]
         },
         "en": {
@@ -365,7 +365,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/819/819_en.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "isBundled": true,
+          "isBundled": false,
           "tags": ["Thailand", "festival", "lanterns", "culture", "tradition"]
         },
         "tet": {
@@ -375,7 +375,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/819/819_tet.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "isBundled": true,
+          "isBundled": false,
           "tags": ["Tailândia", "festival", "lanternu", "kultura"]
         }
       }
