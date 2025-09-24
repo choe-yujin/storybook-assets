@@ -1,0 +1,120 @@
+{
+  "bookId": 404,
+  "language": "ko",
+  "title": "아기 사슴 로미",
+  "summary": "이 책은 달리기를 아주 잘하는 아기 사슴 로미의 이야기예요. 로미의 모험과 넘어져 다쳤을 때 친구들이 도와주는 모습을 보여줍니다.",
+  "pages": [
+    {
+      "pageNumber": 0,
+      "texts": ["아기 사슴 로미"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 1,
+      "texts": ["아기 사슴 로미는 달리기를 아주 잘했어요."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 2,
+      "texts": ["로미는 토끼보다 더 빨리 달릴 수 있었어요.", "내가 토끼를 이겼어!"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 3,
+      "texts": ["로미는 코끼리보다도 더 빨리 달릴 수 있었어요.", "내가 코끼리도 이겼어!"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 4,
+      "texts": ["로미는 단번에 시냇물을 건넜어요.", "로미는 더 빨리 달리고 싶었어요."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 5,
+      "texts": ["로미는 쉬지 않고 계속 앞으로 달렸어요."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 6,
+      "texts": ["그러다 돌부리에 발이 걸리고 말았어요.", "로미는 풀썩 넘어졌어요."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 7,
+      "texts": ["로미는 넘어지면서 다리를 다쳤어요.", "다리가 너무 아파 눈물이 났어요."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 8,
+      "texts": ["원숭이가 와서 로미의 다리를 고쳐 주려고 했어요.", "로미는 계속 울기만 했어요."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 9,
+      "texts": ["곰이 와서 로미를 도와주려고 했어요.", "그래도 로미는 울음을 그칠 수 없었어요."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 10,
+      "texts": ["엄마 사슴이 와서 로미를 안아주며 말했어요.", "로미야, 이제부터는 달릴 때 앞을 잘 보렴."],
+      "pageType": "FULL_IMAGE"
+    }
+  ],
+  "comprehensionChecks": {
+    "preQuestions": [
+      {
+        "question": "로미는 누구일까요?",
+        "keyConcepts": ["아기 사슴", "달리기", "동물"]
+      }
+    ],
+    "postQuestions": [
+      {
+        "question": "로미는 달리다가 어떻게 되었나요?",
+        "keyConcepts": ["넘어짐", "다리 다침", "도움", "울음"]
+      }
+    ]
+  },
+  "missions": [
+    {
+      "title": "달리기나 도와준 경험 이야기하기",
+      "description": "달리다가 넘어졌던 경험이나, 누군가를 도와준 경험이 있나요? 그때의 일을 글이나 그림으로 표현해 보세요.",
+      "type": "TEXT_RESPONSE"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "아기 사슴",
+      "definition": "어린 사슴.",
+      "pageNumber": 0
+    },
+    {
+      "word": "건너다",
+      "definition": "강이나 다리, 길 등을 지나 다른 쪽으로 가다.",
+      "pageNumber": 4
+    },
+    {
+      "word": "걸리다",
+      "definition": "발이 무엇에 닿아 움직이지 못하다.",
+      "pageNumber": 6
+    },
+    {
+      "word": "울다",
+      "definition": "슬프거나 아파서 눈물이 나오다.",
+      "pageNumber": 7
+    },
+    {
+      "word": "안다",
+      "definition": "두 팔로 꼭 끌어안다.",
+      "pageNumber": 10
+    }
+  ],
+  "contributors": {
+    "Writer": ["마니샤 차우드리"],
+    "Illustrator": ["아지트 나라얀"]
+  },
+  "sourceLanguage": "ko",
+  "license": "CC BY 4.0",
+  "copyrightHolder": "Enuma, Inc. & The Foundation SeeArt for Book Culture",
+  "originalCopyright": "is a derivative of 'Smile Please!' by Manisha Chaudhry and Ajit Narayan, used under CC BY 4.0.",
+  "copyright": "is licensed under CC BY 4.0 by Enuma, Inc. & The Foundation SeeArt for Book Culture."
+}

@@ -1,0 +1,133 @@
+{
+  "bookId": 907,
+  "language": "ko",
+  "title": "쓰레기는 어떻게 변할까?",
+  "summary": "이 책은 아이들에게 쓰레기가 환경 속에서 어떻게 변하고 재활용되는지 알려주며, 자연과 함께 살아가는 중요성을 이해시키는 이야기입니다.",
+  "pages": [
+    {
+      "pageNumber": 0,
+      "texts": ["쓰레기는 어떻게 변할까?"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 1,
+      "texts": [
+        "[그림 작가]",
+        "동티모르 위니브루마 유치원 아동",
+        "Patrocino, Joel, Noel, Bernadete, Jenildo, Narlia, Monica cessy, Berta pinto, Teodoru, Vidal, Lindalva, Odilton",
+        "",
+        "그리고 유니 선생님"
+      ],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 2,
+      "texts": ["저랑 동생은 다양한 식물이 자라는 동티모르에 살아요"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 3,
+      "texts": ["식물이 잘 자랄수 있도록 물을 줘요."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 4,
+      "texts": ["클로버랑 나무도 제가 준 물을 마시고 자라요."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 5,
+      "texts": ["나무가 다 자라면, 동티모르에만 있는 특별한 열매도 열려요."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 6,
+      "texts": ["꽃과 열매들이 잘 자랄 수 있도록 하려면, 쓰레기를 잘 모아야해요."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 7,
+      "texts": ["쓰레기는 더러워보여요. 하지만 왜 잘 모아야할까요?"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 8,
+      "texts": ["쓰레기를 잘 모아야 재활용할 수 있어요. 쓰레기를 재활용하면 이런 멋진 화분이 되기도 해요."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 9,
+      "texts": ["바다 앞 멋있는 쓰레기통으로 재탄생하기도 하지요."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 10,
+      "texts": ["그래서 우리는 자연과 함께 살아가기 위해 쓰레기를 잘 모아야해요."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 11,
+      "texts": ["사람과 자연이 함께 살아가기 위해서 꼭 지켜야하는 규칙이에요! 쓰레기를 알맞은 곳에 잘 버려주세요."],
+      "pageType": "SPLIT"
+    }
+  ],
+  "comprehensionChecks": {
+    "preQuestions": [
+      {
+        "question": "쓰레기와 환경에 대해 어떤 내용을 배울까요?",
+        "keyConcepts": ["쓰레기", "재활용", "환경"]
+      }
+    ],
+    "postQuestions": [
+      {
+        "question": "왜 쓰레기를 잘 모아야 할까요?",
+        "keyConcepts": ["재활용", "자연 보호", "환경 규칙"]
+      }
+    ]
+  },
+  "missions": [
+    {
+      "title": "쓰레기 관찰하기",
+      "description": "주변에서 쓰레기를 관찰하고, 재활용 가능한 쓰레기를 분류해 보세요. 그림이나 글로 기록해 보세요.",
+      "type": "TEXT_RESPONSE"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "재활용",
+      "definition": "쓰레기를 다시 활용하여 새로운 물건으로 만드는 것.",
+      "pageNumber": 8
+    },
+    {
+      "word": "자연",
+      "definition": "사람이 만들지 않은 환경, 식물, 동물 등이 있는 곳.",
+      "pageNumber": 10
+    },
+    {
+      "word": "쓰레기",
+      "definition": "버려진 물건이나 남은 것.",
+      "pageNumber": 7
+    },
+    {
+      "word": "화분",
+      "definition": "식물을 심는 용기.",
+      "pageNumber": 8
+    },
+    {
+      "word": "규칙",
+      "definition": "모두가 지켜야 하는 약속이나 법.",
+      "pageNumber": 11
+    }
+  ],
+  "contributors": {
+    "Writer": ["Teacher Yuni"],
+    "Illustrator": [
+      "Children from Wini Bruma Kindergarten",
+      "Patrocino, Joel, Noel, Bernadete, Jenildo, Narlia, Monica Cessy, Berta Pinto, Teodoru, Vidal, Lindalva, Odilton"
+    ]
+  },
+  "sourceLanguage": "ko",
+  "license": "CC BY 4.0",
+  "copyrightHolder": "Wini Bruma & Teacher Yuni",
+  "copyright": "is licensed under CC BY 4.0 by Wini Bruma & Teacher Yuni"
+}

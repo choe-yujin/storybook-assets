@@ -1,0 +1,122 @@
+{
+  "bookId": 102,
+  "language": "tet",
+  "title": "Loja Kadernu",
+  "summary": "Livro ida ne'e hatudu buat ruma ne'ebé kmanek sira buka iha loja kadernu. Page barak nian tomak dezenha termu ne'ebé mak importante kona-ba buat ruma hosi loja kadernu, tanba ita-nia aprende fasilmente.",
+  "pages": [
+    {
+      "pageNumber": 0,
+      "image": "book_102_page_0.jpg",
+      "texts": ["Loja Kadernu"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 1,
+      "image": "book_102_page_1.jpg",
+      "texts": ["Loja kadernu nian iha eskola nia oin"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 2,
+      "image": "book_102_page_2.jpg",
+      "texts": ["Dosi merenda"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 3,
+      "image": "book_102_page_3.jpg",
+      "texts": ["Hasai dezenhu"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 4,
+      "image": "book_102_page_4.jpg",
+      "texts": ["Estiker"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 5,
+      "image": "book_102_page_5.jpg",
+      "texts": ["Suratahan-kores"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 6,
+      "image": "book_102_page_6.jpg",
+      "texts": ["Brinkedu"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 7,
+      "image": "book_102_page_7.jpg",
+      "texts": ["Bola football"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 8,
+      "image": "book_102_page_8.jpg",
+      "texts": ["Hula hoop"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 9,
+      "image": "book_102_page_9.jpg",
+      "texts": ["Lapis kor"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 10,
+      "image": "book_102_page_10.jpg",
+      "texts": ["Mai ita halimar hamutuk"],
+      "pageType": "FULL_IMAGE"
+    }
+  ],
+  "comprehensionChecks": {
+    "preQuestions": [
+      {
+        "question": "Saida mak loja kadernu?",
+        "keyConcepts": ["loja", "kadernu", "fetu"]
+      }
+    ],
+    "postQuestions": [
+      {
+        "question": "Saida mak buat ruma ida ne'ebé bele simu iha loja kadernu?",
+        "keyConcepts": ["suratahan", "brinkedu", "dosi"]
+      }
+    ]
+  },
+  "missions": [
+    {
+      "title": "Desenha buat ruma ne'ebé imi gosta",
+      "description": "Desenha buat ruma ne'ebé ita gosta hosi lista loja kadernu no konta ba kolega sira.",
+      "type": "CREATIVE"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "Loja Kadernu",
+      "definition": "Loja ne'ebé halo venda buat ruma kmanek no important ba eskola no familia.",
+      "pageNumber": 0
+    },
+    {
+      "word": "Hula hoop",
+      "definition": "Bainhira halo actividade física ho tuur kona ona iha laran lori iha tolda-ho mós iha hahalok sistema ba manas hetan.",
+      "pageNumber": 8
+    },
+    {
+      "word": "Lapis kor",
+      "definition": "Ferramenta de pintura ne'ebé sai koloradu.",
+      "pageNumber": 9
+    }
+  ],
+  "contributors": {
+    "Writer": ["Eunpa Kim"],
+    "Illustrator": ["Jinyoung Do"],
+    "Translator": ["Helia"],
+    "Proofreader": ["Jisu An"]
+  },
+  "sourceLanguage": "ko",
+  "license": "CC BY 4.0",
+  "copyrightHolder": "Enuma, Inc. & The Foundation SeeArt for Book Culture",
+  "copyright": "is licensed under CC BY 4.0 by Enuma, Inc. & The Foundation SeeArt for Book Culture."
+}

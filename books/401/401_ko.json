@@ -1,0 +1,82 @@
+{
+  "bookId": 401,
+  "language": "ko",
+  "title": "지하철을 타고",
+  "summary": "이 책은 지하철 이용 과정을 소민이의 하루를 통해 보여줍니다. 교통카드부터 출발, 이동, 도착까지 지하철 여행의 주요 과정을 어린이 눈높이에 맞게 설명합니다.",
+  "pages": [
+    {
+      "pageNumber": 0,
+      "texts": ["지하철을 타고"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 1,
+      "texts": ["오늘은 이모네 집에 놀러 가는 날이에요.", "이모네 집에 가려면 지하철을 타야 해요."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 2,
+      "texts": ["소민이는 지하철 역에 왔어요.", "지하철을 타려면 교통카드가 필요해요."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 3,
+      "texts": ["소민이는 주머니에서 교통카드를 꺼내서 카드를 대고 들어갔어요."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 4,
+      "texts": ["지하철 타는 곳으로 계단을 내려갔아요.", "이제 소민이가 탄 열차가 출발해요."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 5,
+      "texts": ["지하철은 보통 땅 아래로 다녀요.", "지하철이 다니는 터널 속은 깜깜하지요."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 6,
+      "texts": ["땅 위로 올라가기도 해요.", "그러면 창문 밖 세상을 볼 수 있어요."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 7,
+      "texts": ["이제 지하철에서 내릴 시간이에요.", "역 바깥으로 나가니 이모가 소민이를 기다리고 있었어요."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 8,
+      "texts": ["이모네 강아지 보리도 소민이를 마중 나왔어요.", "\"멍멍\"", "보리는 소민이가 반갑나봐요."],
+      "pageType": "FULL_IMAGE"
+    }
+  ],
+  "comprehensionChecks": {
+    "preQuestions": [
+      {
+        "question": "지하철을 타려면 무엇이 필요한가요?",
+        "keyConcepts": ["지하철", "교통카드", "역"]
+      }
+    ],
+    "postQuestions": [
+      {
+        "question": "소민이는 지하철을 타고 어디에 갔나요?",
+        "keyConcepts": ["이모네 집", "지하철", "강아지"]
+      }
+    ]
+  },
+  "missions": [
+    {
+      "title": "지하철 체험 이야기 쓰기",
+      "description": "지하철을 타 본 경험이나 상상을 글로 써서 이야기해 보세요.",
+      "type": "TEXT_RESPONSE"
+    }
+  ],
+  "contributors": {
+    "글": ["김은파"],
+    "삽화": ["도진영"]
+  },
+  "sourceLanguage": "ko",
+  "license": "CC BY 4.0",
+  "copyrightHolder": "Enuma, Inc. & The Foundation SeeArt for Book Culture",
+  "copyright": "is licensed under CC BY 4.0 by Enuma, Inc. & The Foundation SeeArt for Book Culture."
+}

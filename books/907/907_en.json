@@ -1,0 +1,133 @@
+{
+  "bookId": 907,
+  "language": "en",
+  "title": "Where does trash go?",
+  "summary": "This book teaches children how trash can change in Timor-Leste, and why it is important to sort and recycle trash to live together with nature.",
+  "pages": [
+    {
+      "pageNumber": 0,
+      "texts": ["Where does trash go?"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 1,
+      "texts": [
+        "[Illustrator]",
+        "Children at Winibru Ma Kindergarten",
+        "Patrocino, Joel, Noel, Bernadete, Jenildo, Narlia, Monica Cessy, Berta Pinto, Teodoru, Vidal, Lindalva, Odilton",
+        "",
+        "and Teacher Yuni"
+      ],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 2,
+      "texts": ["My family lives in Timor-Leste, a place where many plants grow."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 3,
+      "texts": ["I give water to the plants so they can grow well."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 4,
+      "texts": ["The clovers and trees also drink the water I give and grow."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 5,
+      "texts": ["When the trees grow big, special fruits that only grow in Timor-Leste also appear."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 6,
+      "texts": ["To help the flowers and trees grow well, we need to collect trash properly."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 7,
+      "texts": ["Trash looks dirty. But why do we need to collect it properly?"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 8,
+      "texts": ["If we collect trash properly, we can recycle it. For example, it can become a beautiful flower pot."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 9,
+      "texts": ["This trash can also be transformed into special trash bins near the sea."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 10,
+      "texts": ["Therefore, we need to collect trash properly to live together with nature."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 11,
+      "texts": ["This is a rule everyone must follow to live together with people and nature! Please throw trash in the correct place."],
+      "pageType": "SPLIT"
+    }
+  ],
+  "comprehensionChecks": {
+    "preQuestions": [
+      {
+        "question": "What will children learn from this book?",
+        "keyConcepts": ["trash", "nature", "rules"]
+      }
+    ],
+    "postQuestions": [
+      {
+        "question": "Why is it important to collect trash properly?",
+        "keyConcepts": ["recycling", "protecting nature", "living together"]
+      }
+    ]
+  },
+  "missions": [
+    {
+      "title": "Observe Trash",
+      "description": "Observe trash around you. Separate trash that can be recycled from trash that cannot. Write or draw your observations.",
+      "type": "TEXT_RESPONSE"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "trash",
+      "definition": "Objects that are no longer used and will be thrown away.",
+      "pageNumber": 7
+    },
+    {
+      "word": "recycling",
+      "definition": "Using old trash to make new objects.",
+      "pageNumber": 8
+    },
+    {
+      "word": "nature",
+      "definition": "The environment, including plants, trees, and animals, that exists without human creation.",
+      "pageNumber": 10
+    },
+    {
+      "word": "flower pot",
+      "definition": "An object made from recycled trash to grow flowers.",
+      "pageNumber": 8
+    },
+    {
+      "word": "rules",
+      "definition": "A set of laws or guidelines that people must follow.",
+      "pageNumber": 11
+    }
+  ],
+  "contributors": {
+    "Writer": ["Teacher Yuni"],
+    "Illustrator": [
+      "Children at Winibru Ma Kindergarten",
+      "Patrocino, Joel, Noel, Bernadete, Jenildo, Narlia, Monica Cessy, Berta Pinto, Teodoru, Vidal, Lindalva, Odilton"
+    ]
+  },
+  "sourceLanguage": "tet",
+  "license": "CC BY 4.0",
+  "copyrightHolder": "Winibru Ma & Teacher Yuni",
+  "copyright": "is licensed under CC BY 4.0 by Winibru Ma & Teacher Yuni"
+}

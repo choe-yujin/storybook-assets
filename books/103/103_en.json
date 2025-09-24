@@ -1,0 +1,120 @@
+{
+  "bookId": 103,
+  "language": "en",
+  "title": "Hello, Animals",
+  "summary": "This book introduces wild animals to children. Each page shows the name and special feature of an animal, helping kids learn easily.",
+  "pages": [
+    {
+      "pageNumber": 0,
+      "texts": ["Wild Animals"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 1,
+      "texts": ["Baboon"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 2,
+      "texts": ["Giraffe with a long neck"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 3,
+      "texts": ["Big hippopotamus"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 4,
+      "texts": ["Zebra with stripes"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 5,
+      "texts": ["Leopard with spots"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 6,
+      "texts": ["Elephant spraying water"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 7,
+      "texts": ["Spotted hyena"],
+      "pageType": "FULL_IMAGE"
+    }
+  ],
+  "comprehensionChecks": {
+    "preQuestions": [
+      {
+        "question": "What is a wild animal?",
+        "keyConcepts": ["animal", "nature", "wild", "free"]
+      }
+    ],
+    "postQuestions": [
+      {
+        "question": "Which animal in the book do you like best?",
+        "keyConcepts": ["giraffe", "hippopotamus", "hyena", "baboon", "zebra", "leopard", "elephant"]
+      }
+    ]
+  },
+  "missions": [
+    {
+      "title": "Draw Your Favorite Animal",
+      "description": "Choose your favorite animal and draw it. Show your picture to your friends.",
+      "type": "CREATIVE"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "wild animal",
+      "definition": "Animals that live freely in nature.",
+      "pageNumber": 0
+    },
+    {
+      "word": "baboon",
+      "definition": "A monkey with a long, pointy nose.",
+      "pageNumber": 1
+    },
+    {
+      "word": "giraffe",
+      "definition": "A tall African animal with a long neck.",
+      "pageNumber": 2
+    },
+    {
+      "word": "hippopotamus",
+      "definition": "A big animal that lives in rivers.",
+      "pageNumber": 3
+    },
+    {
+      "word": "zebra",
+      "definition": "A striped animal that looks like a horse.",
+      "pageNumber": 4
+    },
+    {
+      "word": "leopard",
+      "definition": "A wild cat with many spots.",
+      "pageNumber": 5
+    },
+    {
+      "word": "elephant",
+      "definition": "A huge animal with a long trunk that sprays water.",
+      "pageNumber": 6
+    },
+    {
+      "word": "hyena",
+      "definition": "A spotted wild animal.",
+      "pageNumber": 7
+    }
+  ],
+  "contributors": {
+    "Writer": ["Simone Yingst"],
+    "Illustrator": ["Katie Kleinbaum"]
+  },
+  "sourceLanguage": "ko",
+  "license": "CC BY 4.0",
+  "copyrightHolder": "Enuma, Inc. & The Foundation SeeArt for Book Culture",
+  "originalCopyright": "is a derivative of 'Hello, Animals' by Simone Yingst and Katie Kleinbaum, used under CC BY 4.0.",
+  "copyright": "is licensed under CC BY 4.0 by Enuma, Inc. & The Foundation SeeArt for Book Culture."
+}

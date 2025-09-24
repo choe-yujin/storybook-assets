@@ -1,0 +1,133 @@
+{
+  "bookId": 907,
+  "language": "tet",
+  "title": "Lixu bele muda Oinsa?",
+  "summary": "Livru nee hatudu ba labarik sira kona-ba oinsa lixu bele muda iha Timor-Leste, no oinsa importante atu halibur lixu ho diak hodi moris hamutuk ho natureza.",
+  "pages": [
+    {
+      "pageNumber": 0,
+      "texts": ["Lixu bele muda Oinsa?"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 1,
+      "texts": [
+        "[Pinta nain]",
+        "Labarik sira iha Wini Bruma",
+        "Patrocino, Joel, Noel, Bernadete, Jenildo, Narlia, Monica Cessy, Berta Pinto, Teodoru, Vidal, Lindalva, Odilton",
+        "",
+        "no Mestra Yuni"
+      ],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 2,
+      "texts": ["Hau-nia família hela iha Timor-Leste, fatin neebé ai-horis oin-oin moris barak."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 3,
+      "texts": ["Hau fó bee ba ai-horis sira atu sira bele moris diak."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 4,
+      "texts": ["Ai-han Clover no ai-hun sira mós hemu bee neebé hau fó no moris."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 5,
+      "texts": ["Wainhira ai-hun sira boot ona, ai-han espesiál neebé iha deit Timor-Leste mós moris."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 6,
+      "texts": ["Atu ajuda ai-funan no ai-han sira moris diak, ita presiza halibur lixu ho didiak."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 7,
+      "texts": ["Lixu haree foer. Maibé, tansá mak ita presiza halibur ho diak?"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 8,
+      "texts": ["Se ita halibur lixu ho diak, ita bele halo fali. Ezemplu, pot ai-funan furak hanesan ne'e."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 9,
+      "texts": ["Lixu ne'e mós bele sai lixu-fatin furak ida iha tasi ibun."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 10,
+      "texts": ["Nune'e, ita presiza halibur lixu ho di'ak atu moris hamutuk ho natureza."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 11,
+      "texts": ["Ida ne'e mak regra ida ba ema no natureza atu moris hamutuk! Favor ida soe lixu iha fatin neebé loos."],
+      "pageType": "SPLIT"
+    }
+  ],
+  "comprehensionChecks": {
+    "preQuestions": [
+      {
+        "question": "Oinsa mak labarik sira sei aprende husi livru nee?",
+        "keyConcepts": ["lixu", "naturaleza", "regras"]
+      }
+    ],
+    "postQuestions": [
+      {
+        "question": "Tansá mak importante atu halibur lixu ho diak?",
+        "keyConcepts": ["reutilizasaun", "proteje natureza", "moris hamutuk"]
+      }
+    ]
+  },
+  "missions": [
+    {
+      "title": "Obserba lixu",
+      "description": "Obserba lixu iha ita-nia fatin neebé. Separadu lixu ne'ebé bele reutiliza husi lixu ne'ebé la bele. Halo relatu ho desenhu.",
+      "type": "TEXT_RESPONSE"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "lixu",
+      "definition": "Objétu ne'ebé labele uza tan no sei bolu.",
+      "pageNumber": 7
+    },
+    {
+      "word": "reutilizasaun",
+      "definition": "Husus lixu foin hodi halo objetu foun.",
+      "pageNumber": 8
+    },
+    {
+      "word": "naturaleza",
+      "definition": "Ambiente, ai-han, ai-hun no animal ne'ebé la halo husi ema.",
+      "pageNumber": 10
+    },
+    {
+      "word": "pot ai-funan",
+      "definition": "Objétu ne'ebé halao husi lixu reutilizadu hodi tau ai-funan.",
+      "pageNumber": 8
+    },
+    {
+      "word": "regras",
+      "definition": "Konjuntu lei no konsellu ne'ebé ema presiza halo.",
+      "pageNumber": 11
+    }
+  ],
+  "contributors": {
+    "Writer": ["Mestra Yuni"],
+    "Illustrator": [
+      "Labarik sira iha Wini Bruma",
+      "Patrocino, Joel, Noel, Bernadete, Jenildo, Narlia, Monica Cessy, Berta Pinto, Teodoru, Vidal, Lindalva, Odilton"
+    ]
+  },
+  "sourceLanguage": "tet",
+  "license": "CC BY 4.0",
+  "copyrightHolder": "Wini Bruma & Mestra Yuni",
+  "copyright": "is licensed under CC BY 4.0 by Wini Bruma & Mestra Yuni"
+}

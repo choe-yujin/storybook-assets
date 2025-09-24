@@ -1,0 +1,122 @@
+{
+  "bookId": 103,
+  "language": "tet",
+  "title": "Animal Fuik",
+  "summary": "Livro ida ne'ebe hatudu buat ruma natura no animal sira. Page kada-nia injesta naran animal ne'ebé diferente no koko asuntu malu. Ne'e ajuda kmanek sira aprende tan sobre animal sira.",
+  "pages": [
+    {
+      "pageNumber": 0,
+      "texts": ["Animal fuik"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 1,
+      "texts": ["Lekirauk ho inus boot ida"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 2,
+      "texts": ["Girafa ne'ebe ho kakorok naruk ida"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 3,
+      "texts": ["Hipopotamo bokur ida"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 4,
+      "texts": ["Zebra listradu ida"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 5,
+      "texts": ["Leopardu ho modelu pontu pontu"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 6,
+      "texts": ["Elefante ida fakar sai bee"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 7,
+      "texts": ["Hiena bintik-bintik"],
+      "pageType": "FULL_IMAGE"
+    }
+  ],
+  "comprehensionChecks": {
+    "preQuestions": [
+      {
+        "question": "Saida mak animal natura?",
+        "keyConcepts": ["animal", "natura", "fatin moris"]
+      }
+    ],
+    "postQuestions": [
+      {
+        "question": "Saida mak animal ne'ebé importante tebes iha livru?",
+        "keyConcepts": ["girafa", "hipopotamo", "hiena", "leopardu", "elefante"]
+      }
+    ]
+  },
+  "missions": [
+    {
+      "title": "Desenha animal ne'ebé imi gosta",
+      "description": "Desenha no husu konta historia kona-ba animal ne'ebé barak iha livru.",
+      "type": "CREATIVE"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "Animal fuik",
+      "definition": "Animal sira mak moris iha natura livre, la'o okos iha labarik.",
+      "pageNumber": 0
+    },
+    {
+      "word": "Lekirauk ho inus boot ida",
+      "definition": "Oan-kun-primate hosi familia mak iha lekirauk ne'ebe inus boot.",
+      "pageNumber": 1
+    },
+    {
+      "word": "Girafa ne'ebe ho kakorok naruk ida",
+      "definition": "Animal natura hosi Afrika ne'ebe iha kakorok naruk to'o mosu.",
+      "pageNumber": 2
+    },
+    {
+      "word": "Hipopotamo bokur ida",
+      "definition": "Animal natura hosi meta ne'ebe bokur no iha bainhira ne'ebe husi uda.",
+      "pageNumber": 3
+    },
+    {
+      "word": "Zebra listradu ida",
+      "definition": "Animal katuas ne'ebe iha listru-listru branhus no preta.",
+      "pageNumber": 4
+    },
+    {
+      "word": "Leopardu ho modelu pontu pontu",
+      "definition": "Animal ne'ebe iha modelo espesífiku hosi pontu-pontu.",
+      "pageNumber": 5
+    },
+    {
+      "word": "Elefante ida fakar sai bee",
+      "definition": "Animal boot ne'ebe iha hosi kona ne'ebe fakar sai bee hakarak atu halo sai refreska.",
+      "pageNumber": 6
+    },
+    {
+      "word": "Hiena bintik-bintik",
+      "definition": "Animal natura ne'ebe iha bintik-bintik ne'ebe espefiku.",
+      "pageNumber": 7
+    }
+  ],
+  "contributors": {
+    "Writer": ["Simone Yingst"],
+    "Illustrator": ["Katie Kleinbaum"],
+    "Translator": ["Helia"],
+    "Proofreader": ["Jisu An"]
+  },
+  "sourceLanguage": "ko",
+  "license": "CC BY 4.0",
+  "copyrightHolder": "Enuma, Inc. & The Foundation SeeArt for Book Culture",
+  "originalCopyright": "is a derivative of 'Hello, Animals' by Simone Yingst and Katie Kleinbaum, used under CC BY 4.0.",
+  "copyright": "is licensed under CC BY 4.0 by Enuma, Inc. & The Foundation SeeArt for Book Culture."
+}

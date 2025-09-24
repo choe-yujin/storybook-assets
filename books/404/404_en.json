@@ -1,0 +1,120 @@
+{
+  "bookId": 404,
+  "language": "en",
+  "title": "Smile Please!",
+  "summary": "This book tells the story of a little fawn named Romi who was very good at running. It shows Romi's adventures and the help he receives when he gets hurt.",
+  "pages": [
+    {
+      "pageNumber": 0,
+      "texts": ["Little Fawn Romi"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 1,
+      "texts": ["Little Romi the fawn was very good at running."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 2,
+      "texts": ["Romi could run faster than the rabbit.", "\"I beat the rabbit!\""],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 3,
+      "texts": ["Romi could also run faster than the elephant.", "\"I beat the elephant too!\""],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 4,
+      "texts": ["Romi crossed the little stream in one leap.", "She wanted to run even faster."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 5,
+      "texts": ["Romi kept running forward without stopping."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 6,
+      "texts": ["Suddenly, Romi tripped on a rock.", "She fell down with a thud."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 7,
+      "texts": ["Romi hurt her leg when she fell.", "Her leg hurt so much that tears came."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 8,
+      "texts": ["A monkey came to help fix Romi's leg.", "But Romi kept crying."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 9,
+      "texts": ["A bear came to help Romi.", "Still, Romi could not stop crying."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 10,
+      "texts": ["Romi's mother came and hugged her.", "\"Romi, next time remember to watch where you run.\""],
+      "pageType": "FULL_IMAGE"
+    }
+  ],
+  "comprehensionChecks": {
+    "preQuestions": [
+      {
+        "question": "Who is Romi?",
+        "keyConcepts": ["fawn", "runner", "animal"]
+      }
+    ],
+    "postQuestions": [
+      {
+        "question": "What happened to Romi when he ran?",
+        "keyConcepts": ["fall", "hurt leg", "help", "cry"]
+      }
+    ]
+  },
+  "missions": [
+    {
+      "title": "Tell a Story About Running or Helping",
+      "description": "Think about a time you ran and maybe fell, or when you helped someone. Write or draw about it.",
+      "type": "TEXT_RESPONSE"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "fawn",
+      "definition": "A young deer.",
+      "pageNumber": 0
+    },
+    {
+      "word": "leap",
+      "definition": "To jump a long distance.",
+      "pageNumber": 4
+    },
+    {
+      "word": "tripped",
+      "definition": "To catch your foot and fall down.",
+      "pageNumber": 6
+    },
+    {
+      "word": "cry",
+      "definition": "To have tears from sadness or pain.",
+      "pageNumber": 7
+    },
+    {
+      "word": "hug",
+      "definition": "To hold someone close in your arms.",
+      "pageNumber": 10
+    }
+  ],
+  "contributors": {
+    "Writer": ["Manisha Chaudhry"],
+    "Illustrator": ["Ajit Narayan"]
+  },
+  "sourceLanguage": "ko",
+  "license": "CC BY 4.0",
+  "copyrightHolder": "Enuma, Inc. & The Foundation SeeArt for Book Culture",
+  "originalCopyright": " is a derivative of 'Smile Please!' by Manisha Chaudhry and Ajit Narayan, used under CC BY 4.0.",
+  "copyright": "is licensed under CC BY 4.0 by Enuma, Inc. & The Foundation SeeArt for Book Culture."
+}

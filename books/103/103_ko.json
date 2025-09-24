@@ -1,0 +1,120 @@
+{
+  "bookId": 103,
+  "language": "ko",
+  "title": "야생동물",
+  "summary": "이 책은 어린이들이 쉽게 접할 수 있는 야생동물들을 소개합니다. 각 페이지마다 동물의 이름과 특징이 하나씩 소개되어 있으며, 아이들이 동물에 대해 쉽게 배우도록 구성되어 있습니다.",
+  "pages": [
+    {
+      "pageNumber": 0,
+      "texts": ["야생동물"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 1,
+      "texts": ["개코원숭이"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 2,
+      "texts": ["목이 긴 기린"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 3,
+      "texts": ["뚱뚱한 하마"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 4,
+      "texts": ["줄무늬 얼룩말"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 5,
+      "texts": ["물방울무늬 표범"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 6,
+      "texts": ["물 뿜는 코끼리"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 7,
+      "texts": ["점박이 하이에나"],
+      "pageType": "FULL_IMAGE"
+    }
+  ],
+  "comprehensionChecks": {
+    "preQuestions": [
+      {
+        "question": "야생동물이 무엇인가요?",
+        "keyConcepts": ["동물", "자연", "밖", "야생"]
+      }
+    ],
+    "postQuestions": [
+      {
+        "question": "책에 나온 동물 중 가장 흥미로운 동물은 무엇인가요?",
+        "keyConcepts": ["기린", "하마", "하이에나", "원숭이", "얼룩말", "표범", "코끼리"]
+      }
+    ]
+  },
+  "missions": [
+    {
+      "title": "내가 좋아하는 동물 그리기",
+      "description": "책에 나온 동물 중에서 가장 좋아하는 동물을 그리고 친구들에게 소개해 보세요.",
+      "type": "CREATIVE"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "야생동물",
+      "definition": "자연에서 자유롭게 사는 동물들.",
+      "pageNumber": 0
+    },
+    {
+      "word": "개코원숭이",
+      "definition": "길고 뾰족한 코를 가진 원숭이 종류.",
+      "pageNumber": 1
+    },
+    {
+      "word": "목이 긴 기린",
+      "definition": "아프리카에 사는 목이 매우 긴 포유류 동물.",
+      "pageNumber": 2
+    },
+    {
+      "word": "뚱뚱한 하마",
+      "definition": "큰 몸집과 뚱뚱한 몸을 가진 하천 동물.",
+      "pageNumber": 3
+    },
+    {
+      "word": "줄무늬 얼룩말",
+      "definition": "땅에서 줄무늬가 선명한 말과 비슷한 동물.",
+      "pageNumber": 4
+    },
+    {
+      "word": "물방울무늬 표범",
+      "definition": "반점이 물방울 모양인 고양이과 동물.",
+      "pageNumber": 5
+    },
+    {
+      "word": "물 뿜는 코끼리",
+      "definition": "긴 코로 물을 뿜는 아주 큰 동물.",
+      "pageNumber": 6
+    },
+    {
+      "word": "점박이 하이에나",
+      "definition": "점이 있는 하이에나 종류의 야생동물.",
+      "pageNumber": 7
+    }
+  ],
+  "contributors": {
+    "원작자": ["시몬 잉스트", "케이티 클라인바움"],
+    "글": ["김은파"]
+  },
+  "sourceLanguage": "ko",
+  "license": "CC BY 4.0",
+  "copyrightHolder": "Enuma, Inc. & The Foundation SeeArt for Book Culture",
+  "originalCopyright": "is a derivative of 'Hello, Animals' by Simone Yingst and Katie Kleinbaum, used under CC BY 4.0.",
+  "copyright": "is licensed under CC BY 4.0 by Enuma, Inc. & The Foundation SeeArt for Book Culture."
+}

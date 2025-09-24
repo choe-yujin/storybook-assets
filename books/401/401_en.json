@@ -1,0 +1,82 @@
+{
+  "bookId": 401,
+  "language": "en",
+  "title": "Riding the Subway",
+  "summary": "This book shows a day in Somi’s life as she rides the subway. It explains all the important steps from using a transport card to getting off, in a way children can easily understand.",
+  "pages": [
+    {
+      "pageNumber": 0,
+      "texts": ["Riding the Subway"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 1,
+      "texts": ["Today is the day Somi visits her aunt’s house.", "To get there, she needs to take the subway."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 2,
+      "texts": ["Somi arrived at the subway station.", "You need a transport card to ride the subway."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 3,
+      "texts": ["Somi took her transport card from her pocket and tapped it to enter."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 4,
+      "texts": ["She went down the stairs to the subway platform.", "Now the train Somi is on starts moving."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 5,
+      "texts": ["Subways usually run underground.", "The tunnels where the subway moves are very dark."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 6,
+      "texts": ["Sometimes the subway goes above ground.", "Then you can see the world outside the windows."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 7,
+      "texts": ["It’s time to get off the subway.", "Outside the station, Somi’s aunt was waiting for her."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 8,
+      "texts": ["Somi’s aunt’s dog, Bori, came to greet her.", "\"Woof woof!\"", "Bori seemed happy to see Somi."],
+      "pageType": "FULL_IMAGE"
+    }
+  ],
+  "comprehensionChecks": {
+    "preQuestions": [
+      {
+        "question": "What do you need to ride the subway?",
+        "keyConcepts": ["subway", "transport card", "station"]
+      }
+    ],
+    "postQuestions": [
+      {
+        "question": "Where did Somi go by subway?",
+        "keyConcepts": ["aunt’s house", "subway", "dog"]
+      }
+    ]
+  },
+  "missions": [
+    {
+      "title": "Write About Your Subway Ride",
+      "description": "Write or imagine about an experience of riding the subway.",
+      "type": "TEXT_RESPONSE"
+    }
+  ],
+  "contributors": {
+    "writer": ["Eunpa Kim"],
+    "illustrator": ["Jinyoung Do"]
+  },
+  "sourceLanguage": "ko",
+  "license": "CC BY 4.0",
+  "copyrightHolder": "Enuma, Inc. & The Foundation SeeArt for Book Culture",
+  "copyright": "is licensed under CC BY 4.0 by Enuma, Inc. & The Foundation SeeArt for Book Culture."
+}

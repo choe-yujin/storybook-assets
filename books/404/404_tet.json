@@ -1,0 +1,122 @@
+{
+  "bookId": 404,
+  "language": "tet",
+  "title": "Rusa-oan Romi",
+  "summary": "Livru ida ne'e konta istória kona-ba rusa-oan naran Romi ne'ebé di'ak tebes halai. Nia halo aventura sira no simu ajuda bainhira nia kanek.",
+  "pages": [
+    {
+      "pageNumber": 0,
+      "texts": ["Rusa-oan Romi"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 1,
+      "texts": ["Rusa-oan Romi ne'e halai di'ak tebes."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 2,
+      "texts": ["Romi bele halai lalais liu tan koellu.", "Ha'u manán tiha koellu!"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 3,
+      "texts": ["Romi mós bele halai lalais liu tan elefante.", "Ha'u manán tiha elefante!"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 4,
+      "texts": ["Romi hakur mota dala ida de'it.", "Romi hakarak halai lalais tan."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 5,
+      "texts": ["Romi kontinua halai nafatin ba oin no la deskansa."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 6,
+      "texts": ["No depois nia sidi ain iha fatuk kroat ida.", "Romi monu maka'as."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 7,
+      "texts": ["Romi ain kanek bainhira monu.", "Ain ne'e moras tebes to'o nia tanis."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 8,
+      "texts": ["Lekirauk ida mai no ajuda kura Romi-nia ain.", "Romi kontinua nafatin tanis de'it."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 9,
+      "texts": ["Ursu mai no atu ajuda Romi.", "Maski nune'e, Romi la para tanis."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 10,
+      "texts": ["Rusa inan mai no hakuak Romi hodi dehan,", "Romi, hahú agora, toma atensaun bainhira halai."],
+      "pageType": "FULL_IMAGE"
+    }
+  ],
+  "comprehensionChecks": {
+    "preQuestions": [
+      {
+        "question": "Sei mak Romi?",
+        "keyConcepts": ["rusa-oan", "halai", "animál"]
+      }
+    ],
+    "postQuestions": [
+      {
+        "question": "Saida mak akontese ho Romi bainhira nia halai?",
+        "keyConcepts": ["monu", "ain kanek", "ajuda", "tanis"]
+      }
+    ]
+  },
+  "missions": [
+    {
+      "title": "Konta Istória Kona-ba Halai ka Ajuda",
+      "description": "Hanoin kona-ba tempu ida ne'ebé ita halai no bele monu, ka tempu ne'ebé ita ajuda ema seluk. Hakerek ka desenha kona-ba ne'e.",
+      "type": "TEXT_RESPONSE"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "rusa-oan",
+      "definition": "Rusa ki'ik.",
+      "pageNumber": 0
+    },
+    {
+      "word": "hakur",
+      "definition": "Hakadak ka halai naruk liu fatin ida.",
+      "pageNumber": 4
+    },
+    {
+      "word": "sidi",
+      "definition": "Sai hanesan to'o ain ka monu tanba ain kaer fatuk ka buat seluk.",
+      "pageNumber": 6
+    },
+    {
+      "word": "tanis",
+      "definition": "Liafuan atu hateten bibere nune'e nia iha be'en matan tanba moras ka tristi.",
+      "pageNumber": 7
+    },
+    {
+      "word": "hakuak",
+      "definition": "Hahú hakbesik ema ida iha liman atu hatudu domin.",
+      "pageNumber": 10
+    }
+  ],
+  "contributors": {
+    "Writer": ["Manisha Chaudhry"],
+    "Illustrator": ["Ajit Narayan"],
+    "Translator": ["Rosarina"],
+    "Proofreader": ["Jisu An"]
+  },
+  "sourceLanguage": "ko",
+  "license": "CC BY 4.0",
+  "copyrightHolder": "Enuma, Inc. & The Foundation SeeArt for Book Culture",
+  "originalCopyright": "is a derivative of 'Smile Please!' by Manisha Chaudhry and Ajit Narayan, used under CC BY 4.0.",
+  "copyright": "is licensed under CC BY 4.0 by Enuma, Inc. & The Foundation SeeArt for Book Culture."
+}

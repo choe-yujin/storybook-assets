@@ -1,0 +1,110 @@
+{
+  "bookId": 102,
+  "language": "en",
+  "title": "Stationery Store",
+  "summary": "This book introduces familiar stationery shop items for children. Each page shows the name of an item you can find at the store, helping kids learn and have fun.",
+  "pages": [
+    {
+      "pageNumber": 0,
+      "image": "book_102_page_0.jpg",
+      "texts": ["Stationery Store"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 1,
+      "image": "book_102_page_1.jpg",
+      "texts": ["Stationery store near the school"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 2,
+      "image": "book_102_page_2.jpg",
+      "texts": ["Snacks"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 3,
+      "image": "book_102_page_3.jpg",
+      "texts": ["Prize Draw Toy Machine"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 4,
+      "image": "book_102_page_4.jpg",
+      "texts": ["Stickers"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 5,
+      "image": "book_102_page_5.jpg",
+      "texts": ["Colored paper"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 6,
+      "image": "book_102_page_6.jpg",
+      "texts": ["Toys"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 7,
+      "image": "book_102_page_7.jpg",
+      "texts": ["Soccer ball"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 8,
+      "image": "book_102_page_8.jpg",
+      "texts": ["Hula hoop"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 9,
+      "image": "book_102_page_9.jpg",
+      "texts": ["Crayons"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 10,
+      "image": "book_102_page_10.jpg",
+      "texts": ["Let's play together!"],
+      "pageType": "FULL_IMAGE"
+    }
+  ],
+  "comprehensionChecks": {
+    "preQuestions": [
+      {
+        "question": "What is a stationery store?",
+        "keyConcepts": ["stationery", "shop", "pens and pencils"]
+      }
+    ],
+    "postQuestions": [
+      {
+        "question": "What things can you buy at a stationery store?",
+        "keyConcepts": ["colored paper", "toys", "snacks", "soccer ball"]
+      }
+    ]
+  },
+  "missions": [
+    {
+      "title": "Draw Your Favorite Stationery Item",
+      "description": "Draw your favorite thing from the book and share it with your friends.",
+      "type": "CREATIVE"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "stationery store",
+      "definition": "A shop that sells pens, pencils, and other writing and drawing tools.",
+      "pageNumber": 0
+    }
+  ],
+  "contributors": {
+    "Writer": ["Eunpa Kim "],
+    "Illustrator": ["Jinyoung Do"]
+  },
+  "sourceLanguage": "ko",
+  "license": "CC BY 4.0",
+  "copyrightHolder": "Enuma, Inc. & The Foundation SeeArt for Book Culture",
+  "copyright": "is licensed under CC BY 4.0 by Enuma, Inc. & The Foundation SeeArt for Book Culture."
+}

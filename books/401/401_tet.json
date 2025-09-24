@@ -1,0 +1,84 @@
+{
+  "bookId": 401,
+  "language": "tet",
+  "title": "Ho Metro",
+  "summary": "Livro ida ne'e hatudu prosesu ne'ebé kmanek sira uza metro. Husi kartaun transporte, partida, movimentu, to oinsa ne'ebé metro deskobre, tanba ajuda kmanek sira komprenende ba ita-nia dia inteiro.",
+  "pages": [
+    {
+      "pageNumber": 0,
+      "texts": ["Ho Metro"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 1,
+      "texts": ["Ohin loron mak loron ne'ebe ha'u ba ha'u-nia tia-nia uma", "Ha'u tenki sae metro atu ba tia-nia uma"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 2,
+      "texts": ["Metro baibain halo movimentu husi rai okos", "Iha túnel nia laran ne'ebé metro liu ba ne'e nakukun, too"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 3,
+      "texts": ["Somin hasai kartaun transporte iha bolsu laran hodi tau kartaun no tama ba laran"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 4,
+      "texts": ["Ha'u tun ba eskada ba área sae metro nian", "Komboiu ne'ebé Somin atu sae aranka agora"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 5,
+      "texts": ["Metro baibain halo movimentu husi rai okos", "Iha túnel nia laran ne'ebé metro liu ba ne'e nakukun, too"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 6,
+      "texts": ["Metro mós halo movimentu iha rai leten", "Entaun, ita bele haree mundu iha liur através janela"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 7,
+      "texts": ["Agora tempu atu tun husi metro", "Bainhira sai husi estasaun metro nia liur, tia hein hela Somin"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 8,
+      "texts": ["Tia-nia asu, Bori mós mai hotu hasoru Somin", "\"Auau\"", "Bori parese kontente atu haree Somin"],
+      "pageType": "FULL_IMAGE"
+    }
+  ],
+  "comprehensionChecks": {
+    "preQuestions": [
+      {
+        "question": "Saida mak ita tenke iha atu uza metro?",
+        "keyConcepts": ["metro", "kartaun transporte", "estasaun"]
+      }
+    ],
+    "postQuestions": [
+      {
+        "question": "Osi mak Somin ba iha metro?",
+        "keyConcepts": ["tia-nia uma", "metro", "asu"]
+      }
+    ]
+  },
+  "missions": [
+    {
+      "title": "Hakat historia kona-ba uza metro",
+      "description": "Hakarak konta buat kona-ba ita-nia experiénsia ou imaginasaun uza metro.",
+      "type": "TEXT_RESPONSE"
+    }
+  ],
+  "contributors": {
+    "Writer": ["Eunpa Kim"],
+    "Illustrator": ["Jinyoung Do"],
+    "Translator": ["Rosarina"],
+    "Proofreader": ["Jisu An"]
+  },
+  "sourceLanguage": "ko",
+  "license": "CC BY 4.0",
+  "copyrightHolder": "Enuma, Inc. & The Foundation SeeArt for Book Culture",
+  "copyright": "is licensed under CC BY 4.0 by Enuma, Inc. & The Foundation SeeArt for Book Culture."
+}

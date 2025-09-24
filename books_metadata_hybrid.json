@@ -1,0 +1,384 @@
+{
+  "version": 304,
+  "lastUpdated": "2025-09-25T15:00:00Z",
+  "books": [
+    {
+      "id": 102,
+      "level": 1,
+      "unlockStep": 1,
+      "category": "DAILY_LIFE",
+      "countryOfOrigin": "ko",
+      "aiFeatures": ["VOCABULARY", "MISSIONS"],
+      "imageAssetsUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/102/102_images.zip",
+      "imageAssetsVersion": 100,
+      "languages": {
+        "ko": {
+          "title": "문방구",
+          "summary": "아이들의 일상에서 친숙한 공간인 문방구를 소재로 한 책이에요.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/102/cover_102_ko.jpg",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/102/102_ko.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "isBundled": true,
+          "tags": ["일상", "생활", "문방구"]
+        },
+        "en": {
+          "title": "Stationery Store",
+          "summary": "A story about the familiar stationery store from children's daily lives.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/102/cover_102_en.jpg",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/102/102_en.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "isBundled": true,
+          "tags": ["daily life", "stationery"]
+        },
+        "tet": {
+          "title": "Loja Kadernu",
+          "summary": "Istória kona-ba fatin ne’ebé labarik sira ba ami hosi loron-loron nian.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/102/cover_102_tet.jpg",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/102/102_tet.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "isBundled": true,
+          "tags": ["Loja", "Kadernu"]
+        }
+      }
+    },
+    {
+      "id": 103,
+      "level": 1,
+      "unlockStep": 1,
+      "category": "ENVIRONMENT",
+      "countryOfOrigin": "ko",
+      "aiFeatures": ["VOCABULARY", "MISSIONS"],
+      "imageAssetsUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/103/103_images.zip",
+      "imageAssetsVersion": 100,
+      "languages": {
+        "ko": {
+          "title": "야생동물",
+          "summary": "기린, 코끼리, 하마 등 여러 야생동물을 소개하며 자연에 대한 호기심을 키울 수 있어요.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/103/cover_103_ko.jpg",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/103/103_ko.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "isBundled": true,
+          "tags": ["환경", "자연", "동물"]
+        },
+        "en": {
+          "title": "Wild Animals",
+          "summary": "Introduces animals like giraffes, elephants, and hippos with short sentences to spark curiosity about nature.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/103/cover_103_en.jpg",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/103/103_en.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "isBundled": true,
+          "tags": ["environment", "nature", "animals"]
+        },
+        "tet": {
+          "title": "Animal Fuik",
+          "summary": "Hatudu animál seluk hanesan jirafa, elefante no hipopótamu, atu hadia koñesimentu kona-ba natureza.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/103/cover_103_tet.jpg",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/103/103_tet.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "isBundled": true,
+          "tags": ["ambiente", "natureza", "animál"]
+        }
+      }
+    },
+    {
+      "id": 907,
+      "level": 1,
+      "unlockStep": 1,
+      "category": "ENVIRONMENT",
+      "countryOfOrigin": "ko",
+      "aiFeatures": ["VOCABULARY", "MISSIONS"],
+      "imageAssetsUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/907/907_images.zip",
+      "imageAssetsVersion": 100,
+      "languages": {
+        "ko": {
+          "title": "쓰레기는 어떻게 변할까",
+          "summary": "이 책은 아이들에게 쓰레기가 환경 속에서 어떻게 변하고 재활용되는지 알려주며, 자연과 함께 살아가는 중요성을 이해시키는 이야기입니다.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/907/cover_907_ko.jpg",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/907/907_ko.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "isBundled": true,
+          "tags": ["쓰레기", "환경", "재활용"]
+        },
+        "en": {
+          "title": "Where does trash go?",
+          "summary": "A story teaching children how trash changes and recycles in the environment.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/907/cover_907_en.jpg",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/907/907_en.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "isBundled": true,
+          "tags": ["trash", "environment", "recycling"]
+        },
+        "tet": {
+          "title": "Lixu bele muda Oinsa?",
+          "summary": "Istória kona-ba fatin lixa muda no reutilizasaun iha natureza.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/907/cover_907_tet.jpg",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/907/907_tet.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "isBundled": true,
+          "tags": ["lixa", "natureza", "reutilizasaun"]
+        }
+      }
+    },
+    {
+      "id": 401,
+      "level": 2,
+      "unlockStep": 1,
+      "category": "DAILY_LIFE",
+      "countryOfOrigin": "ko",
+      "aiFeatures": ["VOCABULARY", "MISSIONS"],
+      "imageAssetsUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/401/401_images.zip",
+      "imageAssetsVersion": 100,
+      "languages": {
+        "ko": {
+          "title": "지하철을 타고",
+          "summary": "아이가 지하철을 타는 과정을 통해 일상적인 장소와 사물에 대한 어휘를 익히고, 간단한 이야기의 흐름을 파악하는 연습을 할 수 있어요.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/401/cover_401_ko.jpg",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/401/401_ko.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "isBundled": true,
+          "tags": ["일상", "생활", "지하철"]
+        },
+        "en": {
+          "title": "Taking the Subway",
+          "summary": "A child rides the subway, learning vocabulary for everyday places and objects, and practicing simple story flow.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/401/cover_401_en.jpg",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/401/401_en.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "isBundled": true,
+          "tags": ["daily life", "subway", "transportation"]
+        },
+        "tet": {
+          "title": "Ho Metro",
+          "summary": "Kontu kona-ba labarik ne’ebé sae subú atu aprende liafuan kona-ba fatin no buat loron-loron.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/401/cover_401_tet.jpg",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/401/401_tet.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "isBundled": true,
+          "tags": ["loron-loron", "subú", "transportasi"]
+        }
+      }
+    },
+    {
+      "id": 404,
+      "level": 2,
+      "unlockStep": 1,
+      "category": "SOCIAL_EMOTIONAL",
+      "countryOfOrigin": "ko",
+      "aiFeatures": ["VOCABULARY", "MISSIONS"],
+      "imageAssetsUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/404/404_images.zip",
+      "imageAssetsVersion": 100,
+      "languages": {
+        "ko": {
+          "title": "아기 사슴 로미",
+          "summary": "아기 사슴 로미의 이야기를 통해 자만심, 좌절, 위로 등 감정적 성장을 경험합니다.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/404/cover_404_ko.jpg",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/404/404_ko.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "isBundled": true,
+          "tags": ["감정", "자만심", "좌절", "위로"]
+        },
+        "en": {
+          "title": "Smile Please!",
+          "summary": "Through the story of baby deer Romi, children experience emotional growth like pride, frustration, and comfort.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/404/cover_404_en.jpg",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/404/404_en.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "isBundled": true,
+          "tags": ["emotion", "pride", "frustration", "comfort"]
+        },
+        "tet": {
+          "title": "Rusa-oan Romi",
+          "summary": "Istória kona-ba feto susar Romi ne’ebé aprende kona-ba sentimentu hanesan orgulho, frustraisaun no konfortu.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/404/cover_404_tet.jpg",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/404/404_tet.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "isBundled": true,
+          "tags": ["sentimentu", "orgulho", "frustraisaun", "konfortu"]
+        }
+      }
+    },
+    {
+      "id": 806,
+      "level": 3,
+      "unlockStep": 1,
+      "category": "CULTURE_WORLD",
+      "countryOfOrigin": "ko",
+      "aiFeatures": ["VOCABULARY", "MISSIONS"],
+      "imageAssetsUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/806/806_images.zip",
+      "imageAssetsVersion": 100,
+      "languages": {
+        "ko": {
+          "title": "중국 만두 이야기",
+          "summary": "중국 만두의 유래와 다양한 종류를 소개하며, 음식에 담긴 문화적 의미를 알려주는 책이에요.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/806/cover_806_ko.jpg",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/806/806_ko.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "isBundled": true,
+          "tags": ["중국", "음식", "문화", "만두"]
+        },
+        "en": {
+          "title": "Chinese Dumpling Story",
+          "summary": "This story introduces the history and culture of Chinese dumplings, from legends to mantou, baozi, jiaozi, shaomai, and wonton, and their symbolism in Chinese culture.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/806/cover_806_en.jpg",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/806/806_en.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "isBundled": true,
+          "tags": ["China", "dumplings", "food", "culture", "tradition"]
+        },
+        "tet": {
+          "title": "Istória kona-ba bolu Xinés",
+          "summary": "Istória kona-ba orijen no kultura husi dumpling sira iha China, inklui mantou, baozi, jiaozi, shaomai, no wonton.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/806/cover_806_tet.jpg",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/806/806_tet.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "isBundled": true,
+          "tags": ["China", "kultura", "han", "dumpling"]
+        }
+      }
+    },
+    {
+      "id": 801,
+      "level": 4,
+      "unlockStep": 1,
+      "category": "FOLKTALES_HISTORY",
+      "countryOfOrigin": "ko",
+      "aiFeatures": ["VOCABULARY", "MISSIONS"],
+      "imageAssetsUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/801/801_images.zip",
+      "imageAssetsVersion": 100,
+      "languages": {
+        "ko": {
+          "title": "락롱꽌과 아우꺼",
+          "summary": "베트남의 건국 신화를 다루며, 복잡한 인물 관계와 역사적 배경을 이해하는 데 도움이 됩니다.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/801/cover_801_ko.jpg",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/801/801_ko.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "isBundled": true,
+          "tags": ["베트남", "신화", "역사", "용", "선녀"]
+        },
+        "en": {
+          "title": "The Legend of Lac Long Quan and Au Co",
+          "summary": "베트남의 건국 신화를 다루며, 복잡한 인물 관계와 역사적 배경을 이해하는 데 도움이 됩니다.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/801/cover_801_en.jpg",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/801/801_en.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "isBundled": true,
+          "tags": ["Vietnam", "legend", "myth", "dragon", "fairy"]
+        },
+        "tet": {
+          "title": "Lenda kona-ba Lac Long Quan no Au Co",
+          "summary": "베트남의 건국 신화를 다루며, 복잡한 인물 관계와 역사적 배경을 이해하는 데 도움이 됩니다.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/801/cover_801_tet.jpg",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/801/801_tet.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "isBundled": true,
+          "tags": ["Vietnam", "myth", "history", "dragon", "fairy"]
+        }
+      }
+    },
+    {
+      "id": 817,
+      "level": 4,
+      "unlockStep": 1,
+      "category": "FOLKTALES_HISTORY",
+      "countryOfOrigin": "ko",
+      "aiFeatures": ["VOCABULARY", "MISSIONS"],
+      "imageAssetsUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/817/817_images.zip",
+      "imageAssetsVersion": 100,
+      "languages": {
+        "ko": {
+          "title": "금빛 물고기 이야기",
+          "summary": "태국의 전설을 통해 환생, 권선징악 등 복잡한 주제를 다룹니다.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/817/cover_817_ko.jpg",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/817/817_ko.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "isBundled": true,
+          "tags": ["태국", "전설", "물고기", "환생", "용서"]
+        },
+        "en": {
+          "title": "The Story of the Golden Goby Fish",
+          "summary": "태국의 전설을 통해 환생, 권선징악 등 복잡한 주제를 다룹니다.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/817/cover_817_en.jpg",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/817/817_en.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "isBundled": true,
+          "tags": ["Thailand", "folktale", "fish", "rebirth", "kindness"]
+        },
+        "tet": {
+          "title": "Istória kona-ba ikan osan-mean",
+          "summary": "태국의 전설을 통해 환생, 권선징악 등 복잡한 주제를 다룹니다.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/817/cover_817_tet.jpg",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/817/817_tet.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "isBundled": true,
+          "tags": ["Tailândia", "folklore", "ikan", "moris foun", "bondade"]
+        }
+      }
+    },
+    {
+      "id": 819,
+      "level": 5,
+      "unlockStep": 1,
+      "category": "CULTURE_WORLD",
+      "countryOfOrigin": "ko",
+      "aiFeatures": ["VOCABULARY", "MISSIONS"],
+      "imageAssetsUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/819/819_images.zip",
+      "imageAssetsVersion": 100,
+      "languages": {
+        "ko": {
+          "title": "빛의 축제 러이끄라통",
+          "summary": "태국의 아름다운 축제를 소개하며, 다른 나라의 문화와 풍습에 대한 깊이 있는 지식을 쌓을 수 있습니다.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/819/cover_819_ko.jpg",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/819/819_ko.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "isBundled": true,
+          "tags": ["태국", "축제", "문화", "러이끄라통", "등불"]
+        },
+        "en": {
+          "title": "Loi Krathong, the Festival of Lights",
+          "summary": "태국의 아름다운 축제를 소개하며, 다른 나라의 문화와 풍습에 대한 깊이 있는 지식을 쌓을 수 있습니다.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/819/cover_819_en.jpg",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/819/819_en.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "isBundled": true,
+          "tags": ["Thailand", "festival", "lanterns", "culture", "tradition"]
+        },
+        "tet": {
+          "title": "Loi Krathong, Festivál Naroman",
+          "summary": "태국의 아름다운 축제를 소개하며, 다른 나라의 문화와 풍습에 대한 깊이 있는 지식을 쌓을 수 있습니다.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/819/cover_819_tet.jpg",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/819/819_tet.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "isBundled": true,
+          "tags": ["Tailândia", "festival", "lanternu", "kultura"]
+        }
+      }
+    }
+  ]
+}
