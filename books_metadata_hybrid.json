@@ -5,17 +5,17 @@
     "ko": {
       "url": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/leveltest/level_test_questions_ko.json",
       "version": 101,
-      "sizeKB": 3
+      "size": 3
     },
     "en": {
       "url": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/leveltest/level_test_questions_en.json",
       "version": 100,
-      "sizeKB": 3
+      "size": 3
     },
     "tet": {
       "url": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/leveltest/level_test_questions_tet.json",
       "version": 100,
-      "sizeKB": 3
+      "size": 3
     }
   },
   "aiModels": {
@@ -23,7 +23,7 @@
       "glow_tts_url": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/ai/glow_tts_en.tflite",
       "hifigan_url": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/ai/hifigan_en.tflite",
       "version": 100,
-      "sizeKB": 11500
+      "size": 11500
     }
   },
   "books": [
