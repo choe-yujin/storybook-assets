@@ -1,107 +1,91 @@
 {
-  "bookId": 102,
+  "bookId": 106,
   "language": "ko",
-  "title": "문방구",
-  "summary": "이 책은 어린이들이 흔히 접하는 문방구 상품들을 소개합니다. 각 페이지마다 문방구 용품 이름이 하나씩 등장하며, 쉽게 익히고 배울 수 있도록 구성되어 있습니다.",
+  "title": "눈 오는 날",
+  "summary": "이 책은 눈 오는 날을 소개하며, 아이들이 눈으로 놀고 눈사람을 만들며 즐겁게 노는 모습을 보여줍니다.",
   "pages": [
     {
       "pageNumber": 0,
-      "image": "book_102_page_0.jpg",
-      "texts": ["문방구"],
+      "texts": ["눈 오는 날"],
       "pageType": "SPLIT"
     },
     {
       "pageNumber": 1,
-      "image": "book_102_page_1.jpg",
-      "texts": ["학교 앞 문방구"],
+      "texts": ["눈덩이를 굴려요."],
       "pageType": "FULL_IMAGE"
     },
     {
       "pageNumber": 2,
-      "image": "book_102_page_2.jpg",
-      "texts": ["과자"],
+      "texts": ["눈이 펑펑 내려요."],
       "pageType": "FULL_IMAGE"
     },
     {
       "pageNumber": 3,
-      "image": "book_102_page_3.jpg",
-      "texts": ["뽑기"],
+      "texts": ["단추와 모자"],
       "pageType": "FULL_IMAGE"
     },
     {
       "pageNumber": 4,
-      "image": "book_102_page_4.jpg",
-      "texts": ["스티커"],
+      "texts": ["짠! 눈사람이에요."],
       "pageType": "FULL_IMAGE"
     },
     {
       "pageNumber": 5,
-      "image": "book_102_page_5.jpg",
-      "texts": ["색종이"],
+      "texts": ["눈 오는 날"],
       "pageType": "FULL_IMAGE"
     },
     {
       "pageNumber": 6,
-      "image": "book_102_page_6.jpg",
-      "texts": ["장난감"],
+      "texts": ["눈을 뭉쳐요."],
       "pageType": "FULL_IMAGE"
     },
     {
       "pageNumber": 7,
-      "image": "book_102_page_7.jpg",
-      "texts": ["축구공"],
+      "texts": ["나뭇가지"],
       "pageType": "FULL_IMAGE"
     },
     {
       "pageNumber": 8,
-      "image": "book_102_page_8.jpg",
-      "texts": ["훌라후프"],
-      "pageType": "FULL_IMAGE"
-    },
-    {
-      "pageNumber": 9,
-      "image": "book_102_page_9.jpg",
-      "texts": ["크레파스"],
-      "pageType": "FULL_IMAGE"
-    },
-    {
-      "pageNumber": 10,
-      "image": "book_102_page_10.jpg",
-      "texts": ["함께 놀아요"],
+      "texts": ["목도리와 장갑"],
       "pageType": "FULL_IMAGE"
     }
   ],
   "comprehensionChecks": {
     "preQuestions": [
       {
-        "question": "문방구는 무엇인가요?",
-        "keyConcepts": ["문구 용품", "가게", "필기구"]
+        "question": "눈 오는 날에 무엇을 하고 싶나요?",
+        "keyConcepts": ["눈", "놀이", "눈사람"]
       }
     ],
     "postQuestions": [
       {
-        "question": "문방구에서 살 수 있는 물건은 무엇이 있나요?",
-        "keyConcepts": ["색종이", "장난감", "과자", "축구공"]
+        "question": "눈사람을 만들려면 무엇이 필요할까요?",
+        "keyConcepts": ["눈덩이", "모자", "단추", "목도리", "장갑", "나뭇가지"]
       }
     ]
   },
   "missions": [
     {
-      "title": "내가 좋아하는 문방구 물건",
-      "description": "책에 나오는 문방구 물건 중 가장 좋아하는 것을 그리고 친구들에게 소개해 보세요.",
+      "title": "나만의 눈사람 만들기",
+      "description": "눈으로 눈사람을 만들거나 그림으로 눈사람을 그려 보세요. 목도리와 모자를 잊지 마세요!",
       "type": "CREATIVE"
     }
   ],
   "vocabulary": [
     {
-      "word": "문방구",
-      "definition": "글씨 쓰기나 그림 그리기에 사용하는 여러 가지 도구를 파는 가게.",
-      "pageNumber": 0
+      "word": "눈사람",
+      "definition": "눈으로 만든 사람 모양의 조각으로, 보통 모자, 목도리, 단추 등으로 꾸밉니다.",
+      "pageNumber": 4
+    },
+    {
+      "word": "눈덩이",
+      "definition": "눈으로 뭉쳐 만든 둥근 덩어리입니다.",
+      "pageNumber": 1
     }
   ],
   "contributors": {
     "글": ["김은파"],
-    "삽화": ["도진영"]
+    "삽화": ["호"]
   },
   "sourceLanguage": "ko",
   "license": "CC BY 4.0",
