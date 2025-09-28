@@ -11,42 +11,37 @@
     },
     {
       "pageNumber": 1,
-      "texts": ["Rolling a Snowball"],
+      "texts": ["The snow falls heavily."],
       "pageType": "FULL_IMAGE"
     },
     {
       "pageNumber": 2,
-      "texts": ["The Snow Falls Gently"],
+      "texts": ["Packing the snow."],
       "pageType": "FULL_IMAGE"
     },
     {
       "pageNumber": 3,
-      "texts": ["A Hat and Buttons"],
+      "texts": ["Rolling a snowball."],
       "pageType": "FULL_IMAGE"
     },
     {
       "pageNumber": 4,
-      "texts": ["Ta-da! It’s a Snowman!"],
+      "texts": ["A scarf and mittens"],
       "pageType": "FULL_IMAGE"
     },
     {
       "pageNumber": 5,
-      "texts": ["A Snowy Day"],
+      "texts": ["A hat and buttons"],
       "pageType": "FULL_IMAGE"
     },
     {
       "pageNumber": 6,
-      "texts": ["Packing the Snow"],
+      "texts": ["Tree branches"],
       "pageType": "FULL_IMAGE"
     },
     {
       "pageNumber": 7,
-      "texts": ["Tree Branches"],
-      "pageType": "FULL_IMAGE"
-    },
-    {
-      "pageNumber": 8,
-      "texts": ["A Scarf and Mittens"],
+      "texts": ["Ta-da! It’s a snowman!"],
       "pageType": "FULL_IMAGE"
     }
   ],
@@ -75,12 +70,12 @@
     {
       "word": "snowman",
       "definition": "A figure made of snow, often decorated with a hat, scarf, and buttons.",
-      "pageNumber": 4
+      "pageNumber": 7
     },
     {
       "word": "snowball",
       "definition": "A ball made of snow, often rolled by hand.",
-      "pageNumber": 1
+      "pageNumber": 3
     }
   ],
   "contributors": {

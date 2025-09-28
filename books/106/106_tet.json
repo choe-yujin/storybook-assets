@@ -2,7 +2,7 @@
   "bookId": 106,
   "language": "tet",
   "title": "Loron ne’ebé Neve Tuun",
-  "summary": "Livro ida-ne’e hatudu loron ne’ebé neve tuun, no oin-oin dala sira ne’ebé labarik sira halimar ho neve no halo boneka neve ho bola neve, butaun, xapeu, selenda no luvas.",
+  "summary": "Livru ida ne'e hatudu loron ne’ebé neve tuun, no oin-oin ne'ebé labarik sosa alegria halimar ho neve no halo boneka neve.",
   "pages": [
     {
       "pageNumber": 0,
@@ -11,81 +11,78 @@
     },
     {
       "pageNumber": 1,
-      "texts": ["Rola bola neve."],
-      "pageType": "FULL_IMAGE"
-    },
-    {
-      "pageNumber": 2,
       "texts": ["Neve tuun maka'as."],
       "pageType": "FULL_IMAGE"
     },
     {
-      "pageNumber": 3,
-      "texts": ["Butaun no xapeu."],
-      "pageType": "FULL_IMAGE"
-    },
-    {
-      "pageNumber": 4,
-      "texts": ["Ta-da! Ida-ne'e mak boneka neve."],
-      "pageType": "FULL_IMAGE"
-    },
-    {
-      "pageNumber": 5,
-      "texts": ["Loron ne’ebé neve tuun."],
-      "pageType": "FULL_IMAGE"
-    },
-    {
-      "pageNumber": 6,
+      "pageNumber": 2,
       "texts": ["Mai ita tau hamutuk neve."],
       "pageType": "FULL_IMAGE"
     },
     {
-      "pageNumber": 7,
+      "pageNumber": 3,
+      "texts": ["Rola bola neve."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 4,
+      "texts": ["Selenda no Luvas"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 5,
+      "texts": ["Butaun no xapeu."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 6,
       "texts": ["Sanak"],
       "pageType": "FULL_IMAGE"
     },
     {
-      "pageNumber": 8,
-      "texts": ["Selenda no Luvas"],
+      "pageNumber": 7,
+      "texts": ["Ta-da! Ida-ne'e mak boneka neve."],
       "pageType": "FULL_IMAGE"
     }
   ],
   "comprehensionChecks": {
     "preQuestions": [
       {
-        "question": "Sa ida ita hakarak halo bainhira loron neve?",
+        "question": "Ita hakarak halo saida bainhira loron neve tuun?",
         "keyConcepts": ["neve", "halimar", "boneka neve"]
       }
     ],
     "postQuestions": [
       {
-        "question": "Sa mak ita presiza atu halo boneka neve?",
+        "question": "Hodi halo boneka neve, saida mak ita presiza?",
         "keyConcepts": ["bola neve", "xapeu", "butaun", "selenda", "luvas", "sanak"]
       }
     ]
   },
   "missions": [
     {
-      "title": "Halo Ita-nia Boneka Neve",
-      "description": "Uza neve ka desenha imajen atu halo ita-nia boneka neve. Labele haluha selenda no xapeu!",
+      "title": "Halo Boneka Neve Ita Nia De'it",
+      "description": "Hakarak halo boneka neve ka desenha boneka neve iha papel. Labele haluha selenda no xapeu!",
       "type": "CREATIVE"
     }
   ],
   "vocabulary": [
     {
-      "word": "boneka neve",
-      "definition": "Figura ne’ebé halo husi neve, dekoradu ho xapeu, selenda no butaun.",
+      "word": "Boneka neve",
+      "definition": "Estátua forma ema ne'ebé halo husi neve, dekoradu ho xapeu, selenda, butaun, no tanba seluk.",
       "pageNumber": 4
     },
     {
-      "word": "bola neve",
-      "definition": "Bola ne’ebé halo husi neve, normal rola ho liman.",
+      "word": "Bola neve",
+      "definition": "Bola ne'ebé halo husi neve mak ita rola no hamutuk.",
       "pageNumber": 1
     }
   ],
   "contributors": {
     "Writer": ["Eunpa Kim"],
-    "Illustrator": ["Ho"]
+    "Illustrator": ["Ho"],
+    "Translator": ["Helia"],
+    "Proofreader": ["Lia"]
   },
   "sourceLanguage": "ko",
   "license": "CC BY 4.0",

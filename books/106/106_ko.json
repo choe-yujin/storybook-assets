@@ -11,42 +11,37 @@
     },
     {
       "pageNumber": 1,
-      "texts": ["눈덩이를 굴려요."],
-      "pageType": "FULL_IMAGE"
-    },
-    {
-      "pageNumber": 2,
       "texts": ["눈이 펑펑 내려요."],
       "pageType": "FULL_IMAGE"
     },
     {
-      "pageNumber": 3,
-      "texts": ["단추와 모자"],
-      "pageType": "FULL_IMAGE"
-    },
-    {
-      "pageNumber": 4,
-      "texts": ["짠! 눈사람이에요."],
-      "pageType": "FULL_IMAGE"
-    },
-    {
-      "pageNumber": 5,
-      "texts": ["눈 오는 날"],
-      "pageType": "FULL_IMAGE"
-    },
-    {
-      "pageNumber": 6,
+      "pageNumber": 2,
       "texts": ["눈을 뭉쳐요."],
       "pageType": "FULL_IMAGE"
     },
     {
-      "pageNumber": 7,
+      "pageNumber": 3,
+      "texts": ["눈덩이를 굴려요."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 4,
+      "texts": ["목도리와 장갑"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 5,
+      "texts": ["단추와 모자"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 6,
       "texts": ["나뭇가지"],
       "pageType": "FULL_IMAGE"
     },
     {
-      "pageNumber": 8,
-      "texts": ["목도리와 장갑"],
+      "pageNumber": 7,
+      "texts": ["짠! 눈사람이에요."],
       "pageType": "FULL_IMAGE"
     }
   ],
