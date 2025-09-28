@@ -100,7 +100,7 @@
           "tags": ["환경", "자연", "동물"]
         },
         "en": {
-          "title": "Wild Animals",
+          "title": "Hello, Animals",
           "summary": "Introduces animals like giraffes, elephants, and hippos with short sentences to spark curiosity about nature.",
           "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/103/cover_103_en.jpg",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/103/103_en.json",

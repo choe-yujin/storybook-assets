@@ -7,7 +7,7 @@
     {
       "pageNumber": 0,
       "texts": ["아기 사슴 로미"],
-      "pageType": "FULL_IMAGE"
+      "pageType": "SPLIT"
     },
     {
       "pageNumber": 1,
@@ -109,8 +109,8 @@
     }
   ],
   "contributors": {
-    "Writer": ["마니샤 차우드리"],
-    "Illustrator": ["아지트 나라얀"]
+    "글": ["마니샤 차우드리"],
+    "삽화": ["아지트 나라얀"]
   },
   "sourceLanguage": "ko",
   "license": "CC BY 4.0",
