@@ -6,13 +6,11 @@
   "pages": [
     {
       "pageNumber": 0,
-      "image": "book_806_page_0.jpg",
       "texts": ["Chinese Dumpling Story"],
       "pageType": "SPLIT"
     },
     {
       "pageNumber": 1,
-      "image": "book_806_page_1.jpg",
       "texts": [
         "Hello!",
         "I am a dumpling.",
@@ -23,7 +21,6 @@
     },
     {
       "pageNumber": 2,
-      "image": "book_806_page_2.jpg",
       "texts": [
         "Zhuge Liang, a famous strategist in ancient China, encountered a storm at sea while returning from battle.",
         "Someone claimed that they must offer many human heads to appease the sea.",
@@ -34,7 +31,6 @@
     },
     {
       "pageNumber": 3,
-      "image": "book_806_page_3.jpg",
       "texts": [
         "The storm then subsided, and Zhuge Liang was able to return home safely.",
         "The offerings were called “mandu” after “Man,” the region Zhuge Liang had visited, and “du,” meaning “human head.”",
@@ -44,7 +40,6 @@
     },
     {
       "pageNumber": 4,
-      "image": "book_806_page_4.jpg",
       "texts": [
         "Chinese mantou does not have any fillings.",
         "It is a simple steamed bun that is soft and savory.",
@@ -54,7 +49,6 @@
     },
     {
       "pageNumber": 5,
-      "image": "book_806_page_5.jpg",
       "texts": [
         "Mantou comes in many different shapes in China.",
         "On New Year’s Day, mantou shaped like carp or gold nuggets are gifted to wish the recipient a year of abundance or wealth.",
@@ -64,7 +58,6 @@
     },
     {
       "pageNumber": 6,
-      "image": "book_806_page_6.jpg",
       "texts": [
         "Mantou is not the only type of dumpling without fillings.",
         "“Wotou,” a cone made from corn flour, does not have any fillings, but the hollow part can be filled with side dishes."
@@ -73,7 +66,6 @@
     },
     {
       "pageNumber": 7,
-      "image": "book_806_page_7.jpg",
       "texts": [
         "A dumpling in the form of a flour bun filled with meat or vegetables is called baozi in China.",
         "“Baozi,” a round bun filled with meat, vegetables, or shrimp, is known as “jjinppang” or “wangmandu” in Korea."
@@ -82,7 +74,6 @@
     },
     {
       "pageNumber": 8,
-      "image": "book_806_page_8.jpg",
       "texts": [
         "“Jiaozi,” a steamed dumpling made with flour and meat or vegetable fillings, is a must-eat for Chinese on New Year’s Day.",
         "In China, sometimes special objects are placed in jiaozi made for New Year’s Day.",
@@ -93,7 +84,6 @@
     },
     {
       "pageNumber": 9,
-      "image": "book_806_page_9.jpg",
       "texts": [
         "Some dumplings are less common in Korea.",
         "“Shaomai” is a flower-shaped steamed dumpling that shows the ingredients inside.",
@@ -103,7 +93,6 @@
     },
     {
       "pageNumber": 10,
-      "image": "book_806_page_10.jpg",
       "texts": [
         "There are many more interesting dumplings in China.",
         "These days, you can often find colorful mantou in the shape of cute animals.",

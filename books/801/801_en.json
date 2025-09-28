@@ -6,13 +6,11 @@
   "pages": [
     {
       "pageNumber": 0,
-      "image": "book_801_page_0.jpg",
       "texts": ["The Legend of Lac Long Quan and Au Co"],
       "pageType": "SPLIT"
     },
     {
       "pageNumber": 1,
-      "image": "book_801_page_1.jpg",
       "texts": [
         "Once upon a time, there was a hero named Lac Long Quan in the land of the Lac Viet.",
         "Like his grandfather, who was the king of dragons, Lac Long Quan was brave and could walk on water like on land."
@@ -21,7 +19,6 @@
     },
     {
       "pageNumber": 2,
-      "image": "book_801_page_2.jpg",
       "texts": [
         "At the time, the Lac Viet land was a wilderness with many monsters that hurt people.",
         "Lac Long Quan was a mighty hero, so he traveled all around the land to catch bad monsters that hurt people."
@@ -30,7 +27,6 @@
     },
     {
       "pageNumber": 3,
-      "image": "book_801_page_3.jpg",
       "texts": [
         "When Lac Long Quan went to the sea one day, he found Ngu Tinh, a big fish-like monster.",
         "Ngu Tinh was so large that its tail was as big as the sail of a big ship.",
@@ -40,7 +36,6 @@
     },
     {
       "pageNumber": 4,
-      "image": "book_801_page_4.jpg",
       "texts": [
         "However, Lac Long Quan was not scared and went to fight Ngu Tinh.",
         "Lac Long Quan cut Ngu Tinh with a big sword.",
@@ -50,7 +45,6 @@
     },
     {
       "pageNumber": 5,
-      "image": "book_801_page_5.jpg",
       "texts": [
         "After slaying Ngu Tinh, Lac Long Quan went to a mountain.",
         "In the mountain, there lived Ho Tinh, a nine-tailed fox more than a thousand years old, and it kidnapped people and kept them in a cave.",
@@ -61,7 +55,6 @@
     },
     {
       "pageNumber": 6,
-      "image": "book_801_page_6.jpg",
       "texts": [
         "Those who were saved told Lac Long Quan that there was another monster in the mountain called Moc Tinh and that it kidnapped and ate people.",
         "Having heard this, the hero went straight to the mountain to find Moc Tinh.",
@@ -71,7 +64,6 @@
     },
     {
       "pageNumber": 7,
-      "image": "book_801_page_7.jpg",
       "texts": [
         "Thanks to Lac Long Quan, all three of the vicious monsters were dead.",
         "Since then, people in the Lac Viet land have lived in peace.",
@@ -81,7 +73,6 @@
     },
     {
       "pageNumber": 8,
-      "image": "book_801_page_8.jpg",
       "texts": [
         "At the time, there was also a fairy named Au Co who helped people in the Lac Viet land.",
         "Au Co was an angel from heaven, and she healed the sick with her special powers."
@@ -90,7 +81,6 @@
     },
     {
       "pageNumber": 9,
-      "image": "book_801_page_9.jpg",
       "texts": [
         "On the way to capture a monster, Lac Long Quan fell in love with Au Co.",
         "They were married, had 100 children, and lived happily.",
@@ -101,7 +91,6 @@
     },
     {
       "pageNumber": 10,
-      "image": "book_801_page_10.jpg",
       "texts": [
         "\"I am a dragon, and you are a fairy.",
         "We can't stay together forever because we live in different places.",
@@ -112,7 +101,6 @@
     },
     {
       "pageNumber": 11,
-      "image": "book_801_page_11.jpg",
       "texts": [
         "So 50 children lived with their father to rule over the seas while the other 50 children lived with their mother to rule over the fields and mountains.",
         "These 100 children of Lac Long Quan and Au Co became Bach Viet, the ancestors of Vietnamese people."
@@ -121,7 +109,6 @@
     },
     {
       "pageNumber": 12,
-      "image": "book_801_page_12.jpg",
       "texts": [
         "The oldest son of Au Co, Hung Vuong, started a country named Van Lang and became its king.",
         "The kingdom of Van Lang was the first Vietnamese nation.",
@@ -131,7 +118,6 @@
     },
     {
       "pageNumber": 13,
-      "image": "book_801_page_13.jpg",
       "texts": ["To this day, the Vietnamese believe that they are the children of the dragon and the fairy, and that they have inherited the dragon's courage and the fairy's goodness and gentleness."],
       "pageType": "SPLIT"
     }

@@ -6,13 +6,11 @@
   "pages": [
     {
       "pageNumber": 0,
-      "image": "book_806_page_0.jpg",
       "texts": ["Istória kona-ba bolu Xinés"],
       "pageType": "SPLIT"
     },
     {
       "pageNumber": 1,
-      "image": "book_806_page_1.jpg",
       "texts": [
         "Óla?",
         "Ha'u maka Mandu (bolu).",
@@ -23,7 +21,6 @@
     },
     {
       "pageNumber": 2,
-      "image": "book_806_page_2.jpg",
       "texts": [
         "Iha tempu uluk, Zhuge Liang, estratéjiku famozu ida hosi Xina, bainhira fila hosi funu, nia hasoru anin-boot iha tasi.",
         "Iha tempu neʼebá, ema ida hatete katak tenke hasaʼe ema nia ulun barak nuʼudar sakrifísiu.",
@@ -34,7 +31,6 @@
     },
     {
       "pageNumber": 3,
-      "image": "book_806_page_3.jpg",
       "texts": [
         "Depois anin-boot ne'e tun, no Zhuge Liang bele fila ba uma ho seguru.",
         "Iha tempu ne'ebá, Zhuge Liang kombina liafuan rua: ‘man’ husi naran área ne'ebé nia vizita no ‘du’ ne'ebé signifika ema nia ulun, nune'e kria naran \"mandu\".",
@@ -44,7 +40,6 @@
     },
     {
       "pageNumber": 4,
-      "image": "book_806_page_4.jpg",
       "texts": [
         "Mantou xinés laiha buat ida iha laran.",
         "Masa terigu nian kukus ho vapor manas, nune'e testura sai mamar no sabór sai kmaan/naturál.",
@@ -54,7 +49,6 @@
     },
     {
       "pageNumber": 5,
-      "image": "book_806_page_5.jpg",
       "texts": [
         "Iha Xina, Mantou halo ho forma oioin.",
         "Durante Tinan Foun Xinés, Mantou dalaruma fó iha forma ikan osan-mean nian, ne'ebé simboliza esperansa ba tinan ida ne'ebé nakonu, ka iha forma osan-mean, ne'ebé simboliza esperansa atu hetan osan barak.",
@@ -64,7 +58,6 @@
     },
     {
       "pageNumber": 6,
-      "image": "book_806_page_6.jpg",
       "texts": [
         "Mandu ne’ebé la ense ho buat ida ne’e la’ós de’it Mantou.",
         "Wotou’, ne’ebé halo husi terigu batar no forma hanesan kóniku, laiha enxe, maibé parte okos konkavu atu nune’e bele enxe ho ai-han sira bainhira han."
@@ -73,7 +66,6 @@
     },
     {
       "pageNumber": 7,
-      "image": "book_806_page_7.jpg",
       "texts": [
         "Mandu ne'ebé ense ho na'an ka ai-horis iha terigu nian hanaran ‘Baozi’ iha Xina.",
         "Baozi ne'ebé forma hanesan bola no ensi ho na'an, modo, ka camarão koñesidu iha Korea hanesan ‘Jjinppang’ (paun tunu) ka ‘Wang Mandu’ (mandu jigante)."
@@ -82,7 +74,6 @@
     },
     {
       "pageNumber": 8,
-      "image": "book_806_page_8.jpg",
       "texts": [
         "Mandu daan ne'ebé halo hosi ai-farina nia kulit ne'ebé ensi ho na'an ka ai-horis sira hanaran ‘Jiaozi’, no hanesan ai-han ne'ebé tenke han ba ema Xinés sira durante Tinan Foun Xinés.",
         "Iha Xina, bainhira halo Jiaozi durante Tinan Foun Xinés, ema tau buat espesiál sira ne'ebé iha signifikadu di'ak iha sira; porezemplu, atu simboliza esperansa atu hetan osan barak, dala ruma sira tau osan-besi iha laran.",
@@ -92,7 +83,6 @@
     },
     {
       "pageNumber": 9,
-      "image": "book_806_page_9.jpg",
       "texts": [
         "Iha mós mandu ne'ebé maka ladún barak ka ladún baibain atu hetan iha Korea.",
         "Shao Mai' maka hahán ida ne'ebé halo ho kulit mandu nian ne'ebé forma hanesan ai-funan, atu nune'e nia preenchimentu bele haree, hafoin tunu.",
@@ -102,7 +92,6 @@
     },
     {
       "pageNumber": 10,
-      "image": "book_806_page_10.jpg",
       "texts": [
         "Aleinde ne'e, iha Xina iha mandu barak ne'ebé úniku no interesante.",
         "Foin lalais ne'e, Mantou barak maka kór no forma hanesan animál furak sira, divertidu/interesante tebes, loos ka lae?",
