@@ -6,67 +6,56 @@
   "pages": [
     {
       "pageNumber": 0,
-      "image": "book_102_page_0.jpg",
       "texts": ["문방구"],
       "pageType": "SPLIT"
     },
     {
       "pageNumber": 1,
-      "image": "book_102_page_1.jpg",
       "texts": ["학교 앞 문방구"],
       "pageType": "FULL_IMAGE"
     },
     {
       "pageNumber": 2,
-      "image": "book_102_page_2.jpg",
       "texts": ["과자"],
       "pageType": "FULL_IMAGE"
     },
     {
       "pageNumber": 3,
-      "image": "book_102_page_3.jpg",
       "texts": ["뽑기"],
       "pageType": "FULL_IMAGE"
     },
     {
       "pageNumber": 4,
-      "image": "book_102_page_4.jpg",
       "texts": ["스티커"],
       "pageType": "FULL_IMAGE"
     },
     {
       "pageNumber": 5,
-      "image": "book_102_page_5.jpg",
       "texts": ["색종이"],
       "pageType": "FULL_IMAGE"
     },
     {
       "pageNumber": 6,
-      "image": "book_102_page_6.jpg",
       "texts": ["장난감"],
       "pageType": "FULL_IMAGE"
     },
     {
       "pageNumber": 7,
-      "image": "book_102_page_7.jpg",
       "texts": ["축구공"],
       "pageType": "FULL_IMAGE"
     },
     {
       "pageNumber": 8,
-      "image": "book_102_page_8.jpg",
       "texts": ["훌라후프"],
       "pageType": "FULL_IMAGE"
     },
     {
       "pageNumber": 9,
-      "image": "book_102_page_9.jpg",
       "texts": ["크레파스"],
       "pageType": "FULL_IMAGE"
     },
     {
       "pageNumber": 10,
-      "image": "book_102_page_10.jpg",
       "texts": ["함께 놀아요"],
       "pageType": "FULL_IMAGE"
     }

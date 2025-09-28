@@ -6,67 +6,56 @@
   "pages": [
     {
       "pageNumber": 0,
-      "image": "book_102_page_0.jpg",
       "texts": ["Loja Kadernu"],
       "pageType": "SPLIT"
     },
     {
       "pageNumber": 1,
-      "image": "book_102_page_1.jpg",
       "texts": ["Loja kadernu nian iha eskola nia oin"],
       "pageType": "FULL_IMAGE"
     },
     {
       "pageNumber": 2,
-      "image": "book_102_page_2.jpg",
       "texts": ["Dosi merenda"],
       "pageType": "FULL_IMAGE"
     },
     {
       "pageNumber": 3,
-      "image": "book_102_page_3.jpg",
       "texts": ["Hasai dezenhu"],
       "pageType": "FULL_IMAGE"
     },
     {
       "pageNumber": 4,
-      "image": "book_102_page_4.jpg",
       "texts": ["Estiker"],
       "pageType": "FULL_IMAGE"
     },
     {
       "pageNumber": 5,
-      "image": "book_102_page_5.jpg",
       "texts": ["Suratahan-kores"],
       "pageType": "FULL_IMAGE"
     },
     {
       "pageNumber": 6,
-      "image": "book_102_page_6.jpg",
       "texts": ["Brinkedu"],
       "pageType": "FULL_IMAGE"
     },
     {
       "pageNumber": 7,
-      "image": "book_102_page_7.jpg",
       "texts": ["Bola football"],
       "pageType": "FULL_IMAGE"
     },
     {
       "pageNumber": 8,
-      "image": "book_102_page_8.jpg",
       "texts": ["Hula hoop"],
       "pageType": "FULL_IMAGE"
     },
     {
       "pageNumber": 9,
-      "image": "book_102_page_9.jpg",
       "texts": ["Lapis kor"],
       "pageType": "FULL_IMAGE"
     },
     {
       "pageNumber": 10,
-      "image": "book_102_page_10.jpg",
       "texts": ["Mai ita halimar hamutuk"],
       "pageType": "FULL_IMAGE"
     }
