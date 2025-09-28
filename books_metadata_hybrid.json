@@ -35,8 +35,8 @@
       "countryOfOrigin": "ko",
       "aiFeatures": ["VOCABULARY", "MISSIONS"],
       "imageAssetsUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/102/102_images.zip",
-      "imageAssetsVersion": 1262,
-      "imageAssetsSize": 0,
+      "imageAssetsVersion": 100,
+      "imageAssetsSize": 1262,
       "languages": {
         "ko": {
           "title": "문방구",
