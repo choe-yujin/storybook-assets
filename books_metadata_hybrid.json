@@ -198,7 +198,7 @@
           "tags": ["일상", "생활", "지하철"]
         },
         "en": {
-          "title": "Taking the Subway",
+          "title": "Riding the Subway",
           "summary": "A child rides the subway, learning vocabulary for everyday places and objects, and practicing simple story flow.",
           "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/401/cover_401_en.jpg",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/401/401_en.json",
