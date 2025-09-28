@@ -1,0 +1,94 @@
+{
+  "bookId": 106,
+  "language": "en",
+  "title": "A Snowy Day",
+  "summary": "This book introduces a snowy day, showing how children play with snow and build a snowman using snowballs, buttons, hats, scarves, and more.",
+  "pages": [
+    {
+      "pageNumber": 0,
+      "texts": ["A Snowy Day"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 1,
+      "texts": ["Rolling a Snowball"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 2,
+      "texts": ["The Snow Falls Gently"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 3,
+      "texts": ["A Hat and Buttons"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 4,
+      "texts": ["Ta-da! It’s a Snowman!"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 5,
+      "texts": ["A Snowy Day"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 6,
+      "texts": ["Packing the Snow"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 7,
+      "texts": ["Tree Branches"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 8,
+      "texts": ["A Scarf and Mittens"],
+      "pageType": "FULL_IMAGE"
+    }
+  ],
+  "comprehensionChecks": {
+    "preQuestions": [
+      {
+        "question": "What do you like to do on a snowy day?",
+        "keyConcepts": ["snow", "play", "snowman"]
+      }
+    ],
+    "postQuestions": [
+      {
+        "question": "What do you need to make a snowman?",
+        "keyConcepts": ["snowballs", "hat", "buttons", "scarf", "mittens", "branches"]
+      }
+    ]
+  },
+  "missions": [
+    {
+      "title": "Build Your Own Snowman",
+      "description": "Use snow or draw a picture to make your own snowman. Don’t forget the scarf and hat!",
+      "type": "CREATIVE"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "snowman",
+      "definition": "A figure made of snow, often decorated with a hat, scarf, and buttons.",
+      "pageNumber": 4
+    },
+    {
+      "word": "snowball",
+      "definition": "A ball made of snow, often rolled by hand.",
+      "pageNumber": 1
+    }
+  ],
+  "contributors": {
+    "Writer": ["Eunpa Kim"],
+    "Illustrator": ["Ho"]
+  },
+  "sourceLanguage": "ko",
+  "license": "CC BY 4.0",
+  "copyrightHolder": "Enuma, Inc. & The Foundation SeeArt for Book Culture",
+  "copyright": "is licensed under CC BY 4.0 by Enuma, Inc. & The Foundation SeeArt for Book Culture."
+}

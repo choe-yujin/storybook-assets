@@ -1,0 +1,110 @@
+{
+  "bookId": 102,
+  "language": "ko",
+  "title": "문방구",
+  "summary": "이 책은 어린이들이 흔히 접하는 문방구 상품들을 소개합니다. 각 페이지마다 문방구 용품 이름이 하나씩 등장하며, 쉽게 익히고 배울 수 있도록 구성되어 있습니다.",
+  "pages": [
+    {
+      "pageNumber": 0,
+      "image": "book_102_page_0.jpg",
+      "texts": ["문방구"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 1,
+      "image": "book_102_page_1.jpg",
+      "texts": ["학교 앞 문방구"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 2,
+      "image": "book_102_page_2.jpg",
+      "texts": ["과자"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 3,
+      "image": "book_102_page_3.jpg",
+      "texts": ["뽑기"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 4,
+      "image": "book_102_page_4.jpg",
+      "texts": ["스티커"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 5,
+      "image": "book_102_page_5.jpg",
+      "texts": ["색종이"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 6,
+      "image": "book_102_page_6.jpg",
+      "texts": ["장난감"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 7,
+      "image": "book_102_page_7.jpg",
+      "texts": ["축구공"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 8,
+      "image": "book_102_page_8.jpg",
+      "texts": ["훌라후프"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 9,
+      "image": "book_102_page_9.jpg",
+      "texts": ["크레파스"],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 10,
+      "image": "book_102_page_10.jpg",
+      "texts": ["함께 놀아요"],
+      "pageType": "FULL_IMAGE"
+    }
+  ],
+  "comprehensionChecks": {
+    "preQuestions": [
+      {
+        "question": "문방구는 무엇인가요?",
+        "keyConcepts": ["문구 용품", "가게", "필기구"]
+      }
+    ],
+    "postQuestions": [
+      {
+        "question": "문방구에서 살 수 있는 물건은 무엇이 있나요?",
+        "keyConcepts": ["색종이", "장난감", "과자", "축구공"]
+      }
+    ]
+  },
+  "missions": [
+    {
+      "title": "내가 좋아하는 문방구 물건",
+      "description": "책에 나오는 문방구 물건 중 가장 좋아하는 것을 그리고 친구들에게 소개해 보세요.",
+      "type": "CREATIVE"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "문방구",
+      "definition": "글씨 쓰기나 그림 그리기에 사용하는 여러 가지 도구를 파는 가게.",
+      "pageNumber": 0
+    }
+  ],
+  "contributors": {
+    "글": ["김은파"],
+    "삽화": ["도진영"]
+  },
+  "sourceLanguage": "ko",
+  "license": "CC BY 4.0",
+  "copyrightHolder": "Enuma, Inc. & The Foundation SeeArt for Book Culture",
+  "copyright": "is licensed under CC BY 4.0 by Enuma, Inc. & The Foundation SeeArt for Book Culture."
+}

@@ -467,6 +467,55 @@
           "tags": ["Tailândia", "festival", "lanternu", "kultura"]
         }
       }
+    },
+    {
+      "id": 106,
+      "level": 1,
+      "unlockStep": 2,
+      "category": "DAILY_LIFE",
+      "countryOfOrigin": "ko",
+      "aiFeatures": ["VOCABULARY", "MISSIONS"],
+      "imageAssetsUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/106/106_images.zip",
+      "imageAssetsVersion": 100,
+      "imageAssetsSize": 1538,
+      "languages": {
+        "ko": {
+          "title": "눈 오는 날",
+          "summary": "이 책은 눈 오는 날을 소개하며, 아이들이 눈으로 놀고 눈사람을 만들며 즐겁게 노는 모습을 보여줍니다.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/106/cover_106_ko.jpg",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/106/106_ko.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "coverImageSize": 64,
+          "contentSize": 3,
+          "isBundled": false,
+          "tags": ["눈", "겨울", "눈사람", "놀이"]
+        },
+        "en": {
+          "title": "A Snowy Day",
+          "summary": "This book introduces a snowy day, showing how children play with snow and build a snowman using snowballs, buttons, hats, scarves, and more.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/106/cover_106_en.jpg",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/106/106_en.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "coverImageSize": 136,
+          "contentSize": 3,
+          "isBundled": false,
+          "tags": ["snow", "winter", "snowman", "play"]
+        },
+        "tet": {
+          "title": "Loron ne’ebé Neve Tuun",
+          "summary": "Livro ida-ne’e hatudu loron ne’ebé neve tuun, no oin-oin dala sira ne’ebé labarik sira halimar ho neve no halo boneka neve ho bola neve, butaun, xapeu, selenda no luvas.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/106/cover_106_tet.jpg",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/106/106_tet.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "coverImageSize": 152,
+          "contentSize": 3,
+          "isBundled": false,
+          "tags": ["neve", "invernu", "boneka neve", "halimar"]
+        }
+      }
     }
   ]
 }
