@@ -362,9 +362,9 @@
           "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/801/cover_801_tet.jpg",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/801/801_tet.json",
           "coverVersion": 100,
-          "contentVersion": 101,
+          "contentVersion": 102,
           "coverImageSize": 182,
-          "contentSize": 6,
+          "contentSize": 7,
           "isBundled": false,
           "tags": ["Vietnam", "myth", "history", "dragon", "fairy"]
         }

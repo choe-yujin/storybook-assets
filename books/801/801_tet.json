@@ -122,6 +122,39 @@
       "pageType": "SPLIT"
     }
   ],
+  "comprehensionChecks": {
+    "preQuestions": [
+      {
+        "question": "Lac Long Quan iha kbiit espesial saida?",
+        "keyConcepts": ["la'o iha bee", "força dragaun", "bravura", "funu kontra monsu"]
+      }
+    ],
+    "postQuestions": [
+      {
+        "question": "Hau bele explica saida mak signifikadu istoria ne'e ba povu Vietnam?",
+        "keyConcepts": ["avós", "orijen povu", "oan dragaun no fada", "identidade"]
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "Lac Viet",
+      "definition": "Naran rai uluk iha Vietnam, ne'ebé agora maka parte norte Vietnam.",
+      "pageNumber": 1
+    },
+    {
+      "word": "monsu",
+      "definition": "Animal ou espirítu aat ne'ebé halo ema sofre.",
+      "pageNumber": 2
+    }
+  ],
+  "missions": [
+    {
+      "title": "Konta istoria kona-ba hau nia avó",
+      "description": "Buka istoria kona-ba avó ka katuas iha família, depois partilha istoria ne'ebé interessante liu ba ita nia kolega!",
+      "type": "ACTION_LOG"
+    }
+  ],
   "contributors": {
     "Writer": ["Hoang Thi Trang"],
     "Illustrator": ["Uyen Nguyen"],
