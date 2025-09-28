@@ -1,12 +1,12 @@
 {
   "bookId": 801,
   "language": "en",
-  "title": "The Legend of Lac Long Quan and Au Co",
-  "summary": "A legendary story of Vietnamese hero Lac Long Quan who defeats monsters and meets fairy Au Co, they marry and have 100 children who become the ancestors of Vietnamese people.",
+  "title": "Lac Long Quan and Au Co",
+  "summary": "The legendary Vietnamese hero Lac Long Quan defeats monsters and meets the fairy Au Co. They marry, have 100 children, and become the ancestors of the Vietnamese people.",
   "pages": [
     {
       "pageNumber": 0,
-      "texts": ["The Legend of Lac Long Quan and Au Co"],
+      "texts": ["Lac Long Quan and Au Co"],
       "pageType": "SPLIT"
     },
     {
@@ -118,8 +118,43 @@
     },
     {
       "pageNumber": 13,
-      "texts": ["To this day, the Vietnamese believe that they are the children of the dragon and the fairy, and that they have inherited the dragon's courage and the fairy's goodness and gentleness."],
+      "texts": [
+        "To this day, the Vietnamese believe that they are the children of the dragon and the fairy, and that they have inherited the dragon's courage and the fairy's goodness and gentleness."
+      ],
       "pageType": "SPLIT"
+    }
+  ],
+  "comprehensionChecks": {
+    "preQuestions": [
+      {
+        "question": "What special powers did Lac Long Quan have?",
+        "keyConcepts": ["walking on water", "power of the dragon", "bravery", "defeating monsters"]
+      }
+    ],
+    "postQuestions": [
+      {
+        "question": "What meaning does this story hold for the Vietnamese people?",
+        "keyConcepts": ["ancestors", "origin of the nation", "descendants of the dragon and fairy", "identity"]
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "Lac Viet",
+      "definition": "An ancient region of Vietnam, referring to the northern part of present-day Vietnam.",
+      "pageNumber": 1
+    },
+    {
+      "word": "monster",
+      "definition": "A creature that harms people, often imagined as an evil spirit or beast.",
+      "pageNumber": 2
+    }
+  ],
+  "missions": [
+    {
+      "title": "Tell Your Family Story",
+      "description": "Ask your family about your ancestors or elders. Share the most interesting story you heard with your friends!",
+      "type": "ACTION_LOG"
     }
   ],
   "contributors": {
