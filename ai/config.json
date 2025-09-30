@@ -1,0 +1,8 @@
+{
+  "characters": {
+    "pad": "_",
+    "eos": "~",
+    "bos": "^",
+    "characters": "abcdefghijklmnopqrstuvwxyz!'(),.:;-? "
+  }
+}
