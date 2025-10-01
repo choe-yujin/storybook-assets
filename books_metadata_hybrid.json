@@ -37,7 +37,7 @@
       "aiFeatures": ["VOCABULARY", "MISSIONS"],
       "imageAssetsUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/102/102_images.zip",
       "imageAssetsVersion": 100,
-      "imageAssetsSize": 1262,
+      "imageAssetsSize": 532,
       "languages": {
         "ko": {
           "title": "문방구",
@@ -46,7 +46,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/102/102_ko.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "coverImageSize": 82,
+          "coverImageSize": 18,
           "contentSize": 3,
           "isBundled": false,
           "tags": ["일상", "생활", "문방구"]
@@ -58,7 +58,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/102/102_en.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "coverImageSize": 165,
+          "coverImageSize": 19,
           "contentSize": 3,
           "isBundled": false,
           "tags": ["daily life", "stationery"]
@@ -70,8 +70,8 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/102/102_tet.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "coverImageSize": 162,
-          "contentSize": 4,
+          "coverImageSize": 19,
+          "contentSize": 3,
           "isBundled": false,
           "tags": ["Loja", "Kadernu"]
         }
@@ -86,7 +86,7 @@
       "aiFeatures": ["VOCABULARY", "MISSIONS"],
       "imageAssetsUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/103/103_images.zip",
       "imageAssetsVersion": 100,
-      "imageAssetsSize": 4354,
+      "imageAssetsSize": 401,
       "languages": {
         "ko": {
           "title": "야생동물",
@@ -95,7 +95,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/103/103_ko.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "coverImageSize": 54,
+          "coverImageSize": 12,
           "contentSize": 4,
           "isBundled": false,
           "tags": ["환경", "자연", "동물"]
@@ -107,7 +107,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/103/103_en.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "coverImageSize": 101,
+          "coverImageSize": 12,
           "contentSize": 4,
           "isBundled": false,
           "tags": ["environment", "nature", "animals"]
@@ -119,7 +119,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/103/103_tet.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "coverImageSize": 98,
+          "coverImageSize": 11,
           "contentSize": 4,
           "isBundled": false,
           "tags": ["ambiente", "natureza", "animál"]
@@ -135,7 +135,7 @@
       "aiFeatures": ["VOCABULARY", "MISSIONS"],
       "imageAssetsUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/907/907_images.zip",
       "imageAssetsVersion": 100,
-      "imageAssetsSize": 10247,
+      "imageAssetsSize": 824,
       "languages": {
         "ko": {
           "title": "쓰레기는 어떻게 변할까",
@@ -144,7 +144,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/907/907_ko.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "coverImageSize": 231,
+          "coverImageSize": 20,
           "contentSize": 5,
           "isBundled": false,
           "tags": ["쓰레기", "환경", "재활용"]
@@ -156,7 +156,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/907/907_en.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "coverImageSize": 230,
+          "coverImageSize": 21,
           "contentSize": 4,
           "isBundled": false,
           "tags": ["trash", "environment", "recycling"]
@@ -168,7 +168,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/907/907_tet.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "coverImageSize": 230,
+          "coverImageSize": 21,
           "contentSize": 4,
           "isBundled": false,
           "tags": ["lixa", "natureza", "reutilizasaun"]
@@ -184,7 +184,7 @@
       "aiFeatures": ["VOCABULARY", "MISSIONS"],
       "imageAssetsUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/401/401_images.zip",
       "imageAssetsVersion": 100,
-      "imageAssetsSize": 907,
+      "imageAssetsSize": 348,
       "languages": {
         "ko": {
           "title": "지하철을 타고",
@@ -193,7 +193,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/401/401_ko.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "coverImageSize": 76,
+          "coverImageSize": 15,
           "contentSize": 3,
           "isBundled": false,
           "tags": ["일상", "생활", "지하철"]
@@ -205,7 +205,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/401/401_en.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "coverImageSize": 158,
+          "coverImageSize": 16,
           "contentSize": 3,
           "isBundled": false,
           "tags": ["daily life", "subway", "transportation"]
@@ -217,7 +217,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/401/401_tet.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "coverImageSize": 141,
+          "coverImageSize": 14,
           "contentSize": 3,
           "isBundled": false,
           "tags": ["loron-loron", "subú", "transportasi"]
@@ -233,7 +233,7 @@
       "aiFeatures": ["VOCABULARY", "MISSIONS"],
       "imageAssetsUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/404/404_images.zip",
       "imageAssetsVersion": 100,
-      "imageAssetsSize": 2325,
+      "imageAssetsSize": 1397,
       "languages": {
         "ko": {
           "title": "아기 사슴 로미",
@@ -242,7 +242,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/404/404_ko.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "coverImageSize": 165,
+          "coverImageSize": 53,
           "contentSize": 4,
           "isBundled": false,
           "tags": ["감정", "자만심", "좌절", "위로"]
@@ -254,7 +254,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/404/404_en.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "coverImageSize": 326,
+          "coverImageSize": 52,
           "contentSize": 4,
           "isBundled": false,
           "tags": ["emotion", "pride", "frustration", "comfort"]
@@ -266,7 +266,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/404/404_tet.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "coverImageSize": 327,
+          "coverImageSize": 52,
           "contentSize": 4,
           "isBundled": false,
           "tags": ["sentimentu", "orgulho", "frustraisaun", "konfortu"]
@@ -282,7 +282,7 @@
       "aiFeatures": ["VOCABULARY", "MISSIONS"],
       "imageAssetsUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/806/806_images.zip",
       "imageAssetsVersion": 100,
-      "imageAssetsSize": 1808,
+      "imageAssetsSize": 848,
       "languages": {
         "ko": {
           "title": "중국 만두 이야기",
@@ -291,7 +291,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/806/806_ko.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "coverImageSize": 92,
+          "coverImageSize": 20,
           "contentSize": 7,
           "isBundled": false,
           "tags": ["중국", "음식", "문화", "만두"]
@@ -303,7 +303,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/806/806_en.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "coverImageSize": 98,
+          "coverImageSize": 23,
           "contentSize": 6,
           "isBundled": false,
           "tags": ["China", "dumplings", "food", "culture", "tradition"]
@@ -315,7 +315,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/806/806_tet.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "coverImageSize": 204,
+          "coverImageSize": 20,
           "contentSize": 7,
           "isBundled": false,
           "tags": ["China", "kultura", "han", "dumpling"]
@@ -331,7 +331,7 @@
       "aiFeatures": ["VOCABULARY", "MISSIONS"],
       "imageAssetsUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/801/801_images.zip",
       "imageAssetsVersion": 100,
-      "imageAssetsSize": 2947,
+      "imageAssetsSize": 1353,
       "languages": {
         "ko": {
           "title": "락롱꽌과 아우꺼",
@@ -340,7 +340,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/801/801_ko.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "coverImageSize": 87,
+          "coverImageSize": 17,
           "contentSize": 8,
           "isBundled": false,
           "tags": ["베트남", "신화", "역사", "용", "선녀"]
@@ -352,7 +352,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/801/801_en.json",
           "coverVersion": 100,
           "contentVersion": 102,
-          "coverImageSize": 124,
+          "coverImageSize": 19,
           "contentSize": 7,
           "isBundled": false,
           "tags": ["Vietnam", "legend", "myth", "dragon", "fairy"]
@@ -364,7 +364,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/801/801_tet.json",
           "coverVersion": 100,
           "contentVersion": 102,
-          "coverImageSize": 182,
+          "coverImageSize": 17,
           "contentSize": 7,
           "isBundled": false,
           "tags": ["Vietnam", "myth", "history", "dragon", "fairy"]
@@ -380,7 +380,7 @@
       "aiFeatures": ["VOCABULARY", "MISSIONS"],
       "imageAssetsUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/817/817_images.zip",
       "imageAssetsVersion": 100,
-      "imageAssetsSize": 2279,
+      "imageAssetsSize": 977,
       "languages": {
         "ko": {
           "title": "금빛 물고기 이야기",
@@ -389,7 +389,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/817/817_ko.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "coverImageSize": 68,
+          "coverImageSize": 15,
           "contentSize": 9,
           "isBundled": false,
           "tags": ["태국", "전설", "물고기", "환생", "용서"]
@@ -401,7 +401,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/817/817_en.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "coverImageSize": 100,
+          "coverImageSize": 17,
           "contentSize": 9,
           "isBundled": false,
           "tags": ["Thailand", "folktale", "fish", "rebirth", "kindness"]
@@ -413,7 +413,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/817/817_tet.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "coverImageSize": 152,
+          "coverImageSize": 16,
           "contentSize": 10,
           "isBundled": false,
           "tags": ["Tailândia", "folklore", "ikan", "moris foun", "bondade"]
@@ -429,7 +429,7 @@
       "aiFeatures": ["VOCABULARY", "MISSIONS"],
       "imageAssetsUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/819/819_images.zip",
       "imageAssetsVersion": 100,
-      "imageAssetsSize": 2380,
+      "imageAssetsSize": 993,
       "languages": {
         "ko": {
           "title": "빛의 축제 러이끄라통",
@@ -438,7 +438,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/819/819_ko.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "coverImageSize": 99,
+          "coverImageSize": 22,
           "contentSize": 9,
           "isBundled": false,
           "tags": ["태국", "축제", "문화", "러이끄라통", "등불"]
@@ -450,7 +450,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/819/819_en.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "coverImageSize": 151,
+          "coverImageSize": 24,
           "contentSize": 8,
           "isBundled": false,
           "tags": ["Thailand", "festival", "lanterns", "culture", "tradition"]
@@ -462,7 +462,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/819/819_tet.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "coverImageSize": 228,
+          "coverImageSize": 22,
           "contentSize": 8,
           "isBundled": false,
           "tags": ["Tailândia", "festival", "lanternu", "kultura"]
@@ -478,7 +478,7 @@
       "aiFeatures": ["VOCABULARY", "MISSIONS"],
       "imageAssetsUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/106/106_images.zip",
       "imageAssetsVersion": 100,
-      "imageAssetsSize": 1538,
+      "imageAssetsSize": 498,
       "languages": {
         "ko": {
           "title": "눈 오는 날",
@@ -487,7 +487,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/106/106_ko.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "coverImageSize": 64,
+          "coverImageSize": 13,
           "contentSize": 3,
           "isBundled": false,
           "tags": ["눈", "겨울", "눈사람", "놀이"]
@@ -499,7 +499,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/106/106_en.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "coverImageSize": 136,
+          "coverImageSize": 14,
           "contentSize": 3,
           "isBundled": false,
           "tags": ["snow", "winter", "snowman", "play"]
@@ -511,7 +511,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/106/106_tet.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "coverImageSize": 152,
+          "coverImageSize": 16,
           "contentSize": 3,
           "isBundled": false,
           "tags": ["neve", "invernu", "boneka neve", "halimar"]
