@@ -1,6 +1,6 @@
 {
-  "version": 304,
-  "lastUpdated": "2025-09-25T15:00:00Z",
+  "version": 305,
+  "lastUpdated": "2025-10-01T10::00Z",
   "questionBanks": {
     "ko": {
       "url": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/leveltest/level_test_questions_ko.json",
@@ -24,7 +24,7 @@
       "hifigan_url": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/ai/mbmelgan.tflite",
       "config_url": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/ai/config.json",
       "version": 100,
-      "size": 40303
+      "size": 40304
     }
   },
   "books": [
@@ -42,7 +42,7 @@
         "ko": {
           "title": "문방구",
           "summary": "아이들의 일상에서 친숙한 공간인 문방구를 소재로 한 책이에요.",
-          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/102/cover_102_ko.jpg",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/102/cover_102_ko.webp",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/102/102_ko.json",
           "coverVersion": 100,
           "contentVersion": 101,
@@ -54,7 +54,7 @@
         "en": {
           "title": "Stationery Store",
           "summary": "A story about the familiar stationery store from children's daily lives.",
-          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/102/cover_102_en.jpg",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/102/cover_102_en.webp",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/102/102_en.json",
           "coverVersion": 100,
           "contentVersion": 101,
@@ -66,7 +66,7 @@
         "tet": {
           "title": "Loja Kadernu",
           "summary": "Istória kona-ba fatin ne’ebé labarik sira ba ami hosi loron-loron nian.",
-          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/102/cover_102_tet.jpg",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/102/cover_102_tet.webp",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/102/102_tet.json",
           "coverVersion": 100,
           "contentVersion": 101,
@@ -91,7 +91,7 @@
         "ko": {
           "title": "야생동물",
           "summary": "기린, 코끼리, 하마 등 여러 야생동물을 소개하며 자연에 대한 호기심을 키울 수 있어요.",
-          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/103/cover_103_ko.jpg",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/103/cover_103_ko.webp",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/103/103_ko.json",
           "coverVersion": 100,
           "contentVersion": 101,
@@ -103,7 +103,7 @@
         "en": {
           "title": "Hello, Animals",
           "summary": "Introduces animals like giraffes, elephants, and hippos with short sentences to spark curiosity about nature.",
-          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/103/cover_103_en.jpg",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/103/cover_103_en.webp",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/103/103_en.json",
           "coverVersion": 100,
           "contentVersion": 101,
@@ -115,7 +115,7 @@
         "tet": {
           "title": "Animal Fuik",
           "summary": "Hatudu animál seluk hanesan jirafa, elefante no hipopótamu, atu hadia koñesimentu kona-ba natureza.",
-          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/103/cover_103_tet.jpg",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/103/cover_103_tet.webp",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/103/103_tet.json",
           "coverVersion": 100,
           "contentVersion": 101,
@@ -140,7 +140,7 @@
         "ko": {
           "title": "쓰레기는 어떻게 변할까",
           "summary": "이 책은 아이들에게 쓰레기가 환경 속에서 어떻게 변하고 재활용되는지 알려주며, 자연과 함께 살아가는 중요성을 이해시키는 이야기입니다.",
-          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/907/cover_907_ko.jpg",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/907/cover_907_ko.webp",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/907/907_ko.json",
           "coverVersion": 100,
           "contentVersion": 101,
@@ -152,7 +152,7 @@
         "en": {
           "title": "Where does trash go?",
           "summary": "A story teaching children how trash changes and recycles in the environment.",
-          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/907/cover_907_en.jpg",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/907/cover_907_en.webp",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/907/907_en.json",
           "coverVersion": 100,
           "contentVersion": 101,
@@ -164,7 +164,7 @@
         "tet": {
           "title": "Lixu bele muda Oinsa?",
           "summary": "Istória kona-ba fatin lixa muda no reutilizasaun iha natureza.",
-          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/907/cover_907_tet.jpg",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/907/cover_907_tet.webp",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/907/907_tet.json",
           "coverVersion": 100,
           "contentVersion": 101,
@@ -189,7 +189,7 @@
         "ko": {
           "title": "지하철을 타고",
           "summary": "아이가 지하철을 타는 과정을 통해 일상적인 장소와 사물에 대한 어휘를 익히고, 간단한 이야기의 흐름을 파악하는 연습을 할 수 있어요.",
-          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/401/cover_401_ko.jpg",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/401/cover_401_ko.webp",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/401/401_ko.json",
           "coverVersion": 100,
           "contentVersion": 101,
@@ -201,7 +201,7 @@
         "en": {
           "title": "Riding the Subway",
           "summary": "A child rides the subway, learning vocabulary for everyday places and objects, and practicing simple story flow.",
-          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/401/cover_401_en.jpg",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/401/cover_401_en.webp",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/401/401_en.json",
           "coverVersion": 100,
           "contentVersion": 101,
@@ -213,7 +213,7 @@
         "tet": {
           "title": "Ho Metro",
           "summary": "Kontu kona-ba labarik ne’ebé sae subú atu aprende liafuan kona-ba fatin no buat loron-loron.",
-          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/401/cover_401_tet.jpg",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/401/cover_401_tet.webp",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/401/401_tet.json",
           "coverVersion": 100,
           "contentVersion": 101,
@@ -238,7 +238,7 @@
         "ko": {
           "title": "아기 사슴 로미",
           "summary": "아기 사슴 로미의 이야기를 통해 자만심, 좌절, 위로 등 감정적 성장을 경험합니다.",
-          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/404/cover_404_ko.jpg",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/404/cover_404_ko.webp",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/404/404_ko.json",
           "coverVersion": 100,
           "contentVersion": 101,
@@ -250,7 +250,7 @@
         "en": {
           "title": "Smile Please!",
           "summary": "Through the story of baby deer Romi, children experience emotional growth like pride, frustration, and comfort.",
-          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/404/cover_404_en.jpg",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/404/cover_404_en.webp",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/404/404_en.json",
           "coverVersion": 100,
           "contentVersion": 101,
@@ -262,7 +262,7 @@
         "tet": {
           "title": "Rusa-oan Romi",
           "summary": "Istória kona-ba feto susar Romi ne’ebé aprende kona-ba sentimentu hanesan orgulho, frustraisaun no konfortu.",
-          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/404/cover_404_tet.jpg",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/404/cover_404_tet.webp",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/404/404_tet.json",
           "coverVersion": 100,
           "contentVersion": 101,
@@ -287,7 +287,7 @@
         "ko": {
           "title": "중국 만두 이야기",
           "summary": "중국 만두의 유래와 다양한 종류를 소개하며, 음식에 담긴 문화적 의미를 알려주는 책이에요.",
-          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/806/cover_806_ko.jpg",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/806/cover_806_ko.webp",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/806/806_ko.json",
           "coverVersion": 100,
           "contentVersion": 101,
@@ -299,7 +299,7 @@
         "en": {
           "title": "Chinese Dumpling Story",
           "summary": "This story introduces the history and culture of Chinese dumplings, from legends to mantou, baozi, jiaozi, shaomai, and wonton, and their symbolism in Chinese culture.",
-          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/806/cover_806_en.jpg",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/806/cover_806_en.webp",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/806/806_en.json",
           "coverVersion": 100,
           "contentVersion": 101,
@@ -311,7 +311,7 @@
         "tet": {
           "title": "Istória kona-ba bolu Xinés",
           "summary": "Istória kona-ba orijen no kultura husi dumpling sira iha China, inklui mantou, baozi, jiaozi, shaomai, no wonton.",
-          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/806/cover_806_tet.jpg",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/806/cover_806_tet.webp",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/806/806_tet.json",
           "coverVersion": 100,
           "contentVersion": 101,
@@ -336,7 +336,7 @@
         "ko": {
           "title": "락롱꽌과 아우꺼",
           "summary": "베트남의 건국 신화를 다루며, 복잡한 인물 관계와 역사적 배경을 이해하는 데 도움이 됩니다.",
-          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/801/cover_801_ko.jpg",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/801/cover_801_ko.webp",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/801/801_ko.json",
           "coverVersion": 100,
           "contentVersion": 101,
@@ -348,7 +348,7 @@
         "en": {
           "title": "The Legend of Lac Long Quan and Au Co",
           "summary": "This story tells the founding myth of Vietnam, helping readers understand the complex relationships and historical background of the characters.",
-          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/801/cover_801_en.jpg",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/801/cover_801_en.webp",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/801/801_en.json",
           "coverVersion": 100,
           "contentVersion": 102,
@@ -360,7 +360,7 @@
         "tet": {
           "title": "Lenda kona-ba Lac Long Quan no Au Co",
           "summary": "Istória ne’e hatudu lenda fundasaun Vietnam, ne’ebé ajuda husi kompreensaun relasaun kompliku no konteksu história personajen sira.",
-          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/801/cover_801_tet.jpg",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/801/cover_801_tet.webp",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/801/801_tet.json",
           "coverVersion": 100,
           "contentVersion": 102,
@@ -385,7 +385,7 @@
         "ko": {
           "title": "금빛 물고기 이야기",
           "summary": "태국의 전설을 통해 환생, 권선징악 등 복잡한 주제를 다룹니다.",
-          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/817/cover_817_ko.jpg",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/817/cover_817_ko.webp",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/817/817_ko.json",
           "coverVersion": 100,
           "contentVersion": 101,
@@ -397,7 +397,7 @@
         "en": {
           "title": "The Story of the Golden Goby Fish",
           "summary": "A Thai legend that explores complex themes such as reincarnation, justice, and forgiveness.",
-          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/817/cover_817_en.jpg",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/817/cover_817_en.webp",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/817/817_en.json",
           "coverVersion": 100,
           "contentVersion": 101,
@@ -409,7 +409,7 @@
         "tet": {
           "title": "Istória kona-ba ikan osan-mean",
           "summary": "Lenda Tailândia ne’e eksplora temas kompliku hanesan moris foun, justisa no bondade.",
-          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/817/cover_817_tet.jpg",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/817/cover_817_tet.webp",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/817/817_tet.json",
           "coverVersion": 100,
           "contentVersion": 101,
@@ -434,7 +434,7 @@
         "ko": {
           "title": "빛의 축제 러이끄라통",
           "summary": "태국의 아름다운 축제를 소개하며, 다른 나라의 문화와 풍습에 대한 깊이 있는 지식을 쌓을 수 있습니다.",
-          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/819/cover_819_ko.jpg",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/819/cover_819_ko.webp",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/819/819_ko.json",
           "coverVersion": 100,
           "contentVersion": 101,
@@ -446,7 +446,7 @@
         "en": {
           "title": "Loi Krathong, the Festival of Lights",
           "summary": "Introduces Thailand’s beautiful festival of lights and provides deep insight into the culture and customs of other countries.",
-          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/819/cover_819_en.jpg",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/819/cover_819_en.webp",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/819/819_en.json",
           "coverVersion": 100,
           "contentVersion": 101,
@@ -458,7 +458,7 @@
         "tet": {
           "title": "Loi Krathong, Festivál Naroman",
           "summary": "Apresenta festivál naroman bonita Tailândia no hatudu informasaun profunda kona-ba kultura no kostume husi rai seluk.",
-          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/819/cover_819_tet.jpg",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/819/cover_819_tet.webp",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/819/819_tet.json",
           "coverVersion": 100,
           "contentVersion": 101,
@@ -483,7 +483,7 @@
         "ko": {
           "title": "눈 오는 날",
           "summary": "이 책은 눈 오는 날을 소개하며, 아이들이 눈으로 놀고 눈사람을 만들며 즐겁게 노는 모습을 보여줍니다.",
-          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/106/cover_106_ko.jpg",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/106/cover_106_ko.webp",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/106/106_ko.json",
           "coverVersion": 100,
           "contentVersion": 101,
@@ -495,7 +495,7 @@
         "en": {
           "title": "A Snowy Day",
           "summary": "This book introduces a snowy day, showing how children play with snow and build a snowman using snowballs, buttons, hats, scarves, and more.",
-          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/106/cover_106_en.jpg",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/106/cover_106_en.webp",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/106/106_en.json",
           "coverVersion": 100,
           "contentVersion": 101,
@@ -507,7 +507,7 @@
         "tet": {
           "title": "Loron ne’ebé Neve Tuun",
           "summary": "Livro ida-ne’e hatudu loron ne’ebé neve tuun, no oin-oin dala sira ne’ebé labarik sira halimar ho neve no halo boneka neve ho bola neve, butaun, xapeu, selenda no luvas.",
-          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/106/cover_106_tet.jpg",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/106/cover_106_tet.webp",
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/106/106_tet.json",
           "coverVersion": 100,
           "contentVersion": 101,
