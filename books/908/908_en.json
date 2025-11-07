@@ -1,0 +1,144 @@
+{
+  "bookId": 908,
+  "language": "en",
+  "title": "Diverse Trees Protect the World",
+  "summary": "Through a story of diverse trees learning to understand one another and live together, children discover the importance of biodiversity, cooperation, and caring for the Earth.",
+  "pages": [
+    {
+      "pageNumber": 0,
+      "texts": ["Diverse Trees Protect the World"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 1,
+      "texts": ["Look at the Earth! There are special trees, full of personality just like you, living in the world. They all start from a tiny seed of life."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 2,
+      "texts": ["Some trees have leaves that are yellow and beautiful. \"Only if it's colorful like me can everyone be happy!\""],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 3,
+      "texts": ["Another tree is neatly dressed in square, light green leaves. \"Only if it's clean and proper like me can we make a clean Earth!\""],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 4,
+      "texts": ["This tree is covered entirely in strong, vibrant colors. \"Only with my strength can we protect the Earth strongly!\""],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 5,
+      "texts": ["The neighboring tree looks free. \"We have no fixed shape! This world should be fun and free!\""],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 6,
+      "texts": ["But a problem soon arose. They started arguing, \"Only my way is the best!\" Then, the trees seemed to wilt, and the Earth's colors began to fade."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 7,
+      "texts": ["When only the trees were left, they also seemed to gradually become sick."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 8,
+      "texts": ["It turns out, everyone was needed in this world! The strong trees bore more fruit, "],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 9,
+      "texts": ["and the small trees quietly protected the soil's nutrients."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 10,
+      "texts": ["Trees and flowers often help each other."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 11,
+      "texts": ["Together, they can bloom stronger and more beautiful flowers."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 12,
+      "texts": ["Strong trees, quiet trees, colorful trees... The special strength everyone has must combine for our Earth to breathe healthily."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 13,
+      "texts": ["Not just trees, but butterflies, birds, fish... All these lives must live together for our world to be more beautiful."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 14,
+      "texts": ["When we all protect this precious diversity of life and respect the unique personalities of different trees..."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 15,
+      "texts": ["Our world will become healthy and abundant!"],
+      "pageType": "SPLIT"
+    }
+  ],
+  "comprehensionChecks": {
+    "preQuestions": [
+      {
+        "question": "What kinds of trees appear in this story, and how do they help protect the Earth?",
+        "keyConcepts": ["trees", "cooperation", "diversity"]
+      }
+    ],
+    "postQuestions": [
+      {
+        "question": "Why do different trees and living creatures need to live together on Earth?",
+        "keyConcepts": ["coexistence", "environmental protection", "diversity respect"]
+      }
+    ]
+  },
+  "missions": [
+    {
+      "title": "Draw Tree Diversity",
+      "description": "Find trees around you with different shapes and colors. Draw them and write down what makes each tree unique.",
+      "type": "DRAWING"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "diversity",
+      "definition": "A state of having many different forms or kinds.",
+      "pageNumber": 8
+    },
+    {
+      "word": "cooperation",
+      "definition": "Working together with others to achieve a common goal.",
+      "pageNumber": 9
+    },
+    {
+      "word": "coexistence",
+      "definition": "Living together peacefully despite differences.",
+      "pageNumber": 10
+    },
+    {
+      "word": "abundance",
+      "definition": "A state of being full, rich, and plentiful.",
+      "pageNumber": 12
+    },
+    {
+      "word": "life",
+      "definition": "The energy or state that makes living things alive.",
+      "pageNumber": 1
+    }
+  ],
+  "contributors": {
+    "Writer": ["Teacher Yuni"],
+    "Illustrator": ["Children from Korea (Environmental Education Project)"]
+  },
+  "sourceLanguage": "ko",
+  "license": "CC BY 4.0",
+  "copyrightHolder": "Teacher Yuni",
+  "copyright": "is licensed under CC BY 4.0 by Teacher Yuni"
+}

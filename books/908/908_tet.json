@@ -1,0 +1,146 @@
+{
+  "bookId": 908,
+  "language": "tet",
+  "title": "Ai-tahan Oioin Proteje Mundu",
+  "summary": "Istória nee hatudu kona-ba ai-tahan oioin sira ne'ebé aprende atu kompriende malu no moris hamutuk, atu hatene importansia diversidade moris, kolaborasaun, no proteje natureza.",
+  "pages": [
+    {
+      "pageNumber": 0,
+      "texts": ["Ai-tahan Oioin Proteje Mundu"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 1,
+      "texts": ["Hare'e ba Mundu! Iha ai-tahan espesiál barak, ho personalidade hanesan imi, ne'ebé moris iha mundu. Sira hotu hahú husi semente ki'ik ida."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 2,
+      "texts": ["Ai-tahan nia tahan kór kinur no furak. \"Kór-oan hanesan ha'u mak bele halo ema hotu kontente!\""],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 3,
+      "texts": ["Ai-tahan seluk hatais tahan kór matak-malirin kuadradu ho moos. \"Moos no di'ak hanesan ha'u mak bele kria Mundu moos ida!\""],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 4,
+      "texts": ["Ai-tahan ida ne'e taka an ho kór forte. \"Ha'u-nia forsa mak bele proteje Mundu ho metin!\""],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 5,
+      "texts": ["Ai-tahan viziñu parese livre. \"Ami la iha forma fiksa! Mundu ne'e tenke lian no livre!\""],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 6,
+      "texts": ["Maibé problema mosu kedas. Sira hahú haksesuk malu, \"Ha'u-nia oin de'it mak di'ak liu!\" Depois, ai-tahan sira parese moris-aat, no Mundu nia kór sira komesa lakon."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 7,
+      "texts": ["Bainhira ai-tahan de'it mak hela, sira mós komesa moras neneik."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 8,
+      "texts": ["Maibé, Mundu ne'e presiza ema hotu! Ai-tahan forte sira fó fuan barak liután,"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 9,
+      "texts": ["no ai-tahan ki'ik sira proteje rai-nia nutrisaun ho hakmatek."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 10,
+      "texts": ["Ai-tahan no ai-funan dala barak tulun malu."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 11,
+      "texts": ["Hamutuk, sira bele halo ai-funan moris maka'as no furak liután."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 12,
+      "texts": ["Ai-tahan forte, ai-tahan hakmatek, ai-tahan kór-oan... Forsa espesiál ne'ebé ema hotu iha tenke hamutuk atu ita-nia Mundu bele dada iis ho saudavel."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 13,
+      "texts": ["La'ós ai-tahan de'it, maibé mós borboleta, manu, ikan... Moris hotu ne'e tenke moris hamutuk atu ita-nia Mundu sai furak liután."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 14,
+      "texts": ["Bainhira ita hotu proteje diversidade moris ne'ebé importante ne'e, no respeita ai-tahan sira-nia personalidade úniku..."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 15,
+      "texts": ["Sei sai Mundu ida ne'ebé saudável no furak!"],
+      "pageType": "SPLIT"
+    }
+  ],
+  "comprehensionChecks": {
+    "preQuestions": [
+      {
+        "question": "Saida mak ai-tahan sira ne'ebé iha istória nee, no oinsá mak sira bele ajuda atu proteje Mundu?",
+        "keyConcepts": ["ai-tahan", "kolaborasaun", "diversidade"]
+      }
+    ],
+    "postQuestions": [
+      {
+        "question": "Tansa mak ai-tahan oioin no moris seluk presiza moris hamutuk iha Mundu?",
+        "keyConcepts": ["koeksisténsia", "protejensaun natureza", "respeitu diversidade"]
+      }
+    ]
+  },
+  "missions": [
+    {
+      "title": "Desenha Diversidade Ai-tahan",
+      "description": "Buka ai-tahan oioin ho forma no kór diferente iha ita-nia area. Desenha sira no hakerek karakterístika espesífiku ida-idak.",
+      "type": "DRAWING"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "diversidade",
+      "definition": "Kondisaun ne’ebé iha buat barak diferente.",
+      "pageNumber": 8
+    },
+    {
+      "word": "kolaborasaun",
+      "definition": "Kuda liman ho malu atu halo buat ida hamutuk.",
+      "pageNumber": 9
+    },
+    {
+      "word": "koeksisténsia",
+      "definition": "Moris hamutuk ho demokráti no ho pasénsia.",
+      "pageNumber": 10
+    },
+    {
+      "word": "abundánsia",
+      "definition": "Kondisaun ne’ebé kompletu no boot liután.",
+      "pageNumber": 12
+    },
+    {
+      "word": "moris",
+      "definition": "Energía ne’ebé halo buat ida hela no move.",
+      "pageNumber": 1
+    }
+  ],
+  "contributors": {
+    "Writer": ["Mestra Yuni"],
+    "Illustrator": [
+      "Labarik sira Korea nian (Projeitu Edukasaun Ambientál)"
+    ]
+  },
+  "sourceLanguage": "tet",
+  "license": "CC BY 4.0",
+  "copyrightHolder": "Mestra Yuni",
+  "copyright": "is licensed under CC BY 4.0 by Mestra Yuni"
+}

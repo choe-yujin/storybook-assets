@@ -1,0 +1,144 @@
+{
+  "bookId": 908,
+  "language": "ko",
+  "title": "다양한 나무가 세상을 지켜요",
+  "summary": "다양한 모습을 지닌 나무들이 서로의 차이를 이해하고 함께 살아가며 지구를 지키는 이야기를 통해 환경과 생명 다양성의 가치를 배워요.",
+  "pages": [
+    {
+      "pageNumber": 0,
+      "texts": ["다양한 나무가 세상을 지켜요"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 1,
+      "texts": ["지구를 보세요! 세상에는 우리 친구들처럼 개성이 가득한 특별한 나무들이 살고 있답니다. 아주 작은 생명의 씨앗에서 시작하죠."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 2,
+      "texts": ["어떤 나무는 잎사귀도 노랗고 예쁜 모양이에요. \"나처럼 화려해야 모두가 행복하지!\""],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 3,
+      "texts": ["또 다른 나무는 네모난 연두색 옷을 반듯하게 차려입었어요. \"나처럼 깔끔하고 반듯해야 깨끗한 지구를 만들 수 있어!\""],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 4,
+      "texts": ["이 나무는 온통 강렬한 색깔로 몸을 감쌌어요. \"나처럼 힘이 넘쳐야 지구를 튼튼하게 지킬 수 있다고!\""],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 5,
+      "texts": ["이웃의 나무는 자유로워 보여요. \"우리는 정해진 모양이 없어! 이 세상은 재미있고 자유로워야 해!\""],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 6,
+      "texts": ["하지만 곧 문제가 생겼어요. \"내 모습만 최고야!\" 하고 다투기 시작한 거예요. 그러자 나무들이 시들고, 지구의 색깔이 점점 사라지는 것 같았죠."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 7,
+      "texts": ["나무만 남고 나니 나무들도 점점 병들어 가는 것 같았어요."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 8,
+      "texts": ["알고 보니, 이 세상은 모두가 필요했어요! 강렬한 나무는 더 많은 열매를 맺어주고, "],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 9,
+      "texts": ["작은 나무는 조용히 땅의 영양분을 지켜주었죠."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 10,
+      "texts": ["나무와 꽃은 서로에게 도움을 주기도 해요."],
+      "pageType": "FULL_IMAGE"
+    },
+    {
+      "pageNumber": 11,
+      "texts": ["함께 더 강하고 화려한 꽃을 피우기도 하죠."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 12,
+      "texts": ["강한 나무, 조용한 나무, 알록달록한 나무... 모두가 가진 힘이 합쳐져야 우리 지구는 건강하게 숨을 쉴 수 있어요."],
+      "pageType": "FULL_IMAGE"
+    },
+      {
+      "pageNumber": 13,
+      "texts": ["나무뿐만 아니라, 나비, 새, 물고기... 이 모든 생명들이 함께 살아야 우리 세상은 더 아름다워요."],
+      "pageType": "SPLIT"
+    },
+      {
+      "pageNumber": 14,
+      "texts": ["우리 모두 이 소중한 생명의 다양성을 지키고, 서로 다른 나무들의 개성을 존중해 줄 때..."],
+      "pageType": "SPLIT"
+    },
+      {
+      "pageNumber": 15,
+      "texts": ["건강하고 풍요로운 세상이 될 거예요!"],
+      "pageType": "SPLIT"
+    }
+  ],
+  "comprehensionChecks": {
+    "preQuestions": [
+      {
+        "question": "이 책에서는 어떤 종류의 나무들이 나오고, 그 나무들이 지구를 위해 무엇을 하는지 생각해 보세요.",
+        "keyConcepts": ["나무", "협력", "다양성"]
+      }
+    ],
+    "postQuestions": [
+      {
+        "question": "왜 지구에는 다양한 나무와 생명들이 함께 살아야 할까요?",
+        "keyConcepts": ["공존", "환경 보호", "다양성 존중"]
+      }
+    ]
+  },
+  "missions": [
+    {
+      "title": "나무 다양성 그림 그리기",
+      "description": "주변에서 다른 모양과 색깔의 나무들을 찾아 그림으로 표현해 보세요. 그리고 각 나무의 특징을 적어 보세요.",
+      "type": "DRAWING"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "다양성",
+      "definition": "모양이나 성질이 여러 가지로 서로 다른 성질.",
+      "pageNumber": 8
+    },
+    {
+      "word": "협력",
+      "definition": "서로 도와 함께 일함.",
+      "pageNumber": 9
+    },
+    {
+      "word": "공존",
+      "definition": "서로 다른 존재가 함께 존재함.",
+      "pageNumber": 10
+    },
+    {
+      "word": "풍요",
+      "definition": "넉넉하고 풍성한 상태.",
+      "pageNumber": 12
+    },
+    {
+      "word": "생명",
+      "definition": "살아 움직이는 존재의 힘.",
+      "pageNumber": 1
+    }
+  ],
+  "contributors": {
+    "글": ["유니 선생님"],
+    "삽화": ["한국 어린이 그림 참여 (환경 교육 프로젝트)"]
+  },
+  "sourceLanguage": "ko",
+  "license": "CC BY 4.0",
+  "copyrightHolder": "Teacher Yuni",
+  "copyright": "is licensed under CC BY 4.0 by Teacher Yuni"
+}

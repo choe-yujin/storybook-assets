@@ -517,6 +517,55 @@
           "tags": ["neve", "invernu", "boneka neve", "halimar"]
         }
       }
+    },
+    {
+      "id": 908,
+      "level": 2,
+      "unlockStep": 1,
+      "category": "ENVIRONMENT",
+      "countryOfOrigin": "ko",
+      "aiFeatures": ["VOCABULARY", "MISSIONS"],
+      "imageAssetsUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/908/908_images.zip",
+      "imageAssetsVersion": 100,
+      "imageAssetsSize": 732,
+      "languages": {
+        "ko": {
+          "title": "다양한 나무가 세상을 지켜요",
+          "summary": "다양한 모습을 가진 나무들이 서로의 차이를 이해하고 협력하며 지구를 지키는 이야기를 통해, 생명 다양성과 공존의 가치를 배워요.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/908/cover_908_ko.webp",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/908/908_ko.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "coverImageSize": 20,
+          "contentSize": 6,
+          "isBundled": false,
+          "tags": ["나무", "환경", "생명", "공존", "다양성"]
+        },
+        "en": {
+          "title": "Diverse Trees Protect the World",
+          "summary": "Through the story of trees with different looks and personalities, children learn the importance of cooperation, biodiversity, and protecting the Earth together.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/908/cover_908_en.webp",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/908/908_en.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "coverImageSize": 21,
+          "contentSize": 6,
+          "isBundled": false,
+          "tags": ["trees", "environment", "biodiversity", "cooperation"]
+        },
+        "tet": {
+          "title": "Ai-tahan Oioin Proteje Mundu",
+          "summary": "Istória kona-ba ai-tahan ho forma no kolor oioin ne’ebé aprende kona-ba importansia diversidade moris no proteje natureza hamutuk.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/908/cover_908_tet.webp",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/908/908_tet.json",
+          "coverVersion": 100,
+          "contentVersion": 101,
+          "coverImageSize": 20,
+          "contentSize": 6,
+          "isBundled": false,
+          "tags": ["ai-tahan", "ambiente", "diversidade", "natureza"]
+        }
+      }
     }
   ]
 }
