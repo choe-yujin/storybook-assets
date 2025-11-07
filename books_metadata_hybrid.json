@@ -527,7 +527,7 @@
       "aiFeatures": ["VOCABULARY", "MISSIONS"],
       "imageAssetsUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/908/908_images.zip",
       "imageAssetsVersion": 100,
-      "imageAssetsSize": 732,
+      "imageAssetsSize": 972,
       "languages": {
         "ko": {
           "title": "다양한 나무가 세상을 지켜요",
@@ -536,7 +536,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/908/908_ko.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "coverImageSize": 20,
+          "coverImageSize": 14,
           "contentSize": 6,
           "isBundled": false,
           "tags": ["나무", "환경", "생명", "공존", "다양성"]
@@ -548,8 +548,8 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/908/908_en.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "coverImageSize": 21,
-          "contentSize": 6,
+          "coverImageSize": 14,
+          "contentSize": 5,
           "isBundled": false,
           "tags": ["trees", "environment", "biodiversity", "cooperation"]
         },
@@ -560,7 +560,7 @@
           "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/908/908_tet.json",
           "coverVersion": 100,
           "contentVersion": 101,
-          "coverImageSize": 20,
+          "coverImageSize": 14,
           "contentSize": 6,
           "isBundled": false,
           "tags": ["ai-tahan", "ambiente", "diversidade", "natureza"]
