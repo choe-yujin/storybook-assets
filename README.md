@@ -1,0 +1,17 @@
+# 2025 새싹 해커톤 AI 기능 추가 기획 자료
+
+![발표 자료 슬라이드 1](./docs/sesac_ppt_page-0001.jpg)
+![발표 자료 슬라이드 2](./docs/sesac_ppt_page-0002.jpg)
+![발표 자료 슬라이드 3](./docs/sesac_ppt_page-0003.jpg)
+![발표 자료 슬라이드 4](./docs/sesac_ppt_page-0004.jpg)
+![발표 자료 슬라이드 5](./docs/sesac_ppt_page-0005.jpg)
+![발표 자료 슬라이드 6](./docs/sesac_ppt_page-0006.jpg)
+![발표 자료 슬라이드 7](./docs/sesac_ppt_page-0007.jpg)
+![발표 자료 슬라이드 8](./docs/sesac_ppt_page-0008.jpg)
+![발표 자료 슬라이드 9](./docs/sesac_ppt_page-0009.jpg)
+![발표 자료 슬라이드 10](./docs/sesac_ppt_page-0010.jpg)
+![발표 자료 슬라이드 11](./docs/sesac_ppt_page-0011.jpg)
+![발표 자료 슬라이드 12](./docs/sesac_ppt_page-0012.jpg)
+![발표 자료 슬라이드 13](./docs/sesac_ppt_page-0013.jpg)
+![발표 자료 슬라이드 14](./docs/sesac_ppt_page-0014.jpg)
+![발표 자료 슬라이드 15](./docs/sesac_ppt_page-0015.jpg)
