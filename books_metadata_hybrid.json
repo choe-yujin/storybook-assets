@@ -1,6 +1,6 @@
 {
-  "version": 305,
-  "lastUpdated": "2025-10-01T10::00Z",
+  "version": 306,
+  "lastUpdated": "2025-12-05T07:15Z",
   "questionBanks": {
     "ko": {
       "url": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/leveltest/level_test_questions_ko.json",
@@ -564,6 +564,251 @@
           "contentSize": 5,
           "isBundled": false,
           "tags": ["ai-tahan", "ambiente", "diversidade", "natureza"]
+        }
+      }
+    },
+    {
+      "id": 601,
+      "level": 1,
+      "unlockStep": 1,
+      "category": "ENVIRONMENT",
+      "countryOfOrigin": "ko",
+      "aiFeatures": ["VOCABULARY", "MISSIONS"],
+      "imageAssetsUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/601/601_images.zip",
+      "imageAssetsVersion": 100,
+      "imageAssetsSize": 523,
+      "languages": {
+        "ko": {
+          "title": "물을 아껴 써요",
+          "summary": "물의 소중함과 물을 아껴 써야 하는 이유를 알려주는 이야기입니다.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/601/cover_601_ko.webp",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/601/601_ko.json",
+          "coverVersion": 100,
+          "contentVersion": 100,
+          "coverImageSize": 24,
+          "contentSize": 4,
+          "isBundled": false,
+          "tags": ["물", "환경", "절약"]
+        },
+        "en": {
+          "title": "Let's Save Water",
+          "summary": "This book teaches why water is precious and how we can save it in daily life.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/601/cover_601_en.webp",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/601/601_en.json",
+          "coverVersion": 100,
+          "contentVersion": 100,
+          "coverImageSize": 25,
+          "contentSize": 4,
+          "isBundled": false,
+          "tags": ["water", "environment", "conservation"]
+        },
+        "tet": {
+          "title": "Kuidadu Bee",
+          "summary": "Istória ida ne'ebé hatudu importánsia bee no oinsa mak ita bele kuidadu no tau respetu ba bee iha loron-loron.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/601/cover_601_tet.webp",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/601/601_tet.json",
+          "coverVersion": 100,
+          "contentVersion": 100,
+          "coverImageSize": 25,
+          "contentSize": 4,
+          "isBundled": false,
+          "tags": ["bee", "ambiente", "kuidadu"]
+        }
+      }
+    },
+    {
+      "id": 602,
+      "level": 1,
+      "unlockStep": 1,
+      "category": "ENVIRONMENT",
+      "countryOfOrigin": "ko",
+      "aiFeatures": ["VOCABULARY", "MISSIONS"],
+      "imageAssetsUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/602/602_images.zip",
+      "imageAssetsVersion": 100,
+      "imageAssetsSize": 747,
+      "languages": {
+        "ko": {
+          "title": "다양한 씨앗들의 노래",
+          "summary": "여러 가지 씨앗이 자라서 다양한 생명으로 이어지는 과정을 통해 생물 다양성의 가치를 알려주는 책입니다.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/602/cover_602_ko.webp",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/602/602_ko.json",
+          "coverVersion": 100,
+          "contentVersion": 100,
+          "coverImageSize": 36,
+          "contentSize": 4,
+          "isBundled": false,
+          "tags": ["씨앗", "생물다양성", "자연"]
+        },
+        "en": {
+          "title": "The Song of Many Seeds",
+          "summary": "A story about many seeds growing into plants and teaching the importance of biodiversity.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/602/cover_602_en.webp",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/602/602_en.json",
+          "coverVersion": 100,
+          "contentVersion": 100,
+          "coverImageSize": 36,
+          "contentSize": 4,
+          "isBundled": false,
+          "tags": ["seeds", "biodiversity", "nature"]
+        },
+        "tet": {
+          "title": "Hananu Fini Oin-Oin",
+          "summary": "Livru ida kona-ba fini oin-oin ne'ebé moris sai ai-horis no hatudu importánsia biodiversidade.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/602/cover_602_tet.webp",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/602/602_tet.json",
+          "coverVersion": 100,
+          "contentVersion": 100,
+          "coverImageSize": 37,
+          "contentSize": 4,
+          "isBundled": false,
+          "tags": ["fini", "biodiversidade", "natureza"]
+        }
+      }
+    },
+    {
+      "id": 603,
+      "level": 1,
+      "unlockStep": 1,
+      "category": "ENVIRONMENT",
+      "countryOfOrigin": "ko",
+      "aiFeatures": ["VOCABULARY", "MISSIONS"],
+      "imageAssetsUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/603/603_images.zip",
+      "imageAssetsVersion": 100,
+      "imageAssetsSize": 432,
+      "languages": {
+        "ko": {
+          "title": "깨끗한 우리 마을",
+          "summary": "우리 동네를 함께 청소하고 가꾸며 깨끗한 환경의 소중함을 배우는 이야기입니다.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/603/cover_603_ko.webp",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/603/603_ko.json",
+          "coverVersion": 100,
+          "contentVersion": 100,
+          "coverImageSize": 24,
+          "contentSize": 3,
+          "isBundled": false,
+          "tags": ["마을", "환경", "청소"]
+        },
+        "en": {
+          "title": "Our Clean Village",
+          "summary": "A simple story about cleaning the village and learning to keep our environment clean together.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/603/cover_603_en.webp",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/603/603_en.json",
+          "coverVersion": 100,
+          "contentVersion": 100,
+          "coverImageSize": 27,
+          "contentSize": 3,
+          "isBundled": false,
+          "tags": ["village", "cleanliness", "environment"]
+        },
+        "tet": {
+          "title": "Ami Nia Hela Fatin Moos",
+          "summary": "Istória ida kona-ba hamoos aldeia hamutuk no aprende atu kuidadu ambiente.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/603/cover_603_tet.webp",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/603/603_tet.json",
+          "coverVersion": 100,
+          "contentVersion": 100,
+          "coverImageSize": 25,
+          "contentSize": 3,
+          "isBundled": false,
+          "tags": ["aldeia", "limpesa", "ambiente"]
+        }
+      }
+    },
+    {
+      "id": 605,
+      "level": 1,
+      "unlockStep": 1,
+      "category": "ENVIRONMENT",
+      "countryOfOrigin": "ko",
+      "aiFeatures": ["VOCABULARY", "MISSIONS"],
+      "imageAssetsUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/605/605_images.zip",
+      "imageAssetsVersion": 100,
+      "imageAssetsSize": 616,
+      "languages": {
+        "ko": {
+          "title": "레레의 바다 여행",
+          "summary": "동티모르의 바다에서 태어난 아기 거북이 레레의 모험을 통해 바다 오염과 해양 보호의 중요성을 배우는 이야기입니다.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/605/cover_605_ko.webp",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/605/605_ko.json",
+          "coverVersion": 100,
+          "contentVersion": 100,
+          "coverImageSize": 19,
+          "contentSize": 4,
+          "isBundled": false,
+          "tags": ["바다", "거북이", "환경", "해양오염"]
+        },
+        "en": {
+          "title": "Lele's Ocean Journey",
+          "summary": "The story of Lele, a baby turtle in Timor-Leste, who faces ocean trash and learns how people can protect the sea.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/605/cover_605_en.webp",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/605/605_en.json",
+          "coverVersion": 100,
+          "contentVersion": 100,
+          "coverImageSize": 20,
+          "contentSize": 4,
+          "isBundled": false,
+          "tags": ["ocean", "turtle", "pollution", "protection"]
+        },
+        "tet": {
+          "title": "Viajen Lele nian iha Tasi",
+          "summary": "Istória kona-ba lenuk ki'ik Lele iha tasi Timor-Leste nian, ne'ebé hasoru lixu iha tasi no aprende kona-ba proteje tasi.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/605/cover_605_tet.webp",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/605/605_tet.json",
+          "coverVersion": 100,
+          "contentVersion": 100,
+          "coverImageSize": 20,
+          "contentSize": 4,
+          "isBundled": false,
+          "tags": ["tasi", "lenuk", "lixu", "proteje natureza"]
+        }
+      }
+    },
+    {
+      "id": 606,
+      "level": 1,
+      "unlockStep": 1,
+      "category": "ENVIRONMENT",
+      "countryOfOrigin": "ko",
+      "aiFeatures": ["VOCABULARY", "MISSIONS"],
+      "imageAssetsUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/606/606_images.zip",
+      "imageAssetsVersion": 100,
+      "imageAssetsSize": 1407,
+      "languages": {
+        "ko": {
+          "title": "토코의 반짝이는 아이디어 상자",
+          "summary": "재활용과 업사이클링을 통해 버려진 물건을 새롭게 만드는 토코의 아이디어를 담은 이야기입니다.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/606/cover_606_ko.webp",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/606/606_ko.json",
+          "coverVersion": 100,
+          "contentVersion": 100,
+          "coverImageSize": 61,
+          "contentSize": 5,
+          "isBundled": false,
+          "tags": ["재활용", "창의력", "환경"]
+        },
+        "en": {
+          "title": "Toko's Sparkling Idea Box",
+          "summary": "A creative story about Toko, who turns discarded items into fun and useful things through recycling and upcycling.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/606/cover_606_en.webp",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/606/606_en.json",
+          "coverVersion": 100,
+          "contentVersion": 100,
+          "coverImageSize": 60,
+          "contentSize": 5,
+          "isBundled": false,
+          "tags": ["recycling", "creativity", "environment"]
+        },
+        "tet": {
+          "title": "Caixa Ideia Toko nian ne'ebé Nabilan",
+          "summary": "Istória kona-ba Toko ne'ebé transforma buat soe tiha ona sai buat foun kreativu liuhosi resikla no reutilizasaun.",
+          "coverImageUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/606/cover_606_tet.webp",
+          "contentUrl": "https://raw.githubusercontent.com/choe-yujin/storybook-assets/master/books/606/606_tet.json",
+          "coverVersion": 100,
+          "contentVersion": 100,
+          "coverImageSize": 61,
+          "contentSize": 5,
+          "isBundled": false,
+          "tags": ["resikla", "ideia", "ambiente"]
         }
       }
     }

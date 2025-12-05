@@ -1,0 +1,109 @@
+{
+  "bookId": 603,
+  "language": "en",
+  "title": "Our Clean Village",
+  "summary": "This book teaches the importance of keeping our surroundings clean. By working together, we can create a happy and healthy community.",
+  "pages": [
+    {
+      "pageNumber": 0,
+      "texts": ["Our Clean Village"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 1,
+      "texts": ["Good morning!"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 2,
+      "texts": ["There is a lot of trash on the street."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 3,
+      "texts": ["Let's clean up together!"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 4,
+      "texts": ["Throw trash in the trash can."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 5,
+      "texts": ["Let's clean our school, too."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 6,
+      "texts": ["Some trash should be collected together."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 7,
+      "texts": ["Plastic trash should be put in a separate bin."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 8,
+      "texts": ["Food waste should also be separated."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 9,
+      "texts": ["Do not throw trash anywhere you want."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 10,
+      "texts": ["A clean neighborhood, a happy life."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 11,
+      "texts": ["Let's take care of our environment."],
+      "pageType": "SPLIT"
+    }
+  ],
+  "comprehensionChecks": {
+    "preQuestions": [
+      {
+        "question": "Why is cleaning the village important?",
+        "keyConcepts": ["clean environment", "community", "health"]
+      }
+    ],
+    "postQuestions": [
+      {
+        "question": "How can we keep our surroundings clean every day?",
+        "keyConcepts": ["trash sorting", "clean habits", "teamwork"]
+      }
+    ]
+  },
+  "missions": [
+    {
+      "title": "Clean-Up Together",
+      "description": "Work with your friends to clean your classroom or village area and talk about how it felt.",
+      "type": "CREATIVE"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "environment",
+      "definition": "The place where we live, including land, water, air, and all living things.",
+      "pageNumber": 11
+    },
+    {
+      "word": "trash can",
+      "definition": "A container where you put waste or garbage.",
+      "pageNumber": 4
+    }
+  ],
+  "contributors": {
+    "Writer": ["Yuni"],
+    "Illustrator": ["Yuni"]
+  },
+  "sourceLanguage": "ko",
+  "license": "CC BY 4.0",
+  "copyrightHolder": "Teacher Yuni",
+  "copyright": "is licensed under CC BY 4.0 by Teacher Yuni"
+}

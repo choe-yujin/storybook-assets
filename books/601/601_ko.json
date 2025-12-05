@@ -1,0 +1,114 @@
+{
+  "bookId": 601,
+  "language": "ko",
+  "title": "물을 아껴 써요",
+  "summary": "이 책은 물의 소중함을 알려줍니다. 사람들이 함께 힘을 모아 물을 아껴 쓰고 지키는 방법을 배우며, 물 한 방울의 가치에 대해 생각해보게 합니다.",
+  "pages": [
+    {
+      "pageNumber": 0,
+      "texts": ["물을 아껴써요"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 1,
+      "texts": ["물은 우리 모두에게 아주 소중한 친구예요."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 2,
+      "texts": ["나무도, 꽃도, 우리 몸도 모두 물이 필요하죠."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 3,
+      "texts": ["하지만 어떤 곳에서는 물을 쉽게 만날 수 없어요."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 4,
+      "texts": ["그래서 동티모르 친구들은 물을 얻기 위해 함께 노력해요."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 5,
+      "texts": ["때로는 마을 사람들이 큰 우물에서 힘을 모아 물을 길어 올린답니다."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 6,
+      "texts": ["그래서 물 한 방울, 한 방울이 정말 귀하답니다."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 7,
+      "texts": ["이를 닦을 때나 손을 씻을 때, 물을 아껴 써야 해요."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 8,
+      "texts": ["수도꼭지를 잠그는 것을 잊지 마세요."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 9,
+      "texts": ["깨끗한 물을 아껴 쓰고 다시 사용할 방법을 생각해봐요."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 10,
+      "texts": ["깨끗한 물은 우리를 건강하고 튼튼하게 만들어 줘요."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 11,
+      "texts": ["우리 모두 물을 아끼고 소중히 지켜나가요."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 12,
+      "texts": ["그럼 우리 세상은 언제나 촉촉하고 생명으로 가득할 거예요."],
+      "pageType": "SPLIT"
+    }
+  ],
+  "comprehensionChecks": {
+    "preQuestions": [
+      {
+        "question": "물은 왜 우리에게 소중할까요?",
+        "keyConcepts": ["물", "생명", "자연"]
+      }
+    ],
+    "postQuestions": [
+      {
+        "question": "우리가 일상에서 물을 아끼는 방법에는 무엇이 있을까요?",
+        "keyConcepts": ["물 절약", "수도꼭지 잠그기", "재사용"]
+      }
+    ]
+  },
+  "missions": [
+    {
+      "title": "물 절약 약속하기",
+      "description": "집이나 학교에서 물을 아껴 쓸 수 있는 방법을 한 가지 정하고, 친구들에게 알려주세요.",
+      "type": "CREATIVE"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "소중하다",
+      "definition": "귀하고 중요하여 함부로 할 수 없는 상태를 말합니다.",
+      "pageNumber": 1
+    },
+    {
+      "word": "수도꼭지",
+      "definition": "물의 흐름을 조절하거나 멈추게 하는 도구입니다.",
+      "pageNumber": 8
+    }
+  ],
+  "contributors": {
+    "글": ["유니"],
+    "삽화": ["유니"]
+  },
+  "sourceLanguage": "ko",
+  "license": "CC BY 4.0",
+  "copyrightHolder": "Teacher Yuni",
+  "copyright": "is licensed under CC BY 4.0 by Teacher Yuni"
+}

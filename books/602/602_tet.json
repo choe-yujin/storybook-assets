@@ -1,0 +1,124 @@
+{
+  "bookId": 602,
+  "language": "tet",
+  "title": "Hananu Fini Oin-Oin",
+  "summary": "Livru nee koalia kona-ba fini oin-oin ne'ebé moris iha ita nia rai. Ita aprende kona-ba maneira atu kuidadu fini sira, atu sira moris forte no ajuda natureza hamutuk ho biodiversidade.",
+  "pages": [
+    {
+      "pageNumber": 0,
+      "texts": ["Hananu Fini Oin-Oin"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 1,
+      "texts": ["Iha ita nia rai, iha fini ki'ik barak."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 2,
+      "texts": ["Iha Timor-Leste, iha fini espesiál no furak tebes."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 3,
+      "texts": ["Fini hotu presiza ita kuidadu di'ak, atu sira bele moris forte."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 4,
+      "texts": ["Fó sira loro-matan manas no bee moos ho domin."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 5,
+      "texts": ["Hafoin ne'e, fini ki'ik sira sei sai modo no ai-fuan gostu."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 6,
+      "texts": ["Hanesan modo matak, ai-fuan mean, no trigu kinur."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 7,
+      "texts": ["Fini balu sai ai-funan furak, no fini balu sai ai-hun boot."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 8,
+      "texts": ["Tanba ai-horis oin-oin ne'e, ita bele hetan hahán saudavel no gostu."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 9,
+      "texts": ["Loron-loron ita bele prova gostu foun no hetan forsa atu moris forte."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 10,
+      "texts": ["Se fini sira ne'e lakon, ita sei la iha hahán barak atu han."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 11,
+      "texts": ["Importante tebes atu ai han oin-oin moris hamutuk ho ita."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 12,
+      "texts": ["Ne'e mak biodiversidade."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 13,
+      "texts": ["Mai ita hotu proteje no kuidadu fini folin boot sira ne'e."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 14,
+      "texts": ["Entaun, ita nia mundu sei sai saudavel no riku liután."],
+      "pageType": "SPLIT"
+    }
+  ],
+  "comprehensionChecks": {
+    "preQuestions": [
+      {
+        "question": "Tansá mak fini importante ba moris iha rai?",
+        "keyConcepts": ["fini", "plantas", "moris"]
+      }
+    ],
+    "postQuestions": [
+      {
+        "question": "Oinsa mak ita bele kuidadu no proteje fini sira?",
+        "keyConcepts": ["biodiversidade", "kuidadu natureza", "proteje moris"]
+      }
+    ]
+  },
+  "missions": [
+    {
+      "title": "Desenha Fini nia Viajen",
+      "description": "Desenha oinsa fini moris husi fini ki'ik to'o ai-hun boot, no fahe ho ita nia kolega sira.",
+      "type": "CREATIVE"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "fini",
+      "definition": "Objétu ki'ik ida ne'ebé bele moris sai planta foun.",
+      "pageNumber": 1
+    },
+    {
+      "word": "biodiversidade",
+      "definition": "Variedade de moris sira iha natureza, inklui plantas no animál sira.",
+      "pageNumber": 12
+    }
+  ],
+  "contributors": {
+    "Writer": ["Mestra Yuni"],
+    "Illustrator": ["Mestra Yuni"]
+  },
+  "sourceLanguage": "tet",
+  "license": "CC BY 4.0",
+  "copyrightHolder": "Mestra Yuni",
+  "copyright": "is licensed under CC BY 4.0 by Mestra Yuni"
+}

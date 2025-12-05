@@ -1,0 +1,109 @@
+{
+  "bookId": 605,
+  "language": "en",
+  "title": "Lele's Ocean Journey",
+  "summary": "This book tells the story of Lele, a baby turtle living in the ocean of Timor-Leste. It shows how ocean pollution harms sea life and how we can work together to protect the marine world.",
+  "pages": [
+    {
+      "pageNumber": 0,
+      "texts": ["Lele's Ocean Journey"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 1,
+      "texts": ["In the warm ocean of Timor-Leste, mysterious lives resided."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 2,
+      "texts": ["One day, a small egg wiggled, ready to hatch."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 3,
+      "texts": ["\"Hello, world!\" A tiny baby turtle, Lele, was born."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 4,
+      "texts": ["Lele bravely stepped towards the sparkling ocean. But strange pieces appeared on the way to the sea."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 5,
+      "texts": ["As Lele grew, the ocean became sadder. Colorful trash began to cover the sea."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 6,
+      "texts": ["\"Help me!\" Lele was trapped in dangerous trash."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 7,
+      "texts": ["Just then, friends who protect Timor-Leste's ocean appeared and rescued Lele."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 8,
+      "texts": ["\"We must all protect our ocean!\" They gathered strength and began to clean up the ocean's trash."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 9,
+      "texts": ["Lele healed her wounds and regained health with warm care."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 10,
+      "texts": ["\"Hello, ocean!\" Lele freely roamed the blue sea with her friends."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 11,
+      "texts": ["Let's all protect our precious ocean like Lele. Reduce plastic waste, and make the ocean clean!"],
+      "pageType": "SPLIT"
+    }
+  ],
+  "comprehensionChecks": {
+    "preQuestions": [
+      {
+        "question": "What kind of life does Lele live in the ocean?",
+        "keyConcepts": ["ocean", "turtle", "marine life"]
+      }
+    ],
+    "postQuestions": [
+      {
+        "question": "How can we protect our ocean from plastic waste?",
+        "keyConcepts": ["pollution", "protection", "clean sea"]
+      }
+    ]
+  },
+  "missions": [
+    {
+      "title": "Protect the Ocean",
+      "description": "Think of one way to reduce ocean trash and share your idea with your friends.",
+      "type": "CREATIVE"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "pollution",
+      "definition": "The act of making the environment dirty or harmful.",
+      "pageNumber": 5
+    },
+    {
+      "word": "marine",
+      "definition": "Related to the sea and the creatures that live in it.",
+      "pageNumber": 1
+    }
+  ],
+  "contributors": {
+    "Writer": ["Yuni"],
+    "Illustrator": ["Yuni"]
+  },
+  "sourceLanguage": "ko",
+  "license": "CC BY 4.0",
+  "copyrightHolder": "Teacher Yuni",
+  "copyright": "is licensed under CC BY 4.0 by Teacher Yuni"
+}

@@ -1,0 +1,114 @@
+{
+  "bookId": 601,
+  "language": "tet",
+  "title": "Kuidadu Bee",
+  "summary": "Livru nee hatudu kona-ba importánsia bee ba ita hotu. Nia hatudu oinsa ema sira bele hamutuk atu kuidadu no proteje bee, tanba bee ida-idak mak preziozu tebes.",
+  "pages": [
+    {
+      "pageNumber": 0,
+      "texts": ["Kuidadu Bee"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 1,
+      "texts": ["Bee mak belun importante tebes ba ita hotu."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 2,
+      "texts": ["Ai-hun, ai-funan, no ita nia isin hotu presiza bee."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 3,
+      "texts": ["Maibé, iha fatin balun, ita labele hetan bee ho fasil."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 4,
+      "texts": ["Tanba ne'e, kolega sira iha Timor-Leste hamutuk esforsu atu hetan bee."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 5,
+      "texts": ["Dala ruma, ema sira iha aldeia kuru bee hamutuk husi bee-matan boot."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 6,
+      "texts": ["Tanba ne'e, bee turuk ida-ida ne'e folin boot tebes."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 7,
+      "texts": ["Wainhira kose nehan ka fase liman, ita presiza uza bee ho matenek."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 8,
+      "texts": ["La haluha atu taka torneira bee nian."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 9,
+      "texts": ["Mai ita hanoin oinsá atu uza bee moos ho matenek no uza fali."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 10,
+      "texts": ["Bee moos halo ita saudavel no forte."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 11,
+      "texts": ["Mai ita hotu tau matan ba bee no proteje bee."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 12,
+      "texts": ["Entaun, ita nia mundu sei sai nakonu ho bee moris."],
+      "pageType": "SPLIT"
+    }
+  ],
+  "comprehensionChecks": {
+    "preQuestions": [
+      {
+        "question": "Tansá mak bee importante ba ita hotu?",
+        "keyConcepts": ["bee", "importánsia", "moris"]
+      }
+    ],
+    "postQuestions": [
+      {
+        "question": "Oinsa mak ita bele kuidadu bee iha loroloron?",
+        "keyConcepts": ["kuidadu bee", "torneira", "reutiliza"]
+      }
+    ]
+  },
+  "missions": [
+    {
+      "title": "Kuidadu Bee Desafiu",
+      "description": "Hanoin dalan ida atu foo susar bee iha uma. Fahe ho ita nia kolega sira.",
+      "type": "CREATIVE"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "bee",
+      "definition": "Líquidu importante ida ne'ebé ita presiza atu moris.",
+      "pageNumber": 1
+    },
+    {
+      "word": "torneira",
+      "definition": "Objétu ida atu taka ka loke bee mak sai husi kanao.",
+      "pageNumber": 8
+    }
+  ],
+  "contributors": {
+    "Writer": ["Mestra Yuni"],
+    "Illustrator": ["Mestra Yuni"]
+  },
+  "sourceLanguage": "tet",
+  "license": "CC BY 4.0",
+  "copyrightHolder": "Mestra Yuni",
+  "copyright": "is licensed under CC BY 4.0 by Mestra Yuni"
+}

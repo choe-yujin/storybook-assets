@@ -1,0 +1,114 @@
+{
+  "bookId": 601,
+  "language": "en",
+  "title": "Let's Save Water",
+  "summary": "This book teaches the importance of saving water. It shows how people work together to collect and use water carefully, reminding us that every drop is precious.",
+  "pages": [
+    {
+      "pageNumber": 0,
+      "texts": ["Let's Save Water"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 1,
+      "texts": ["Water is a very precious friend to all of us."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 2,
+      "texts": ["Trees, flowers, and our bodies all need water."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 3,
+      "texts": ["But in some places, it is not easy to find water."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 4,
+      "texts": ["That is why friends in Timor-Leste work together to get water."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 5,
+      "texts": ["Sometimes, people in the village gather at a big well to draw water together."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 6,
+      "texts": ["That is why every drop of water is truly precious."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 7,
+      "texts": ["We should save water when we brush our teeth or wash our hands."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 8,
+      "texts": ["Don’t forget to turn off the faucet."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 9,
+      "texts": ["Let’s think about how to save and reuse clean water."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 10,
+      "texts": ["Clean water keeps us healthy and strong."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 11,
+      "texts": ["Let’s all save water and protect it together."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 12,
+      "texts": ["Then our world will always be moist and full of life."],
+      "pageType": "SPLIT"
+    }
+  ],
+  "comprehensionChecks": {
+    "preQuestions": [
+      {
+        "question": "Why is water important for people, trees, and flowers?",
+        "keyConcepts": ["importance of water", "nature", "living things"]
+      }
+    ],
+    "postQuestions": [
+      {
+        "question": "How can we save water in our daily lives?",
+        "keyConcepts": ["water conservation", "turn off faucet", "reuse clean water"]
+      }
+    ]
+  },
+  "missions": [
+    {
+      "title": "Save Water Challenge",
+      "description": "Think of one way to reduce water waste at home and share it with your friends.",
+      "type": "CREATIVE"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "precious",
+      "definition": "Something that is very valuable and should not be wasted.",
+      "pageNumber": 1
+    },
+    {
+      "word": "faucet",
+      "definition": "A device that controls the flow of water from a pipe.",
+      "pageNumber": 8
+    }
+  ],
+  "contributors": {
+    "Writer": ["Yuni"],
+    "Illustrator": ["Yuni"]
+  },
+  "sourceLanguage": "ko",
+  "license": "CC BY 4.0",
+  "copyrightHolder": "Teacher Yuni",
+  "copyright": "is licensed under CC BY 4.0 by Teacher Yuni"
+}

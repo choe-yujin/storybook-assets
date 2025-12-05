@@ -1,0 +1,109 @@
+{
+  "bookId": 605,
+  "language": "tet",
+  "title": "Viajen Lele nian iha Tasi",
+  "summary": "Livru nee konta istória kona-ba Lele, lenuk ki'ik ida ne'ebé moris iha tasi Timor-Leste nian. Ita aprende kona-ba problema lixu iha tasi no oinsa mak ita bele proteje moris iha tasi.",
+  "pages": [
+    {
+      "pageNumber": 0,
+      "texts": ["Viajen Lele nian iha Tasi"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 1,
+      "texts": ["Iha tasi-ibun Timor-Leste ne'ebé manas, moris misteriozu sira hela."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 2,
+      "texts": ["Loron ida, manu-tolun kiik ida nakdoko, prontu atu moris."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 3,
+      "texts": ["\"Bondia, mundu!\" Lenuk kiik ida moris ona."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 4,
+      "texts": ["Lele hakat ho aten-barani ba tasi ne'ebé nabilan. Maibé, iha dalan ba tasi, mosu pedasu estranhu sira."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 5,
+      "texts": ["Lele boot daudaun, tasi sai triste liután. Lixu kór oioin hahú taka tasi."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 6,
+      "texts": ["\"Ajuda hau!\" Lele nakukun tiha ona iha lixu perigozu."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 7,
+      "texts": ["Iha tempu ne'ebá, belun sira ne'ebé proteje tasi Timor-Leste nian mosu no salva Lele."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 8,
+      "texts": ["\"Ita hotu tenke proteje ita nia tasi!\" Sira halibur forsa no hahú hamoos lixu iha tasi."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 9,
+      "texts": ["Lele kura nia kanek no hetan fali nia saúde ho kuidadu diak."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 10,
+      "texts": ["\"Bondia, tasi!\" Lele halai-halai livre iha tasi azúl ho nia belun sira."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 11,
+      "texts": ["Ita hotu-hotu tenke proteje ita nia tasi valiozu hanesan Lele. Hamenus lixu plástiku, no halo tasi moos!"],
+      "pageType": "SPLIT"
+    }
+  ],
+  "comprehensionChecks": {
+    "preQuestions": [
+      {
+        "question": "Sá mak istória ida nee koalia kona-ba?",
+        "keyConcepts": ["tasi", "lenuk", "moris iha tasi"]
+      }
+    ],
+    "postQuestions": [
+      {
+        "question": "Oinsa mak ita bele ajuda atu hamenus lixu iha tasi?",
+        "keyConcepts": ["proteje tasi", "plástiku", "limpesa tasi"]
+      }
+    ]
+  },
+  "missions": [
+    {
+      "title": "Proteje Tasi",
+      "description": "Hanoin dalan ida atu hamenus lixu iha tasi no fahe ho ita nia kolega sira.",
+      "type": "CREATIVE"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "tasi",
+      "definition": "Bee boot ida ne'ebé halo parte hosi mundo nian no iha moris barak.",
+      "pageNumber": 1
+    },
+    {
+      "word": "lixu",
+      "definition": "Materiál sira ne'ebé labele uza tan no presiza hamoos.",
+      "pageNumber": 5
+    }
+  ],
+  "contributors": {
+    "Writer": ["Mestra Yuni"],
+    "Illustrator": ["Mestra Yuni"]
+  },
+  "sourceLanguage": "tet",
+  "license": "CC BY 4.0",
+  "copyrightHolder": "Mestra Yuni",
+  "copyright": "is licensed under CC BY 4.0 by Mestra Yuni"
+}

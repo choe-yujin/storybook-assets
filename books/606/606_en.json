@@ -1,0 +1,119 @@
+{
+  "bookId": 606,
+  "language": "en",
+  "title": "Toko's Sparkling Idea Box",
+  "summary": "This book introduces Toko, a creative child who transforms discarded items into useful and fun creations. It inspires readers to reuse and recycle to protect our planet while having fun.",
+  "pages": [
+    {
+      "pageNumber": 0,
+      "texts": ["Toko's Sparkling Idea Box"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 1,
+      "texts": ["Hi! My name is Toko. My house is full of very special things! Wonderful things I made myself!"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 2,
+      "texts": ["Ta-da! Guess what this is? It's a chair I made! I collected clean, discarded plastic bottles and connected them firmly. It's really comfortable and cool, isn't it?"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 3,
+      "texts": ["My yard is like a playground I made! I transformed old tires to make a fun swing and use them as flowerpots for pretty flowers!"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 4,
+      "texts": ["And this is my mom's handiwork! She weaves coconut leaves to make these strong and beautiful bags! Isn't it amazing?"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 5,
+      "texts": ["Organizing my desk is no problem either! I used discarded cans to make these cool pencil holders and pencil cases!"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 6,
+      "texts": ["I don't just throw away empty drink cartons either. If you wash them clean and dry them well…"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 7,
+      "texts": ["You can make sturdy book stands or small boxes like this! I really like that it saves paper."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 8,
+      "texts": ["There's no need to throw away clothes you don't wear anymore! They can be reborn as pretty dolls or small bags!"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 9,
+      "texts": ["There's no need to throw away clothes you don't wear anymore! They can be reborn as pretty dolls or small bags!"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 10,
+      "texts": ["You can carefully collect broken glass pieces and make beautiful decorations. Don't they sparkle beautifully in the sunlight?"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 11,
+      "texts": ["Our house is full of sparkling ideas! Isn't it amazing how discarded items can be reborn so wonderfully?"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 12,
+      "texts": ["Do you have any great recycling ideas?"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 13,
+      "texts": ["If we all look closely around us, we can turn discarded trash into wonderful treasures! A sparkling idea just came to your mind too, didn't it? Let's create something exciting together!"],
+      "pageType": "SPLIT"
+    }
+  ],
+  "comprehensionChecks": {
+    "preQuestions": [
+      {
+        "question": "What kind of creative things does Toko make?",
+        "keyConcepts": ["recycling", "reuse", "creative ideas"]
+      }
+    ],
+    "postQuestions": [
+      {
+        "question": "How can we reuse or recycle things at home?",
+        "keyConcepts": ["recycling", "eco habits", "creativity"]
+      }
+    ]
+  },
+  "missions": [
+    {
+      "title": "Create Your Own Idea Box",
+      "description": "Find something you don’t use anymore and turn it into something new. Share your idea with friends!",
+      "type": "CREATIVE"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "recycle",
+      "definition": "To use waste or old materials to make something new.",
+      "pageNumber": 13
+    },
+    {
+      "word": "discarded",
+      "definition": "Something thrown away because it’s no longer wanted or needed.",
+      "pageNumber": 2
+    }
+  ],
+  "contributors": {
+    "Writer": ["Yuni"],
+    "Illustrator": ["Yuni"]
+  },
+  "sourceLanguage": "ko",
+  "license": "CC BY 4.0",
+  "copyrightHolder": "Teacher Yuni",
+  "copyright": "is licensed under CC BY 4.0 by Teacher Yuni"
+}

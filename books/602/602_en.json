@@ -1,0 +1,124 @@
+{
+  "bookId": 602,
+  "language": "en",
+  "title": "The Song of Many Seeds",
+  "summary": "This book celebrates the many seeds living in our world. It shows how caring for seeds helps them grow into plants, fruits, and trees, teaching the importance of biodiversity.",
+  "pages": [
+    {
+      "pageNumber": 0,
+      "texts": ["The Song of Many Seeds"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 1,
+      "texts": ["There are many tiny seeds living in our land."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 2,
+      "texts": ["In Timor-Leste, there are special and beautiful seeds breathing quietly."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 3,
+      "texts": ["Every seed needs our care to grow strong."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 4,
+      "texts": ["Give them warm sunlight, clean water, and lots of love."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 5,
+      "texts": ["Then, the little seeds will grow into delicious vegetables and fruits."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 6,
+      "texts": ["Some become green vegetables, some become red fruits, and some become yellow grains."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 7,
+      "texts": ["Some seeds bloom into wonderful flowers, and some become big trees."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 8,
+      "texts": ["Thanks to these many plants, we can enjoy healthy and tasty food."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 9,
+      "texts": ["Every day, we taste new flavors and get the strength to grow healthy."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 10,
+      "texts": ["If we lose these precious seeds, we will have less food to eat."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 11,
+      "texts": ["It is very important that many kinds of life live together around us."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 12,
+      "texts": ["This is called biodiversity."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 13,
+      "texts": ["Let’s all protect and take care of these precious seeds."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 14,
+      "texts": ["Then our world will become even healthier and richer."],
+      "pageType": "SPLIT"
+    }
+  ],
+  "comprehensionChecks": {
+    "preQuestions": [
+      {
+        "question": "Why are seeds important for life on Earth?",
+        "keyConcepts": ["seeds", "plants", "growth"]
+      }
+    ],
+    "postQuestions": [
+      {
+        "question": "What can we do to protect seeds and biodiversity?",
+        "keyConcepts": ["biodiversity", "care for nature", "protect life"]
+      }
+    ]
+  },
+  "missions": [
+    {
+      "title": "Draw a Seed’s Journey",
+      "description": "Draw how a seed grows into a plant or tree and share it with your friends.",
+      "type": "CREATIVE"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "seed",
+      "definition": "A small part of a plant that can grow into a new plant.",
+      "pageNumber": 1
+    },
+    {
+      "word": "biodiversity",
+      "definition": "The variety of living things in nature, including plants and animals.",
+      "pageNumber": 12
+    }
+  ],
+  "contributors": {
+    "Writer": ["Yuni"],
+    "Illustrator": ["Yuni"]
+  },
+  "sourceLanguage": "ko",
+  "license": "CC BY 4.0",
+  "copyrightHolder": "Teacher Yuni",
+  "copyright": "is licensed under CC BY 4.0 by Teacher Yuni"
+}

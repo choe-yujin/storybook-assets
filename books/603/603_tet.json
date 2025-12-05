@@ -1,0 +1,109 @@
+{
+  "bookId": 603,
+  "language": "tet",
+  "title": "Ami Nia Hela Fatin Moos",
+  "summary": "Livru nee ensina kona-ba importancia atu hamoos ita nia arredor. Bainhira ita servisu hamutuk, ita bele halo ita nia komunidade sai di'ak no saudavel.",
+  "pages": [
+    {
+      "pageNumber": 0,
+      "texts": ["Ami Nia Hela Fatin Moos"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 1,
+      "texts": ["Bondia!"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 2,
+      "texts": ["Foer barak iha estrada."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 3,
+      "texts": ["Mai ita hamoos hamutuk!"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 4,
+      "texts": ["Foti foer tau ba lixu fatin."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 5,
+      "texts": ["Hamoos ita nia eskola halo moos."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 6,
+      "texts": ["Foer balun tenke tau hamutuk."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 7,
+      "texts": ["Foer plástiku tenke tau hamutuk iha lixu fatin seluk."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 8,
+      "texts": ["hahán restu tenke tau hamutuk."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 9,
+      "texts": ["Labele soe foer arbiru."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 10,
+      "texts": ["Hela fatin moos, moris kontente."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 11,
+      "texts": ["Kuidadu ita nia ambiente."],
+      "pageType": "SPLIT"
+    }
+  ],
+  "comprehensionChecks": {
+    "preQuestions": [
+      {
+        "question": "Tansá mak ita presiza hamoos ita nia vila?",
+        "keyConcepts": ["limpesa", "komunidade", "saude"]
+      }
+    ],
+    "postQuestions": [
+      {
+        "question": "Oinsa mak ita bele ajuda atu kontinua hamoos ita nia ambiente?",
+        "keyConcepts": ["limpesa", "trabalhu hamutuk", "kuidadu natureza"]
+      }
+    ]
+  },
+  "missions": [
+    {
+      "title": "Hamoos Hamutuk",
+      "description": "Hamoos sala ka aldeia ho ita nia kolega sira, depois konta oinsa ita senti.",
+      "type": "CREATIVE"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ambiente",
+      "definition": "Fatin ne'ebé ema hela, inklui rai, bee, udara, no moris sira hotu.",
+      "pageNumber": 11
+    },
+    {
+      "word": "lixu fatin",
+      "definition": "Tina ida atu tau foer.",
+      "pageNumber": 4
+    }
+  ],
+  "contributors": {
+    "Writer": ["Mestra Yuni"],
+    "Illustrator": ["Mestra Yuni"]
+  },
+  "sourceLanguage": "tet",
+  "license": "CC BY 4.0",
+  "copyrightHolder": "Mestra Yuni",
+  "copyright": "is licensed under CC BY 4.0 by Mestra Yuni"
+}

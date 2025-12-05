@@ -1,0 +1,124 @@
+{
+  "bookId": 602,
+  "language": "ko",
+  "title": "다양한 씨앗들의 노래",
+  "summary": "이 책은 여러 종류의 씨앗과 그 속에 담긴 생명의 다양성을 이야기합니다. 씨앗을 돌보며 자연과 함께 살아가는 방법을 배우고, 생물 다양성의 중요성을 느낄 수 있습니다.",
+  "pages": [
+    {
+      "pageNumber": 0,
+      "texts": ["다양한 씨앗들의 노래"],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 1,
+      "texts": ["우리 땅에는 아주 작은 씨앗들이 살고 있어요."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 2,
+      "texts": ["동티모르에는 특별하고 아름다운 씨앗들이 숨 쉬고 있어요."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 3,
+      "texts": ["모든 씨앗은 우리가 잘 돌봐주어야 튼튼하게 자랄 수 있어요."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 4,
+      "texts": ["따뜻한 햇볕과 깨끗한 물을 주며 사랑으로 길러주세요."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 5,
+      "texts": ["그러면 작은 씨앗들은 자라서 맛있는 채소와 과일이 된답니다."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 6,
+      "texts": ["초록색 채소, 빨간색 과일, 노란색 곡식처럼요."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 7,
+      "texts": ["또 어떤 씨앗은 멋진 꽃을 피우고, 어떤 씨앗은 커다란 나무가 되지요."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 8,
+      "texts": ["우리는 이렇게 다양한 식물들 덕분에 건강하고 맛있는 먹거리를 얻을 수 있어요."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 9,
+      "texts": ["매일매일 새로운 맛을 보며 튼튼하게 자랄 힘을 얻는답니다."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 10,
+      "texts": ["만약 소중한 씨앗들이 사라진다면, 우리는 먹을 수 있는 것이 줄어들 거예요."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 11,
+      "texts": ["다양한 생명들이 우리 주변에 함께 사는 것이 정말 중요해요."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 12,
+      "texts": ["그것이 바로 생물 다양성이에요."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 13,
+      "texts": ["우리 모두 소중한 씨앗들을 지키고 잘 길러봐요."],
+      "pageType": "SPLIT"
+    },
+    {
+      "pageNumber": 14,
+      "texts": ["그럼 우리 세상은 더욱 건강하고 풍요로워질 거예요."],
+      "pageType": "SPLIT"
+    }
+  ],
+  "comprehensionChecks": {
+    "preQuestions": [
+      {
+        "question": "씨앗은 왜 우리에게 중요할까요?",
+        "keyConcepts": ["씨앗", "생명", "성장"]
+      }
+    ],
+    "postQuestions": [
+      {
+        "question": "우리가 씨앗과 자연을 지키기 위해 할 수 있는 일은 무엇일까요?",
+        "keyConcepts": ["생물 다양성", "자연 보호", "생명"]
+      }
+    ]
+  },
+  "missions": [
+    {
+      "title": "씨앗의 여정을 그려요",
+      "description": "씨앗이 자라서 식물이나 나무가 되는 모습을 그림으로 표현해 보세요.",
+      "type": "CREATIVE"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "씨앗",
+      "definition": "식물이 번식할 수 있도록 만든 아주 작은 생명의 시작.",
+      "pageNumber": 1
+    },
+    {
+      "word": "생물 다양성",
+      "definition": "지구에 존재하는 여러 생명체들이 다양하게 살아가는 것.",
+      "pageNumber": 12
+    }
+  ],
+  "contributors": {
+    "글": ["유니"],
+    "삽화": ["유니"]
+  },
+  "sourceLanguage": "ko",
+  "license": "CC BY 4.0",
+  "copyrightHolder": "Teacher Yuni",
+  "copyright": "is licensed under CC BY 4.0 by Teacher Yuni"
+}
